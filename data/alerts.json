@@ -1,6 +1,20 @@
 [
  {
   "tipo": "preco",
+  "titulo": "Miami (GRU-MIA) por R$ 1596",
+  "detalhe": "Avianca, 1 parada(s), voo 2026-09-15. Motivo: abaixo do teto de R$ 2000.",
+  "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20MIA%20on%202026-09-15",
+  "criado_em": "2026-07-17T11:00:03+00:00"
+ },
+ {
+  "tipo": "preco",
+  "titulo": "Buenos Aires (GRU-EZE) por R$ 824",
+  "detalhe": "LATAM, 0 parada(s), voo 2026-09-15. Motivo: 25% abaixo da mediana historica (R$ 1099).",
+  "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20EZE%20on%202026-09-15",
+  "criado_em": "2026-07-17T11:00:03+00:00"
+ },
+ {
+  "tipo": "preco",
   "titulo": "Cancún (GRU-CUN) por R$ 1260",
   "detalhe": "COPA, 1 parada(s), voo 2026-08-16. Motivo: abaixo do teto de R$ 1300.",
   "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20CUN%20on%202026-08-16",
