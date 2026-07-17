@@ -1,0 +1,27 @@
+{
+ "gerado_em": "2026-07-17T02:36:07+00:00",
+ "duracao_s": 45.9,
+ "alertas_na_rodada": 0,
+ "fontes": {
+  "precos": {
+   "ok": true,
+   "itens": 18,
+   "erros": []
+  },
+  "rss": {
+   "ok": true,
+   "itens": 10,
+   "erros": []
+  },
+  "telegram": {
+   "ok": true,
+   "itens": 60,
+   "erros": []
+  },
+  "bonus": {
+   "ok": true,
+   "itens": 0
+  },
+  "webhook": "desligado"
+ }
+}

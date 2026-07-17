@@ -1,0 +1,19 @@
+{
+  "rotas": [
+    { "de": "GRU", "para": "LIS", "nome": "Lisboa", "teto_brl": 3000 },
+    { "de": "GRU", "para": "MIA", "nome": "Miami", "teto_brl": 2000 },
+    { "de": "GRU", "para": "MCO", "nome": "Orlando", "teto_brl": 1700 },
+    { "de": "GRU", "para": "EZE", "nome": "Buenos Aires", "teto_brl": 800 },
+    { "de": "GRU", "para": "SCL", "nome": "Santiago", "teto_brl": 800 },
+    { "de": "GRU", "para": "CUN", "nome": "Cancún", "teto_brl": 1300 }
+  ],
+  "horizontes_dias": [30, 60, 90],
+  "cabine": "economy",
+  "alerta": {
+    "queda_percentual_minima": 25,
+    "minimo_pontos_historico": 5,
+    "bonus_minimo_pct": 80
+  },
+  "canais_telegram": ["melhoresdestinos", "canalpontospravoar", "promopassagens"],
+  "rss": ["https://www.melhoresdestinos.com.br/feed"]
+}

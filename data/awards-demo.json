@@ -1,0 +1,53 @@
+{
+  "aviso": "DADOS DE EXEMPLO. Esta secao mostra o formato real da Partner API do seats.aero, mas com valores ficticios. Assine o seats.aero Pro e configure SEATS_AERO_KEY para dados reais.",
+  "disponibilidades": [
+    {
+      "rota": "GRU-LIS",
+      "nome": "Lisboa",
+      "programa": "Smiles",
+      "cia": "TAP Air Portugal",
+      "cabine": "Executiva",
+      "milhas": 110000,
+      "taxas_brl": 480,
+      "assentos": 2,
+      "data_voo": "2026-09-14",
+      "exemplo": true
+    },
+    {
+      "rota": "GRU-MCO",
+      "nome": "Orlando",
+      "programa": "TudoAzul",
+      "cia": "Azul",
+      "cabine": "Economica",
+      "milhas": 60000,
+      "taxas_brl": 210,
+      "assentos": 4,
+      "data_voo": "2026-10-02",
+      "exemplo": true
+    },
+    {
+      "rota": "GRU-CDG",
+      "nome": "Paris",
+      "programa": "Flying Blue",
+      "cia": "Air France",
+      "cabine": "Executiva",
+      "milhas": 125000,
+      "taxas_brl": 950,
+      "assentos": 1,
+      "data_voo": "2026-11-20",
+      "exemplo": true
+    },
+    {
+      "rota": "GIG-YYZ",
+      "nome": "Toronto",
+      "programa": "Aeroplan",
+      "cia": "Air Canada",
+      "cabine": "Executiva",
+      "milhas": 87500,
+      "taxas_brl": 320,
+      "assentos": 3,
+      "data_voo": "2026-09-28",
+      "exemplo": true
+    }
+  ]
+}
