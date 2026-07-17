@@ -28,8 +28,8 @@ function Sparkline({ pontos }: { pontos: number[] }) {
   const last = xy[xy.length - 1];
   return (
     <svg className="spark" width="100%" height={h} viewBox={`0 0 ${w} ${h}`} preserveAspectRatio="none" role="img" aria-label="histórico de preços">
-      <path d={d} fill="none" stroke="var(--green)" strokeWidth="1.8" strokeLinecap="round" />
-      <circle cx={last[0]} cy={last[1]} r="2.6" fill="var(--green)" />
+      <path d={d} fill="none" stroke="#5d2a1a" strokeWidth="1.6" strokeLinecap="round" />
+      <circle cx={last[0]} cy={last[1]} r="2.6" fill="#5d2a1a" />
     </svg>
   );
 }
@@ -63,7 +63,7 @@ function RouteCard({ grupo, historico }: { grupo: Snapshot[]; historico: History
       <div className="route-top">
         <div>
           <div className="dest">
-            {ref.nome}{" "}
+            {ref.nome}
             {veredito && <span className={`badge ${veredito.classe}`}>{veredito.rotulo}</span>}
           </div>
           <div className="code mono">
@@ -103,10 +103,30 @@ function RouteCard({ grupo, historico }: { grupo: Snapshot[]; historico: History
           )}
         </span>
         <a href={melhor.link} target="_blank" rel="noreferrer">
-          conferir no Google Flights ↗
+          conferir no Google Flights →
         </a>
       </div>
     </article>
+  );
+}
+
+function SecHead({
+  tag,
+  titulo,
+  hint,
+}: {
+  tag: string;
+  titulo: string;
+  hint: string;
+}) {
+  return (
+    <div className="sec-head">
+      <div>
+        <div className="sec-tag">{tag}</div>
+        <h3>{titulo}</h3>
+      </div>
+      <span className="hint">{hint}</span>
+    </div>
   );
 }
 
@@ -125,250 +145,265 @@ export default function Home() {
   const fontes = (meta.fontes ?? {}) as Record<string, { ok?: boolean }>;
 
   return (
-    <main className="wrap">
-      <div className="topbar">
-        <div className="brand">
-          <div className="brand-mark">✈</div>
-          <div>
+    <main>
+      <div className="wrap">
+        <div className="topbar">
+          <div className="brand">
+            <span className="brand-glyph">✈</span>
             <h1>
               Emerson <span>Flights</span>
             </h1>
-            <p>o robô que vigia passagem barata por você</p>
+          </div>
+          <div className="status-line">
+            <span className={`dot${fontes.precos?.ok ? "" : " off"}`}>Google Flights</span>
+            <span className={`dot${fontes.rss?.ok ? "" : " off"}`}>Melhores Destinos</span>
+            <span className={`dot${fontes.telegram?.ok ? "" : " off"}`}>Telegram</span>
+            <span className="mono">última varredura {horaSp(meta.gerado_em)}</span>
           </div>
         </div>
-        <div className="status-line">
-          <span className={`dot${fontes.precos?.ok ? "" : " off"}`}>Google Flights</span>
-          <span className={`dot${fontes.rss?.ok ? "" : " off"}`}>Melhores Destinos</span>
-          <span className={`dot${fontes.telegram?.ok ? "" : " off"}`}>Telegram</span>
-          <span className="mono">última varredura {horaSp(meta.gerado_em)}</span>
-        </div>
-      </div>
 
-      <div className="explainer">
-        <strong>Como funciona:</strong> a cada 3 horas um robô consulta o Google Flights e anota o
-        menor preço de passagem <strong>só ida, em classe econômica, para 1 adulto</strong>, saindo
-        de São Paulo (GRU) para {grupos.size || 6} destinos. Ele também lê os maiores canais de
-        promoção de passagens e milhas do Brasil. Quando encontra preço abaixo do considerado barato
-        pra rota, acende um alerta. Você não precisa fazer nada: o site se atualiza sozinho.
-      </div>
-
-      <details className="glossario">
-        <summary>Novo por aqui? Entenda os termos em 1 minuto</summary>
-        <dl>
-          <dt>Preço bom, normal ou acima do normal</dt>
-          <dd>
-            Cada destino tem um valor de referência do que é "barato" (ex.: Lisboa abaixo de R$
-            3.000). O selo verde significa que vale a pena olhar agora.
-          </dd>
-          <dt>Milhas</dt>
-          <dd>
-            Pontos de programas de fidelidade (Smiles, TudoAzul, Latam Pass) que trocam por
-            passagem. Emitir com milhas costuma ser o único jeito de voar de executiva sem pagar
-            R$ 15 mil ou mais.
-          </dd>
-          <dt>Econômica x executiva</dt>
-          <dd>
-            Econômica é a classe comum. Executiva é a premium, com assento que vira cama. O radar
-            de preços acompanha a econômica em dinheiro; a seção de milhas é onde executiva barata
-            aparece.
-          </dd>
-          <dt>Bônus de transferência</dt>
-          <dd>
-            Promoção em que os pontos do banco ou cartão (Livelo, Esfera) rendem mais ao serem
-            transferidos pra companhia aérea. Com 100% de bônus, 10 mil pontos viram 20 mil milhas,
-            ou seja, sua passagem sai pela metade dos pontos.
-          </dd>
-          <dt>Varredura</dt>
-          <dd>Cada rodada do robô, de 3 em 3 horas. O horário da última aparece no topo.</dd>
-        </dl>
-      </details>
-
-      <div className="kpis">
-        <div className="kpi">
-          <div className="label">Passagem mais barata agora</div>
-          <div className="value mono">
-            {menorTarifa ? brl(menorTarifa.preco) : "..."}{" "}
-            {menorTarifa && <small>pra {menorTarifa.nome}</small>}
-          </div>
-        </div>
-        <div className="kpi">
-          <div className="label">Destinos vigiados</div>
-          <div className="value mono">
-            {grupos.size} <small>em 3 datas cada</small>
-          </div>
-        </div>
-        <div className="kpi">
-          <div className="label">Avisos do robô</div>
-          <div className="value mono">{alerts.length}</div>
-        </div>
-        <div className="kpi">
-          <div className="label">Maior bônus de pontos</div>
-          <div className="value mono">{maiorBonus ? `${maiorBonus}%` : "nenhum"}</div>
-        </div>
-      </div>
-
-      <section>
-        <div className="sec-head">
+        <div className="hero">
           <h2>
-            <em>01</em> Radar de preços
+            O robô que vigia <em>passagem barata</em> por você.
           </h2>
-          <span className="hint">econômica · só ida · 1 adulto · saindo de GRU</span>
-        </div>
-        <p className="sec-desc">
-          O menor preço encontrado pra cada destino em três datas de viagem diferentes. Selo verde =
-          está barato pro padrão da rota, vale abrir o link e conferir. Clique em qualquer linha pra
-          ver o voo no Google Flights.
-        </p>
-        <div className="routes">
-          {[...grupos.values()].map((g) => (
-            <RouteCard key={g[0].rota} grupo={g} historico={history} />
-          ))}
-        </div>
-      </section>
-
-      <section>
-        <div className="sec-head">
-          <h2>
-            <em>02</em> Passagens com milhas
-          </h2>
-          <span className="hint">é aqui que a executiva barata aparece</span>
-        </div>
-        <p className="sec-desc">
-          Em vez de pagar em dinheiro, dá pra emitir passagem usando milhas. Esta seção mostra onde
-          há assento disponível pagando com milhas, inclusive em classe executiva, que em dinheiro
-          custaria R$ 15 mil ou mais. Exemplo de leitura: o card de Lisboa quer dizer "existem 2
-          assentos de executiva na TAP saindo por 110 mil milhas mais R$ 480 de taxas".
-        </p>
-        <div className="demo-banner">
-          <span className="badge demo">modo demo</span>
-          <span>
-            Os cards abaixo são exemplos fictícios, só pra você visualizar a interface. Ao assinar o
-            seats.aero Pro (US$ 9,99/mês), esta seção passa a mostrar disponibilidade real em
-            Smiles, TudoAzul, Flying Blue, Aeroplan e mais 20 programas.
-          </span>
-        </div>
-        <div className="awards">
-          {awards.disponibilidades.map((a) => (
-            <article className="award-card" key={`${a.rota}-${a.programa}`}>
-              <div className="prog">{a.programa} · exemplo</div>
-              <div className="rt">
-                {a.nome} <span className="mono" style={{ color: "var(--text-3)", fontSize: 12 }}>{a.rota}</span>
-              </div>
-              <div className="miles mono">
-                {numero(a.milhas)} <small>milhas + {brl(a.taxas_brl)}</small>
-              </div>
-              <div className="det">
-                {a.cia} · {a.cabine} · {a.assentos} assento{a.assentos > 1 ? "s" : ""} · voo{" "}
-                {dataVooCurta(a.data_voo)}
-              </div>
-            </article>
-          ))}
-        </div>
-      </section>
-
-      <section>
-        <div className="sec-head">
-          <h2>
-            <em>03</em> Bônus de pontos
-          </h2>
-          <span className="hint">detectado automaticamente nos canais de milhas</span>
-        </div>
-        <p className="sec-desc">
-          Se você tem pontos no banco ou cartão (Livelo, Esfera), estas promoções fazem eles
-          renderem mais na hora de virar milhas de companhia aérea. Regra de bolso: bônus de 80%
-          pra cima costuma valer a pena; abaixo disso, melhor esperar a próxima.
-        </p>
-        {bonus.length === 0 ? (
-          <div className="empty">nenhum bônus de transferência detectado nas últimas varreduras</div>
-        ) : (
-          bonus.slice(0, 8).map((b) => (
-            <a className="bonus-card" key={b.link} href={b.link} target="_blank" rel="noreferrer">
-              <div className="pct mono">{b.pct}%</div>
-              <div className="info">
-                <div className="progs">
-                  {[b.de, b.para].filter(Boolean).join(" → ") || "bônus de pontos"}
-                </div>
-                <div className="txt">{b.texto}</div>
-                <div className="when">
-                  {b.fonte} · {tempoRelativo(b.detectado_em)}
-                </div>
-              </div>
-            </a>
-          ))
-        )}
-      </section>
-
-      <div className="two-col">
-        <section>
-          <div className="sec-head">
-            <h2>
-              <em>04</em> Promoções publicadas
-            </h2>
-            <span className="hint">Melhores Destinos + canais de Telegram</span>
-          </div>
-          <p className="sec-desc">
-            O que os maiores sites e canais de promoção do Brasil publicaram nas últimas horas, tudo
-            num lugar só. Clique pra abrir a promoção original.
+          <p>
+            A cada 3 horas, um robô consulta o Google Flights e anota o menor preço de passagem{" "}
+            <strong>só ida, em classe econômica, para 1 adulto</strong>, saindo de São Paulo (GRU)
+            para {grupos.size || 6} destinos. Ele também lê os maiores canais de promoção de
+            passagens e milhas do Brasil. Quando encontra preço abaixo do considerado barato pra
+            rota, acende um alerta. Você não precisa fazer nada: o site se atualiza sozinho.
           </p>
-          <div className="feed">
-            {promos.slice(0, 14).map((p) => (
-              <a className="feed-item" key={p.link} href={p.link} target="_blank" rel="noreferrer">
-                <div className="src">
-                  <span className="tag">{p.tipo === "rss" ? "blog" : "telegram"}</span>
-                  <span>{p.fonte}</span>
-                  <span>{tempoRelativo(p.publicado_em)}</span>
-                </div>
-                <div className="tt">{p.titulo}</div>
-              </a>
+        </div>
+
+        <details className="glossario">
+          <summary>Novo por aqui? Entenda os termos em 1 minuto</summary>
+          <dl>
+            <dt>Preço bom, normal ou acima do normal</dt>
+            <dd>
+              Cada destino tem um valor de referência do que é "barato" (ex.: Lisboa abaixo de R$
+              3.000). O selo "preço bom agora" significa que vale a pena olhar já.
+            </dd>
+            <dt>Milhas</dt>
+            <dd>
+              Pontos de programas de fidelidade (Smiles, TudoAzul, Latam Pass) que trocam por
+              passagem. Emitir com milhas costuma ser o único jeito de voar de executiva sem pagar
+              R$ 15 mil ou mais.
+            </dd>
+            <dt>Econômica x executiva</dt>
+            <dd>
+              Econômica é a classe comum. Executiva é a premium, com assento que vira cama. O radar
+              de preços acompanha a econômica em dinheiro; a seção de milhas é onde executiva barata
+              aparece.
+            </dd>
+            <dt>Bônus de transferência</dt>
+            <dd>
+              Promoção em que os pontos do banco ou cartão (Livelo, Esfera) rendem mais ao serem
+              transferidos pra companhia aérea. Com 100% de bônus, 10 mil pontos viram 20 mil
+              milhas, ou seja, sua passagem sai pela metade dos pontos.
+            </dd>
+            <dt>Varredura</dt>
+            <dd>Cada rodada do robô, de 3 em 3 horas. O horário da última aparece no topo.</dd>
+          </dl>
+        </details>
+
+        <div className="kpis">
+          <div className="kpi">
+            <div className="label">Passagem mais barata agora</div>
+            <div className="value mono">
+              {menorTarifa ? brl(menorTarifa.preco) : "..."}{" "}
+              {menorTarifa && <small>pra {menorTarifa.nome}</small>}
+            </div>
+          </div>
+          <div className="kpi">
+            <div className="label">Destinos vigiados</div>
+            <div className="value mono">
+              {grupos.size} <small>em 3 datas cada</small>
+            </div>
+          </div>
+          <div className="kpi">
+            <div className="label">Avisos do robô</div>
+            <div className="value mono">{alerts.length}</div>
+          </div>
+          <div className="kpi">
+            <div className="label">Maior bônus de pontos</div>
+            <div className="value mono">{maiorBonus ? `${maiorBonus}%` : "nenhum"}</div>
+          </div>
+        </div>
+
+        <section className="last">
+          <SecHead
+            tag="01 · Radar"
+            titulo="Radar de preços"
+            hint="econômica · só ida · 1 adulto · saindo de GRU"
+          />
+          <p className="sec-desc">
+            O menor preço encontrado pra cada destino em três datas de viagem diferentes. O selo
+            "preço bom agora" significa que está barato pro padrão da rota, vale abrir o link e
+            conferir. Clique em qualquer linha pra ver o voo no Google Flights.
+          </p>
+          <div className="routes">
+            {[...grupos.values()].map((g) => (
+              <RouteCard key={g[0].rota} grupo={g} historico={history} />
             ))}
           </div>
         </section>
+      </div>
 
-        <section>
-          <div className="sec-head">
-            <h2>
-              <em>05</em> Avisos do robô
-            </h2>
-            <span className="hint">o resumo do que importa</span>
-          </div>
-          <p className="sec-desc">
-            Quando um preço fura o valor de referência ou aparece um bônus alto, o aviso entra aqui
-            (e futuramente chega no Telegram). Preço de passagem muda rápido: confira no link antes
-            de comemorar.
-          </p>
-          {alerts.length === 0 ? (
-            <div className="empty">nenhum aviso ainda, o robô segue de olho</div>
-          ) : (
-            <div className="feed">
-              {alerts.slice(0, 10).map((a, i) => (
-                <a className="alert-item" key={`${a.link}-${i}`} href={a.link} target="_blank" rel="noreferrer">
-                  <div className="a-title">
-                    <span className="k mono">{a.tipo === "preco" ? "R$" : "%"}</span>
-                    {a.titulo}
+      <div className="band">
+        <div className="wrap">
+          <section>
+            <SecHead
+              tag="02 · Milhas"
+              titulo="Passagens com milhas"
+              hint="é aqui que a executiva barata aparece"
+            />
+            <p className="sec-desc">
+              Em vez de pagar em dinheiro, dá pra emitir passagem usando milhas. Esta seção mostra
+              onde há assento disponível pagando com milhas, inclusive em classe executiva, que em
+              dinheiro custaria R$ 15 mil ou mais. Exemplo de leitura: o card de Lisboa quer dizer
+              "existem 2 assentos de executiva na TAP saindo por 110 mil milhas mais R$ 480 de
+              taxas".
+            </p>
+            <div className="demo-banner">
+              <span className="badge demo">modo demo</span>
+              <span>
+                Os cards abaixo são exemplos fictícios, só pra você visualizar a interface. Ao
+                assinar o seats.aero Pro (US$ 9,99/mês), esta seção passa a mostrar disponibilidade
+                real em Smiles, TudoAzul, Flying Blue, Aeroplan e mais 20 programas.
+              </span>
+            </div>
+            <div className="awards">
+              {awards.disponibilidades.map((a) => (
+                <article className="award-card" key={`${a.rota}-${a.programa}`}>
+                  <div className="prog">{a.programa} · exemplo</div>
+                  <div className="rt">
+                    {a.nome} <span className="code-sm mono">{a.rota}</span>
                   </div>
-                  <div className="a-det">{a.detalhe}</div>
-                  <div className="a-when">{tempoRelativo(a.criado_em)}</div>
-                </a>
+                  <div className="miles mono">
+                    {numero(a.milhas)} <small>milhas + {brl(a.taxas_brl)}</small>
+                  </div>
+                  <div className="det">
+                    {a.cia} · {a.cabine} · {a.assentos} assento{a.assentos > 1 ? "s" : ""} · voo{" "}
+                    {dataVooCurta(a.data_voo)}
+                  </div>
+                </article>
               ))}
             </div>
+          </section>
+        </div>
+      </div>
+
+      <div className="wrap">
+        <section className="last">
+          <SecHead
+            tag="03 · Bônus"
+            titulo="Bônus de pontos"
+            hint="detectado automaticamente nos canais de milhas"
+          />
+          <p className="sec-desc">
+            Se você tem pontos no banco ou cartão (Livelo, Esfera), estas promoções fazem eles
+            renderem mais na hora de virar milhas de companhia aérea. Regra de bolso: bônus de 80%
+            pra cima costuma valer a pena; abaixo disso, melhor esperar a próxima.
+          </p>
+          {bonus.length === 0 ? (
+            <div className="empty">nenhum bônus de transferência detectado nas últimas varreduras</div>
+          ) : (
+            bonus.slice(0, 8).map((b) => (
+              <a className="bonus-card" key={b.link} href={b.link} target="_blank" rel="noreferrer">
+                <div className="pct mono">{b.pct}%</div>
+                <div className="info">
+                  <div className="progs">
+                    {[b.de, b.para].filter(Boolean).join(" → ") || "bônus de pontos"}
+                  </div>
+                  <div className="txt">{b.texto}</div>
+                  <div className="when">
+                    {b.fonte} · {tempoRelativo(b.detectado_em)}
+                  </div>
+                </div>
+              </a>
+            ))
           )}
         </section>
       </div>
 
-      <footer>
-        <p>
-          <strong>Como funciona:</strong> um robô no GitHub Actions roda a cada 3 horas, sem servidor,
-          sem IA e sem custo: consulta o Google Flights em BRL, lê o RSS do Melhores Destinos e os
-          canais públicos de Telegram, grava o histórico no repositório e este site é reconstruído
-          automaticamente. Alertas podem ser roteados pro Telegram via n8n (webhook já embutido no coletor).
-        </p>
-        <p style={{ marginTop: 8 }}>
-          Fontes: Google Flights (biblioteca fast-flights), melhoresdestinos.com.br,
-          t.me/melhoresdestinos, t.me/canalpontospravoar, t.me/promopassagens. Preços de passagem são
-          da última varredura e podem mudar; confirme sempre no site da companhia. Projeto pessoal,
-          sem fins comerciais.
-        </p>
-      </footer>
+      <div className="band">
+        <div className="wrap">
+          <div className="two-col">
+            <section>
+              <SecHead
+                tag="04 · Promos"
+                titulo="Promoções publicadas"
+                hint="Melhores Destinos + Telegram"
+              />
+              <p className="sec-desc">
+                O que os maiores sites e canais de promoção do Brasil publicaram nas últimas horas,
+                tudo num lugar só. Clique pra abrir a promoção original.
+              </p>
+              <div className="feed">
+                {promos.slice(0, 14).map((p) => (
+                  <a className="feed-item" key={p.link} href={p.link} target="_blank" rel="noreferrer">
+                    <div className="src">
+                      <span className="tag">{p.tipo === "rss" ? "blog" : "telegram"}</span>
+                      <span>{p.fonte}</span>
+                      <span>{tempoRelativo(p.publicado_em)}</span>
+                    </div>
+                    <div className="tt">{p.titulo}</div>
+                  </a>
+                ))}
+              </div>
+            </section>
+
+            <section>
+              <SecHead tag="05 · Avisos" titulo="Avisos do robô" hint="o resumo do que importa" />
+              <p className="sec-desc">
+                Quando um preço fura o valor de referência ou aparece um bônus alto, o aviso entra
+                aqui (e futuramente chega no Telegram). Preço de passagem muda rápido: confira no
+                link antes de comemorar.
+              </p>
+              {alerts.length === 0 ? (
+                <div className="empty">nenhum aviso ainda, o robô segue de olho</div>
+              ) : (
+                <div className="feed">
+                  {alerts.slice(0, 10).map((a, i) => (
+                    <a
+                      className="alert-item"
+                      key={`${a.link}-${i}`}
+                      href={a.link}
+                      target="_blank"
+                      rel="noreferrer"
+                    >
+                      <div className="a-title">
+                        <span className="k">{a.tipo === "preco" ? "preço" : "bônus"}</span>
+                        {a.titulo}
+                      </div>
+                      <div className="a-det">{a.detalhe}</div>
+                      <div className="a-when">{tempoRelativo(a.criado_em)}</div>
+                    </a>
+                  ))}
+                </div>
+              )}
+            </section>
+          </div>
+        </div>
+      </div>
+
+      <div className="wrap">
+        <footer>
+          <p>
+            <strong>Como funciona:</strong> um robô no GitHub Actions roda a cada 3 horas, sem
+            servidor, sem IA e sem custo: consulta o Google Flights em BRL, lê o RSS do Melhores
+            Destinos e os canais públicos de Telegram, grava o histórico no repositório e este site
+            é reconstruído automaticamente. Alertas podem ser roteados pro Telegram via n8n (webhook
+            já embutido no coletor).
+          </p>
+          <p style={{ marginTop: 8 }}>
+            Fontes: Google Flights (biblioteca fast-flights), melhoresdestinos.com.br,
+            t.me/melhoresdestinos, t.me/canalpontospravoar, t.me/promopassagens. Preços de passagem
+            são da última varredura e podem mudar; confirme sempre no site da companhia. Projeto
+            pessoal, sem fins comerciais.
+          </p>
+        </footer>
+      </div>
     </main>
   );
 }

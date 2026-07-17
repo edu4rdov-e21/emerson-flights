@@ -1,16 +1,17 @@
 import type { Metadata } from "next";
-import { IBM_Plex_Mono, Space_Grotesk } from "next/font/google";
+import { Inter, Source_Serif_4 } from "next/font/google";
 import "./globals.css";
 
-const grotesk = Space_Grotesk({
+const sans = Inter({
   subsets: ["latin"],
-  variable: "--font-grotesk",
+  variable: "--font-sans",
 });
 
-const mono = IBM_Plex_Mono({
+const serif = Source_Serif_4({
   subsets: ["latin"],
-  weight: ["400", "500", "600"],
-  variable: "--font-mono",
+  style: ["normal", "italic"],
+  weight: ["400"],
+  variable: "--font-serif",
 });
 
 export const metadata: Metadata = {
@@ -25,7 +26,7 @@ export default function RootLayout({
   children: React.ReactNode;
 }) {
   return (
-    <html lang="pt-BR" className={`${grotesk.variable} ${mono.variable}`}>
+    <html lang="pt-BR" className={`${sans.variable} ${serif.variable}`}>
       <body>{children}</body>
     </html>
   );
