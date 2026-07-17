@@ -1,11 +1,11 @@
 {
   "rotas": [
-    { "de": "GRU", "para": "LIS", "nome": "Lisboa", "teto_brl": 3000 },
-    { "de": "GRU", "para": "MIA", "nome": "Miami", "teto_brl": 2000 },
-    { "de": "GRU", "para": "MCO", "nome": "Orlando", "teto_brl": 1700 },
-    { "de": "GRU", "para": "EZE", "nome": "Buenos Aires", "teto_brl": 800 },
-    { "de": "GRU", "para": "SCL", "nome": "Santiago", "teto_brl": 800 },
-    { "de": "GRU", "para": "CUN", "nome": "Cancún", "teto_brl": 1300 }
+    { "de": "GRU", "para": "LIS", "nome": "Lisboa", "teto_brl": 3000, "keywords": ["lisboa", "portugal", "lis"] },
+    { "de": "GRU", "para": "MIA", "nome": "Miami", "teto_brl": 2000, "keywords": ["miami", "mia", "florida"] },
+    { "de": "GRU", "para": "MCO", "nome": "Orlando", "teto_brl": 1700, "keywords": ["orlando", "mco", "disney", "florida"] },
+    { "de": "GRU", "para": "EZE", "nome": "Buenos Aires", "teto_brl": 800, "keywords": ["buenos aires", "argentina", "eze"] },
+    { "de": "GRU", "para": "SCL", "nome": "Santiago", "teto_brl": 800, "keywords": ["santiago", "chile", "scl"] },
+    { "de": "GRU", "para": "CUN", "nome": "Cancún", "teto_brl": 1300, "keywords": ["cancun", "mexico", "cun", "riviera maya"] }
   ],
   "horizontes_dias": [30, 60, 90],
   "cabine": "economy",

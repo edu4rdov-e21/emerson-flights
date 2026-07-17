@@ -2,6 +2,7 @@ import fs from "node:fs";
 import path from "node:path";
 
 const DATA_DIR = path.join(process.cwd(), "data");
+const CONFIG_PATH = path.join(process.cwd(), "config", "routes.json");
 
 function readJson<T>(file: string, fallback: T): T {
   try {
@@ -86,7 +87,26 @@ export interface AwardDemo {
   }[];
 }
 
+export interface RotaCfg {
+  rota: string;
+  nome: string;
+  keywords: string[];
+}
+
 export function loadAll() {
+  let rotasCfg: RotaCfg[] = [];
+  try {
+    const cfg = JSON.parse(fs.readFileSync(CONFIG_PATH, "utf-8")) as {
+      rotas: { de: string; para: string; nome: string; keywords?: string[] }[];
+    };
+    rotasCfg = cfg.rotas.map((r) => ({
+      rota: `${r.de}-${r.para}`,
+      nome: r.nome,
+      keywords: r.keywords ?? [r.nome.toLowerCase()],
+    }));
+  } catch {
+    rotasCfg = [];
+  }
   return {
     prices: readJson<Snapshot[]>("prices.json", []),
     history: readJson<HistoryPoint[]>("history.json", []),
@@ -98,43 +118,6 @@ export function loadAll() {
       aviso: "",
       disponibilidades: [],
     }),
+    rotasCfg,
   };
-}
-
-export const brl = (v: number) =>
-  v.toLocaleString("pt-BR", {
-    style: "currency",
-    currency: "BRL",
-    maximumFractionDigits: 0,
-  });
-
-export const numero = (v: number) => v.toLocaleString("pt-BR");
-
-export function horaSp(iso: string | null): string {
-  if (!iso) return "ainda sem coleta";
-  const d = new Date(iso);
-  return d.toLocaleString("pt-BR", {
-    timeZone: "America/Sao_Paulo",
-    day: "2-digit",
-    month: "2-digit",
-    hour: "2-digit",
-    minute: "2-digit",
-  });
-}
-
-export function tempoRelativo(iso: string | null | undefined): string {
-  if (!iso) return "";
-  const t = new Date(iso).getTime();
-  if (Number.isNaN(t)) return "";
-  const min = Math.max(0, Math.round((Date.now() - t) / 60000));
-  if (min < 60) return `há ${min} min`;
-  const h = Math.round(min / 60);
-  if (h < 48) return `há ${h} h`;
-  return `há ${Math.round(h / 24)} dias`;
-}
-
-export function dataVooCurta(iso: string): string {
-  const [y, m, d] = iso.split("-").map(Number);
-  const meses = ["jan", "fev", "mar", "abr", "mai", "jun", "jul", "ago", "set", "out", "nov", "dez"];
-  return `${d} ${meses[(m ?? 1) - 1]} ${String(y).slice(2)}`;
 }
