@@ -90,14 +90,6 @@
   "fonte": "t.me/melhoresdestinos",
   "tipo": "telegram",
   "canal": "melhoresdestinos",
-  "titulo": "Mega Promo com milhas!\n\n Latam Pass tem passagens a partir de 2.957 milhas o trecho\n\n👉 https://melhores.la/8ae7uB",
-  "link": "https://t.me/melhoresdestinos/18516",
-  "publicado_em": "2026-07-18T11:32:43+00:00"
- },
- {
-  "fonte": "t.me/melhoresdestinos",
-  "tipo": "telegram",
-  "canal": "melhoresdestinos",
   "titulo": "Megapromo Europa 🇪🇺\n\n Latam tem voos para Portugal, Espanha, Itália e mais destinos a partir de R$ 3.544 ida e volta\n\n👉 https://melhores.la/JFA3qq",
   "link": "https://t.me/melhoresdestinos/18517",
   "publicado_em": "2026-07-18T12:17:16+00:00"
@@ -247,28 +239,12 @@
   "publicado_em": "2026-07-19T13:17:42+00:00"
  },
  {
-  "fonte": "t.me/canalpontospravoar",
+  "fonte": "t.me/melhoresdestinos",
   "tipo": "telegram",
-  "canal": "canalpontospravoar",
-  "titulo": "‌Alerta de passagens PPV! Viaje para Cidade do Cabo a partir de 49 mil milhas no LATAM Pass\n\nAutor(a): Vinícius Rodrigues\n\nLeia mais em: https://pontospravoar.com/?p=131929",
-  "link": "https://t.me/canalpontospravoar/26589",
-  "publicado_em": "2026-07-17T19:00:09+00:00"
- },
- {
-  "fonte": "t.me/canalpontospravoar",
-  "tipo": "telegram",
-  "canal": "canalpontospravoar",
-  "titulo": "‌Riyadh Air estreia voos para Madri e fecha parceria com Air Europa para ampliar conexões com o Brasil\n\nAutor(a): Fernanda Inocente\n\nLeia mais em: https://pontospravoar.com/?p=131913",
-  "link": "https://t.me/canalpontospravoar/26590",
-  "publicado_em": "2026-07-17T19:30:13+00:00"
- },
- {
-  "fonte": "t.me/canalpontospravoar",
-  "tipo": "telegram",
-  "canal": "canalpontospravoar",
-  "titulo": "‌Novo parque une arte e natureza no interior de São Paulo\n\nAutor(a): Alessandra Sabbag\n\nLeia mais em: https://pontospravoar.com/?p=131882",
-  "link": "https://t.me/canalpontospravoar/26591",
-  "publicado_em": "2026-07-17T20:30:33+00:00"
+  "canal": "melhoresdestinos",
+  "titulo": "Mega Promo Latam\n\n 🚨✈️ Baixou! Promoção tem passagens nacionais a partir de R$ 254 ida e volta\n\n👉 https://melhores.la/8JALwI",
+  "link": "https://t.me/melhoresdestinos/18536",
+  "publicado_em": "2026-07-19T15:01:48+00:00"
  },
  {
   "fonte": "t.me/canalpontospravoar",
@@ -407,20 +383,28 @@
   "publicado_em": "2026-07-19T13:00:13+00:00"
  },
  {
-  "fonte": "t.me/promopassagens",
+  "fonte": "t.me/canalpontospravoar",
   "tipo": "telegram",
-  "canal": "promopassagens",
-  "titulo": "🚢 Programas De Fidelidade Faturam R$ 6,3 Bilhões No Primeiro Semestre De 2026",
-  "link": "https://t.me/promopassagens/109903",
-  "publicado_em": "2026-07-18T14:30:47+00:00"
+  "canal": "canalpontospravoar",
+  "titulo": "‌Como planejar uma Eurotrip – 5 decisões antes de reservar\n\nAutor(a): Alessandra Sabbag\n\nLeia mais em: https://pontospravoar.com/?p=96685",
+  "link": "https://t.me/canalpontospravoar/26609",
+  "publicado_em": "2026-07-19T14:00:48+00:00"
  },
  {
-  "fonte": "t.me/promopassagens",
+  "fonte": "t.me/canalpontospravoar",
   "tipo": "telegram",
-  "canal": "promopassagens",
-  "titulo": "🧳 Padel Experience – Aeroporto De Brasília Ganha Arena Para Prática Esportiva\n #Brasília",
-  "link": "https://t.me/promopassagens/109904",
-  "publicado_em": "2026-07-18T16:01:22+00:00"
+  "canal": "canalpontospravoar",
+  "titulo": "‌8 companhias aéreas com descontos para estudantes\n\nAutor(a): Fátima Pasquotto\n\nLeia mais em: https://pontospravoar.com/?p=95413",
+  "link": "https://t.me/canalpontospravoar/26610",
+  "publicado_em": "2026-07-19T15:00:14+00:00"
+ },
+ {
+  "fonte": "t.me/canalpontospravoar",
+  "tipo": "telegram",
+  "canal": "canalpontospravoar",
+  "titulo": "‌Reserve hotéis pet-friendly em São Paulo com diárias a partir de R$ 174\n\nAutor(a): Equipe Pontos pra Voar\n\nLeia mais em: https://pontospravoar.com/?p=131780",
+  "link": "https://t.me/canalpontospravoar/26611",
+  "publicado_em": "2026-07-19T16:00:28+00:00"
  },
  {
   "fonte": "t.me/promopassagens",
@@ -565,6 +549,70 @@
   "titulo": "🚞 Número De Passageiros Em Cabines Premium Cresceu Em 2025 De Acordo Com Iata",
   "link": "https://t.me/promopassagens/109922",
   "publicado_em": "2026-07-19T13:45:40+00:00"
+ },
+ {
+  "fonte": "t.me/promopassagens",
+  "tipo": "telegram",
+  "canal": "promopassagens",
+  "titulo": "🧭 Como Planejar Uma Eurotrip – 5 Decisões Antes De Reservar",
+  "link": "https://t.me/promopassagens/109923",
+  "publicado_em": "2026-07-19T14:15:47+00:00"
+ },
+ {
+  "fonte": "t.me/promopassagens",
+  "tipo": "telegram",
+  "canal": "promopassagens",
+  "titulo": "🧳 8 Companhias Aéreas Com Descontos Para Estudantes",
+  "link": "https://t.me/promopassagens/109924",
+  "publicado_em": "2026-07-19T16:01:17+00:00"
+ },
+ {
+  "fonte": "t.me/melhoresdestinos",
+  "tipo": "telegram",
+  "canal": "melhoresdestinos",
+  "titulo": "Mega Promo com milhas!\n\n Latam Pass tem passagens a partir de 2.957 milhas o trecho\n\n👉 https://melhores.la/8ae7uB",
+  "link": "https://t.me/melhoresdestinos/18516",
+  "publicado_em": "2026-07-18T11:32:43+00:00"
+ },
+ {
+  "fonte": "t.me/canalpontospravoar",
+  "tipo": "telegram",
+  "canal": "canalpontospravoar",
+  "titulo": "‌Alerta de passagens PPV! Viaje para Cidade do Cabo a partir de 49 mil milhas no LATAM Pass\n\nAutor(a): Vinícius Rodrigues\n\nLeia mais em: https://pontospravoar.com/?p=131929",
+  "link": "https://t.me/canalpontospravoar/26589",
+  "publicado_em": "2026-07-17T19:00:09+00:00"
+ },
+ {
+  "fonte": "t.me/canalpontospravoar",
+  "tipo": "telegram",
+  "canal": "canalpontospravoar",
+  "titulo": "‌Riyadh Air estreia voos para Madri e fecha parceria com Air Europa para ampliar conexões com o Brasil\n\nAutor(a): Fernanda Inocente\n\nLeia mais em: https://pontospravoar.com/?p=131913",
+  "link": "https://t.me/canalpontospravoar/26590",
+  "publicado_em": "2026-07-17T19:30:13+00:00"
+ },
+ {
+  "fonte": "t.me/canalpontospravoar",
+  "tipo": "telegram",
+  "canal": "canalpontospravoar",
+  "titulo": "‌Novo parque une arte e natureza no interior de São Paulo\n\nAutor(a): Alessandra Sabbag\n\nLeia mais em: https://pontospravoar.com/?p=131882",
+  "link": "https://t.me/canalpontospravoar/26591",
+  "publicado_em": "2026-07-17T20:30:33+00:00"
+ },
+ {
+  "fonte": "t.me/promopassagens",
+  "tipo": "telegram",
+  "canal": "promopassagens",
+  "titulo": "🚢 Programas De Fidelidade Faturam R$ 6,3 Bilhões No Primeiro Semestre De 2026",
+  "link": "https://t.me/promopassagens/109903",
+  "publicado_em": "2026-07-18T14:30:47+00:00"
+ },
+ {
+  "fonte": "t.me/promopassagens",
+  "tipo": "telegram",
+  "canal": "promopassagens",
+  "titulo": "🧳 Padel Experience – Aeroporto De Brasília Ganha Arena Para Prática Esportiva\n #Brasília",
+  "link": "https://t.me/promopassagens/109904",
+  "publicado_em": "2026-07-18T16:01:22+00:00"
  },
  {
   "fonte": "t.me/melhoresdestinos",
@@ -917,53 +965,5 @@
   "titulo": "🚢 Recantos Imperdíveis Da Costa Brava, Na Catalunha",
   "link": "https://t.me/promopassagens/109882",
   "publicado_em": "2026-07-17T19:15:34+00:00"
- },
- {
-  "fonte": "t.me/promopassagens",
-  "tipo": "telegram",
-  "canal": "promopassagens",
-  "titulo": "🧭 Alerta De Passagens Ppv! Viaje Para Cidade Do Cabo A Partir De 49 Mil Milhas No Latam Pass\n #Cidade_Do_Cabo #Milhas",
-  "link": "https://t.me/promopassagens/109883",
-  "publicado_em": "2026-07-17T19:15:51+00:00"
- },
- {
-  "fonte": "t.me/promopassagens",
-  "tipo": "telegram",
-  "canal": "promopassagens",
-  "titulo": "🛩 Hoteis.Com Anuncia Mudanças Em Seu Programa De Fidelidade",
-  "link": "https://t.me/promopassagens/109884",
-  "publicado_em": "2026-07-17T19:30:54+00:00"
- },
- {
-  "fonte": "t.me/promopassagens",
-  "tipo": "telegram",
-  "canal": "promopassagens",
-  "titulo": "🧭 Riyadh Air Estreia Voos Para Madri E Fecha Parceria Com Air Europa Para Ampliar Conexões Com O Brasil\n #Brasil #Europa #Madri",
-  "link": "https://t.me/promopassagens/109885",
-  "publicado_em": "2026-07-17T19:45:42+00:00"
- },
- {
-  "fonte": "t.me/melhoresdestinos",
-  "tipo": "telegram",
-  "canal": "melhoresdestinos",
-  "titulo": "Lisboa com estilo 🥂\n\n Voos na classe executiva da Latam a partir de 136 mil milhas o trecho\n\n👉 https://melhores.la/jEVSDo",
-  "link": "https://t.me/melhoresdestinos/18495",
-  "publicado_em": "2026-07-17T15:10:07+00:00"
- },
- {
-  "fonte": "t.me/melhoresdestinos",
-  "tipo": "telegram",
-  "canal": "melhoresdestinos",
-  "titulo": "Nordeste em oferta!\n\n Voos + hospedagens a partir de R$ 1.671 por pessoa mais cupom de desconto exclusivo\n\n👉 https://melhores.la/GPEajl",
-  "link": "https://t.me/melhoresdestinos/18496",
-  "publicado_em": "2026-07-17T15:27:19+00:00"
- },
- {
-  "fonte": "t.me/melhoresdestinos",
-  "tipo": "telegram",
-  "canal": "melhoresdestinos",
-  "titulo": "Madri 🇪🇸\n\n Voos diretos da Iberia saindo do Nordeste a partir de 16 mil pontos o trecho - confira as datas!\n\n👉 https://melhores.la/cs389n",
-  "link": "https://t.me/melhoresdestinos/18497",
-  "publicado_em": "2026-07-17T15:42:45+00:00"
  }
 ]
