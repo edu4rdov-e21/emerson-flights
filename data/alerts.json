@@ -2,6 +2,27 @@
  {
   "tipo": "preco",
   "titulo": "Miami (GRU-MIA) por R$ 1562",
+  "detalhe": "Avianca, 1 parada(s), voo 2026-09-18. Motivo: abaixo do teto de R$ 2000.",
+  "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20MIA%20on%202026-09-18",
+  "criado_em": "2026-07-20T04:09:56+00:00"
+ },
+ {
+  "tipo": "preco",
+  "titulo": "Cancún (GRU-CUN) por R$ 1264",
+  "detalhe": "Avianca, 1 parada(s), voo 2026-08-19. Motivo: abaixo do teto de R$ 1300.",
+  "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20CUN%20on%202026-08-19",
+  "criado_em": "2026-07-20T04:09:56+00:00"
+ },
+ {
+  "tipo": "preco",
+  "titulo": "Cancún (GRU-CUN) por R$ 1264",
+  "detalhe": "Avianca, 1 parada(s), voo 2026-09-18. Motivo: abaixo do teto de R$ 1300.",
+  "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20CUN%20on%202026-09-18",
+  "criado_em": "2026-07-20T04:09:56+00:00"
+ },
+ {
+  "tipo": "preco",
+  "titulo": "Miami (GRU-MIA) por R$ 1562",
   "detalhe": "Avianca, 1 parada(s), voo 2026-08-18. Motivo: abaixo do teto de R$ 2000.",
   "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20MIA%20on%202026-08-18",
   "criado_em": "2026-07-19T04:00:35+00:00"
