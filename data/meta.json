@@ -1,12 +1,13 @@
 {
- "gerado_em": "2026-07-20T04:09:56+00:00",
- "duracao_s": 39.8,
- "alertas_na_rodada": 3,
+ "gerado_em": "2026-07-20T09:39:05+00:00",
+ "duracao_s": 37.5,
+ "alertas_na_rodada": 0,
  "fontes": {
   "precos": {
    "ok": true,
-   "itens": 17,
+   "itens": 16,
    "erros": [
+    "GRU-MIA +90d: no flights found; received error",
     "GRU-SCL +30d: list index out of range"
    ]
   },
