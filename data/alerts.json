@@ -1,6 +1,27 @@
 [
  {
   "tipo": "preco",
+  "titulo": "Miami (GRU-MIA) por R$ 1986",
+  "detalhe": "LATAM, 1 parada(s), voo 2026-08-20. Motivo: abaixo do teto de R$ 2000.",
+  "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20MIA%20on%202026-08-20",
+  "criado_em": "2026-07-21T19:56:26+00:00"
+ },
+ {
+  "tipo": "preco",
+  "titulo": "Miami (GRU-MIA) por R$ 1594",
+  "detalhe": "Avianca, 1 parada(s), voo 2026-09-19. Motivo: abaixo do teto de R$ 2000.",
+  "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20MIA%20on%202026-09-19",
+  "criado_em": "2026-07-21T19:56:26+00:00"
+ },
+ {
+  "tipo": "preco",
+  "titulo": "Miami (GRU-MIA) por R$ 1594",
+  "detalhe": "Avianca, 1 parada(s), voo 2026-10-19. Motivo: abaixo do teto de R$ 2000.",
+  "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20MIA%20on%202026-10-19",
+  "criado_em": "2026-07-21T19:56:26+00:00"
+ },
+ {
+  "tipo": "preco",
   "titulo": "Santiago (GRU-SCL) por R$ 799",
   "detalhe": "LATAM, 2 parada(s), voo 2026-08-20. Motivo: abaixo do teto de R$ 800.",
   "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20SCL%20on%202026-08-20",
