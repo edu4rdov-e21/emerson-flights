@@ -1,5 +1,12 @@
 [
  {
+  "tipo": "preco",
+  "titulo": "Santiago (GRU-SCL) por R$ 799",
+  "detalhe": "LATAM, 2 parada(s), voo 2026-08-20. Motivo: abaixo do teto de R$ 800.",
+  "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20SCL%20on%202026-08-20",
+  "criado_em": "2026-07-21T16:49:29+00:00"
+ },
+ {
   "tipo": "bonus",
   "titulo": "Bonus de 365% (Smiles)",
   "detalhe": "🚢 Smiles Oferece Até 365% De Bônus Na Compra De Milhas E 10% Off Para Voar\n #Milhas",
