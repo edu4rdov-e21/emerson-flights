@@ -1,6 +1,13 @@
 [
  {
   "tipo": "preco",
+  "titulo": "Lisboa (GRU-LIS) por R$ 2976",
+  "detalhe": "LATAM, Lufthansa, 1 parada(s), voo 2026-10-20. Motivo: abaixo do teto de R$ 3000.",
+  "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20LIS%20on%202026-10-20",
+  "criado_em": "2026-07-22T03:52:23+00:00"
+ },
+ {
+  "tipo": "preco",
   "titulo": "Miami (GRU-MIA) por R$ 1986",
   "detalhe": "LATAM, 1 parada(s), voo 2026-08-20. Motivo: abaixo do teto de R$ 2000.",
   "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20MIA%20on%202026-08-20",
