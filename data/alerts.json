@@ -1,6 +1,20 @@
 [
  {
   "tipo": "preco",
+  "titulo": "Cancún (GRU-CUN) por R$ 1297",
+  "detalhe": "Avianca, 1 parada(s), voo 2026-09-21. Motivo: abaixo do teto de R$ 1300.",
+  "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20CUN%20on%202026-09-21",
+  "criado_em": "2026-07-23T19:50:40+00:00"
+ },
+ {
+  "tipo": "bonus",
+  "titulo": "Bonus de 80% (BB -> Smiles)",
+  "detalhe": "‌Transfira pontos do BB Empresas e ganhe até 80% de bônus na Smiles\n\nAutor(a): Vinícius Rodrigues\n\nLeia mais em: https://pontospravoar.com/?p=132894",
+  "link": "https://t.me/canalpontospravoar/26699",
+  "criado_em": "2026-07-23T19:50:40+00:00"
+ },
+ {
+  "tipo": "preco",
   "titulo": "Buenos Aires (GRU-EZE) por R$ 593",
   "detalhe": "LATAM, 2 parada(s), voo 2026-08-22. Motivo: abaixo do teto de R$ 800.",
   "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20EZE%20on%202026-08-22",
