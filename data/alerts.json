@@ -1,5 +1,12 @@
 [
  {
+  "tipo": "preco",
+  "titulo": "Lisboa (GRU-LIS) por R$ 2551",
+  "detalhe": "Air Europa, 1 parada(s), voo 2026-10-21. Motivo: abaixo do teto de R$ 3000.",
+  "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20LIS%20on%202026-10-21",
+  "criado_em": "2026-07-23T03:50:02+00:00"
+ },
+ {
   "tipo": "bonus",
   "titulo": "Bonus de 115% (Esfera -> Azul Fidelidade)",
   "detalhe": "Azul Fidelidade\n\n Ganhe até 115% de bônus na transferência de pontos Esfera\n\n👉 https://melhores.la/OoYWv6",
