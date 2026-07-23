@@ -1,13 +1,14 @@
 {
- "gerado_em": "2026-07-23T19:50:40+00:00",
- "duracao_s": 38.4,
- "alertas_na_rodada": 2,
+ "gerado_em": "2026-07-23T22:18:33+00:00",
+ "duracao_s": 37.7,
+ "alertas_na_rodada": 0,
  "fontes": {
   "precos": {
    "ok": true,
-   "itens": 17,
+   "itens": 16,
    "erros": [
-    "GRU-MIA +90d: no flights found; received error"
+    "GRU-CUN +30d: no flights found; received error",
+    "GRU-CUN +90d: no flights found; received error"
    ]
   },
   "rss": {
@@ -22,7 +23,7 @@
   },
   "bonus": {
    "ok": true,
-   "itens": 1
+   "itens": 0
   },
   "webhook": "desligado"
  }
