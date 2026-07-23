@@ -1,6 +1,13 @@
 [
  {
   "tipo": "preco",
+  "titulo": "Buenos Aires (GRU-EZE) por R$ 593",
+  "detalhe": "LATAM, 2 parada(s), voo 2026-08-22. Motivo: abaixo do teto de R$ 800.",
+  "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20EZE%20on%202026-08-22",
+  "criado_em": "2026-07-23T16:50:44+00:00"
+ },
+ {
+  "tipo": "preco",
   "titulo": "Lisboa (GRU-LIS) por R$ 2551",
   "detalhe": "Air Europa, 1 parada(s), voo 2026-10-21. Motivo: abaixo do teto de R$ 3000.",
   "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20LIS%20on%202026-10-21",
