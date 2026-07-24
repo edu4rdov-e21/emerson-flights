@@ -1,5 +1,12 @@
 [
  {
+  "tipo": "preco",
+  "titulo": "Miami (GRU-MIA) por R$ 1837",
+  "detalhe": "Aerolineas Argentinas, 1 parada(s), voo 2026-10-22. Motivo: abaixo do teto de R$ 2000.",
+  "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20MIA%20on%202026-10-22",
+  "criado_em": "2026-07-24T22:30:36+00:00"
+ },
+ {
   "tipo": "bonus",
   "titulo": "Bonus de 375% (Smiles)",
   "detalhe": "🚞 Smiles Oferece Até 375% De Bônus Na Compra De Milhas\n #Milhas",
