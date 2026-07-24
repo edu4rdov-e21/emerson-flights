@@ -1,14 +1,13 @@
 {
- "gerado_em": "2026-07-23T22:18:33+00:00",
- "duracao_s": 37.7,
- "alertas_na_rodada": 0,
+ "gerado_em": "2026-07-24T03:49:49+00:00",
+ "duracao_s": 37.2,
+ "alertas_na_rodada": 1,
  "fontes": {
   "precos": {
    "ok": true,
-   "itens": 16,
+   "itens": 17,
    "erros": [
-    "GRU-CUN +30d: no flights found; received error",
-    "GRU-CUN +90d: no flights found; received error"
+    "GRU-SCL +30d: list index out of range"
    ]
   },
   "rss": {
