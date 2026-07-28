@@ -1,6 +1,34 @@
 [
  {
   "tipo": "preco",
+  "titulo": "Lisboa (GRU-LIS) por R$ 2619",
+  "detalhe": "Air Europa, 1 parada(s), voo 2026-10-26. Motivo: abaixo do teto de R$ 3000.",
+  "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20LIS%20on%202026-10-26",
+  "criado_em": "2026-07-28T03:42:56+00:00"
+ },
+ {
+  "tipo": "preco",
+  "titulo": "Miami (GRU-MIA) por R$ 1684",
+  "detalhe": "Avianca, 1 parada(s), voo 2026-08-27. Motivo: abaixo do teto de R$ 2000.",
+  "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20MIA%20on%202026-08-27",
+  "criado_em": "2026-07-28T03:42:56+00:00"
+ },
+ {
+  "tipo": "preco",
+  "titulo": "Santiago (GRU-SCL) por R$ 681",
+  "detalhe": "LATAM, 0 parada(s), voo 2026-08-27. Motivo: abaixo do teto de R$ 800.",
+  "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20SCL%20on%202026-08-27",
+  "criado_em": "2026-07-28T03:42:56+00:00"
+ },
+ {
+  "tipo": "preco",
+  "titulo": "Santiago (GRU-SCL) por R$ 681",
+  "detalhe": "LATAM, 0 parada(s), voo 2026-09-26. Motivo: abaixo do teto de R$ 800.",
+  "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20SCL%20on%202026-09-26",
+  "criado_em": "2026-07-28T03:42:56+00:00"
+ },
+ {
+  "tipo": "preco",
   "titulo": "Miami (GRU-MIA) por R$ 1832",
   "detalhe": "Aerolineas Argentinas, 1 parada(s), voo 2026-10-25. Motivo: abaixo do teto de R$ 2000.",
   "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20MIA%20on%202026-10-25",
