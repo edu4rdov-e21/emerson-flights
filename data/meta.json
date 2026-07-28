@@ -1,13 +1,13 @@
 {
- "gerado_em": "2026-07-28T09:10:31+00:00",
- "duracao_s": 37.6,
- "alertas_na_rodada": 1,
+ "gerado_em": "2026-07-28T11:31:09+00:00",
+ "duracao_s": 37.5,
+ "alertas_na_rodada": 0,
  "fontes": {
   "precos": {
    "ok": true,
    "itens": 17,
    "erros": [
-    "GRU-CUN +90d: no flights found; received error"
+    "GRU-MCO +30d: no flights found; received error"
    ]
   },
   "rss": {
