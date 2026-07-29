@@ -1,15 +1,13 @@
 {
- "gerado_em": "2026-07-29T19:48:58+00:00",
+ "gerado_em": "2026-07-29T22:16:50+00:00",
  "duracao_s": 37.4,
  "alertas_na_rodada": 0,
  "fontes": {
   "precos": {
    "ok": true,
-   "itens": 15,
+   "itens": 17,
    "erros": [
-    "GRU-MCO +30d: no flights found; received error",
-    "GRU-EZE +60d: no flights found; received error",
-    "GRU-SCL +30d: no flights found; received error"
+    "GRU-CUN +60d: no flights found; received error"
    ]
   },
   "rss": {
