@@ -1,6 +1,20 @@
 [
  {
   "tipo": "preco",
+  "titulo": "Miami (GRU-MIA) por R$ 1835",
+  "detalhe": "Aerolineas Argentinas, 1 parada(s), voo 2026-08-30. Motivo: abaixo do teto de R$ 2000.",
+  "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20MIA%20on%202026-08-30",
+  "criado_em": "2026-07-31T16:59:54+00:00"
+ },
+ {
+  "tipo": "preco",
+  "titulo": "Miami (GRU-MIA) por R$ 1473",
+  "detalhe": "Avianca, 1 parada(s), voo 2026-10-29. Motivo: abaixo do teto de R$ 2000.",
+  "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20MIA%20on%202026-10-29",
+  "criado_em": "2026-07-31T16:59:54+00:00"
+ },
+ {
+  "tipo": "preco",
   "titulo": "Lisboa (GRU-LIS) por R$ 2936",
   "detalhe": "Gol, Air Europa, 2 parada(s), voo 2026-09-29. Motivo: abaixo do teto de R$ 3000.",
   "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20LIS%20on%202026-09-29",
