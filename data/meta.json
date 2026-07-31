@@ -1,13 +1,15 @@
 {
- "gerado_em": "2026-07-31T19:58:02+00:00",
- "duracao_s": 38.3,
+ "gerado_em": "2026-07-31T22:17:57+00:00",
+ "duracao_s": 37.0,
  "alertas_na_rodada": 0,
  "fontes": {
   "precos": {
    "ok": true,
-   "itens": 17,
+   "itens": 15,
    "erros": [
-    "GRU-SCL +30d: list index out of range"
+    "GRU-EZE +30d: no flights found; received error",
+    "GRU-SCL +30d: list index out of range",
+    "GRU-SCL +90d: no flights found; received error"
    ]
   },
   "rss": {
