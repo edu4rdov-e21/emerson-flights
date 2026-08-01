@@ -1,6 +1,20 @@
 [
  {
   "tipo": "preco",
+  "titulo": "Miami (GRU-MIA) por R$ 1923",
+  "detalhe": "Arajet, 1 parada(s), voo 2026-09-30. Motivo: abaixo do teto de R$ 2000.",
+  "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20MIA%20on%202026-09-30",
+  "criado_em": "2026-08-01T03:56:01+00:00"
+ },
+ {
+  "tipo": "preco",
+  "titulo": "Miami (GRU-MIA) por R$ 1786",
+  "detalhe": "Arajet, 1 parada(s), voo 2026-10-30. Motivo: abaixo do teto de R$ 2000.",
+  "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20MIA%20on%202026-10-30",
+  "criado_em": "2026-08-01T03:56:01+00:00"
+ },
+ {
+  "tipo": "preco",
   "titulo": "Miami (GRU-MIA) por R$ 1835",
   "detalhe": "Aerolineas Argentinas, 1 parada(s), voo 2026-08-30. Motivo: abaixo do teto de R$ 2000.",
   "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20MIA%20on%202026-08-30",
