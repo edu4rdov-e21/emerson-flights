@@ -1,7 +1,7 @@
 {
- "gerado_em": "2026-08-03T15:21:53+00:00",
- "duracao_s": 37.8,
- "alertas_na_rodada": 2,
+ "gerado_em": "2026-08-03T17:22:43+00:00",
+ "duracao_s": 37.7,
+ "alertas_na_rodada": 0,
  "fontes": {
   "precos": {
    "ok": true,
@@ -20,7 +20,7 @@
   },
   "bonus": {
    "ok": true,
-   "itens": 2
+   "itens": 1
   },
   "webhook": "desligado"
  }
