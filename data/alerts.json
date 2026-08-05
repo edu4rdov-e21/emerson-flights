@@ -1,6 +1,20 @@
 [
  {
   "tipo": "preco",
+  "titulo": "Orlando (GRU-MCO) por R$ 1692",
+  "detalhe": "COPA, 1 parada(s), voo 2026-11-03. Motivo: abaixo do teto de R$ 1700.",
+  "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20MCO%20on%202026-11-03",
+  "criado_em": "2026-08-05T14:39:03+00:00"
+ },
+ {
+  "tipo": "bonus",
+  "titulo": "Bonus de 120% (Sicredi -> Azul Fidelidade)",
+  "detalhe": "‌17 anos! Azul Fidelidade oferece até 120% de bônus na transferência do Sicredi — ganhe 3.500 pontos na 1ª transferência\n\nAutor(a): Valdeci Freire\n\nLeia mais em: https://pontospravoar.com/?p=134727",
+  "link": "https://t.me/canalpontospravoar/26941",
+  "criado_em": "2026-08-05T14:39:03+00:00"
+ },
+ {
+  "tipo": "preco",
   "titulo": "Lisboa (GRU-LIS) por R$ 2541",
   "detalhe": "Royal Air Maroc, 1 parada(s), voo 2026-11-03. Motivo: abaixo do teto de R$ 3000.",
   "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20LIS%20on%202026-11-03",
