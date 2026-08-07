@@ -1,14 +1,12 @@
 {
- "gerado_em": "2026-08-07T16:12:11+00:00",
- "duracao_s": 37.7,
- "alertas_na_rodada": 3,
+ "gerado_em": "2026-08-07T19:24:54+00:00",
+ "duracao_s": 36.7,
+ "alertas_na_rodada": 0,
  "fontes": {
   "precos": {
    "ok": true,
-   "itens": 17,
-   "erros": [
-    "GRU-LIS +90d: no flights found; received error"
-   ]
+   "itens": 18,
+   "erros": []
   },
   "rss": {
    "ok": true,
@@ -22,7 +20,7 @@
   },
   "bonus": {
    "ok": true,
-   "itens": 0
+   "itens": 1
   },
   "webhook": "desligado"
  }
