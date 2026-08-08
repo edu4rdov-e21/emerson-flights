@@ -1,6 +1,48 @@
 [
  {
   "tipo": "preco",
+  "titulo": "Lisboa (GRU-LIS) por R$ 2994",
+  "detalhe": "LATAM, Lufthansa, 1 parada(s), voo 2026-11-06. Motivo: abaixo do teto de R$ 3000.",
+  "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20LIS%20on%202026-11-06",
+  "criado_em": "2026-08-08T02:25:19+00:00"
+ },
+ {
+  "tipo": "preco",
+  "titulo": "Miami (GRU-MIA) por R$ 1480",
+  "detalhe": "Avianca, 1 parada(s), voo 2026-11-06. Motivo: abaixo do teto de R$ 2000.",
+  "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20MIA%20on%202026-11-06",
+  "criado_em": "2026-08-08T02:25:19+00:00"
+ },
+ {
+  "tipo": "preco",
+  "titulo": "Orlando (GRU-MCO) por R$ 1604",
+  "detalhe": "American, 2 parada(s), voo 2026-11-06. Motivo: abaixo do teto de R$ 1700.",
+  "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20MCO%20on%202026-11-06",
+  "criado_em": "2026-08-08T02:25:19+00:00"
+ },
+ {
+  "tipo": "preco",
+  "titulo": "Buenos Aires (GRU-EZE) por R$ 738",
+  "detalhe": "JetSMART, 2 parada(s), voo 2026-09-07. Motivo: abaixo do teto de R$ 800.",
+  "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20EZE%20on%202026-09-07",
+  "criado_em": "2026-08-08T02:25:19+00:00"
+ },
+ {
+  "tipo": "preco",
+  "titulo": "Santiago (GRU-SCL) por R$ 732",
+  "detalhe": "LATAM, 0 parada(s), voo 2026-09-07. Motivo: abaixo do teto de R$ 800.",
+  "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20SCL%20on%202026-09-07",
+  "criado_em": "2026-08-08T02:25:19+00:00"
+ },
+ {
+  "tipo": "preco",
+  "titulo": "Santiago (GRU-SCL) por R$ 763",
+  "detalhe": "LATAM, 1 parada(s), voo 2026-11-06. Motivo: abaixo do teto de R$ 800.",
+  "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20SCL%20on%202026-11-06",
+  "criado_em": "2026-08-08T02:25:19+00:00"
+ },
+ {
+  "tipo": "preco",
   "titulo": "Miami (GRU-MIA) por R$ 1845",
   "detalhe": "Aerolineas Argentinas, 1 parada(s), voo 2026-09-06. Motivo: abaixo do teto de R$ 2000.",
   "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20MIA%20on%202026-09-06",
