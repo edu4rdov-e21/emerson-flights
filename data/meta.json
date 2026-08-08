@@ -1,16 +1,12 @@
 {
- "gerado_em": "2026-08-08T19:03:58+00:00",
- "duracao_s": 37.9,
- "alertas_na_rodada": 0,
+ "gerado_em": "2026-08-08T21:49:53+00:00",
+ "duracao_s": 37.4,
+ "alertas_na_rodada": 1,
  "fontes": {
   "precos": {
    "ok": true,
-   "itens": 15,
-   "erros": [
-    "GRU-EZE +90d: no flights found; received error",
-    "GRU-CUN +30d: no flights found; received error",
-    "GRU-CUN +90d: no flights found; received error"
-   ]
+   "itens": 18,
+   "erros": []
   },
   "rss": {
    "ok": true,
