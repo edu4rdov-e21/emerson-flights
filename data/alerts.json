@@ -1,5 +1,26 @@
 [
  {
+  "tipo": "preco",
+  "titulo": "Miami (GRU-MIA) por R$ 1770",
+  "detalhe": "Avianca, 1 parada(s), voo 2026-09-11. Motivo: abaixo do teto de R$ 2000.",
+  "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20MIA%20on%202026-09-11",
+  "criado_em": "2026-08-12T19:31:10+00:00"
+ },
+ {
+  "tipo": "preco",
+  "titulo": "Miami (GRU-MIA) por R$ 1854",
+  "detalhe": "Aerolineas Argentinas, 1 parada(s), voo 2026-10-11. Motivo: abaixo do teto de R$ 2000.",
+  "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20MIA%20on%202026-10-11",
+  "criado_em": "2026-08-12T19:31:10+00:00"
+ },
+ {
+  "tipo": "preco",
+  "titulo": "Miami (GRU-MIA) por R$ 1770",
+  "detalhe": "Avianca, 1 parada(s), voo 2026-11-10. Motivo: abaixo do teto de R$ 2000.",
+  "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20MIA%20on%202026-11-10",
+  "criado_em": "2026-08-12T19:31:10+00:00"
+ },
+ {
   "tipo": "bonus",
   "titulo": "Bonus de 85% (Livelo)",
   "detalhe": "🗺 Estudo Da Livelo Revela Que Pontos Já São Vistos Como Patrimônio Por 85% Dos Usuários",
