@@ -1,6 +1,20 @@
 [
  {
   "tipo": "preco",
+  "titulo": "Miami (GRU-MIA) por R$ 1998",
+  "detalhe": "Gol, Avianca, 2 parada(s), voo 2026-09-12. Motivo: abaixo do teto de R$ 2000.",
+  "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20MIA%20on%202026-09-12",
+  "criado_em": "2026-08-13T13:53:03+00:00"
+ },
+ {
+  "tipo": "bonus",
+  "titulo": "Bonus de 120% (Esfera -> Azul Fidelidade)",
+  "detalhe": "✈️ Azul Fidelidade Oferece Até 120% De Bônus Nas Transferências De Pontos De Vários Parceiros – Incluindo Esfera",
+  "link": "https://t.me/promopassagens/110947",
+  "criado_em": "2026-08-13T13:53:03+00:00"
+ },
+ {
+  "tipo": "preco",
   "titulo": "Lisboa (GRU-LIS) por R$ 2948",
   "detalhe": "KLM, 1 parada(s), voo 2026-10-12. Motivo: abaixo do teto de R$ 3000.",
   "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20LIS%20on%202026-10-12",
