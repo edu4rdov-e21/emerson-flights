@@ -1,7 +1,7 @@
 {
- "gerado_em": "2026-08-12T22:06:50+00:00",
- "duracao_s": 38.2,
- "alertas_na_rodada": 0,
+ "gerado_em": "2026-08-13T03:03:22+00:00",
+ "duracao_s": 38.1,
+ "alertas_na_rodada": 6,
  "fontes": {
   "precos": {
    "ok": true,
