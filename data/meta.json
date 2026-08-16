@@ -1,12 +1,17 @@
 {
- "gerado_em": "2026-08-16T13:04:39+00:00",
- "duracao_s": 38.3,
+ "gerado_em": "2026-08-16T15:40:56+00:00",
+ "duracao_s": 39.3,
  "alertas_na_rodada": 0,
  "fontes": {
   "precos": {
    "ok": true,
-   "itens": 18,
-   "erros": []
+   "itens": 14,
+   "erros": [
+    "GRU-LIS +60d: no flights found; received error",
+    "GRU-MCO +60d: no flights found; received error",
+    "GRU-MCO +90d: no flights found; received error",
+    "GRU-CUN +60d: no flights found; received error"
+   ]
   },
   "rss": {
    "ok": true,
