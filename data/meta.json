@@ -1,13 +1,18 @@
 {
- "gerado_em": "2026-08-17T15:44:39+00:00",
- "duracao_s": 38.2,
+ "gerado_em": "2026-08-17T19:02:27+00:00",
+ "duracao_s": 38.5,
  "alertas_na_rodada": 0,
  "fontes": {
   "precos": {
    "ok": true,
-   "itens": 17,
+   "itens": 12,
    "erros": [
-    "GRU-SCL +30d: list index out of range"
+    "GRU-LIS +30d: no flights found; received error",
+    "GRU-MIA +30d: no flights found; received error",
+    "GRU-MIA +90d: no flights found; received error",
+    "GRU-EZE +30d: no flights found; received error",
+    "GRU-SCL +30d: no flights found; received error",
+    "GRU-CUN +60d: no flights found; received error"
    ]
   },
   "rss": {
@@ -22,7 +27,7 @@
   },
   "bonus": {
    "ok": true,
-   "itens": 0
+   "itens": 1
   },
   "webhook": "desligado"
  }
