@@ -1,14 +1,12 @@
 {
- "gerado_em": "2026-08-17T04:07:06+00:00",
- "duracao_s": 37.9,
+ "gerado_em": "2026-08-17T07:27:02+00:00",
+ "duracao_s": 38.9,
  "alertas_na_rodada": 0,
  "fontes": {
   "precos": {
    "ok": true,
-   "itens": 15,
+   "itens": 17,
    "erros": [
-    "GRU-MCO +60d: no flights found; received error",
-    "GRU-MCO +90d: no flights found; received error",
     "GRU-SCL +30d: list index out of range"
    ]
   },
