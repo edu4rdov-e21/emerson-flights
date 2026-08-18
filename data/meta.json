@@ -1,12 +1,14 @@
 {
- "gerado_em": "2026-08-18T19:01:29+00:00",
- "duracao_s": 37.9,
+ "gerado_em": "2026-08-18T21:42:37+00:00",
+ "duracao_s": 37.7,
  "alertas_na_rodada": 1,
  "fontes": {
   "precos": {
    "ok": true,
-   "itens": 18,
-   "erros": []
+   "itens": 17,
+   "erros": [
+    "GRU-CUN +30d: list index out of range"
+   ]
   },
   "rss": {
    "ok": true,
@@ -20,7 +22,7 @@
   },
   "bonus": {
    "ok": true,
-   "itens": 2
+   "itens": 0
   },
   "webhook": "desligado"
  }
