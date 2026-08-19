@@ -1,5 +1,12 @@
 [
  {
+  "tipo": "preco",
+  "titulo": "Buenos Aires (GRU-EZE) por R$ 652",
+  "detalhe": "LATAM, 0 parada(s), voo 2026-11-17. Motivo: abaixo do teto de R$ 800.",
+  "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20EZE%20on%202026-11-17",
+  "criado_em": "2026-08-19T21:45:11+00:00"
+ },
+ {
   "tipo": "bonus",
   "titulo": "Bonus de 355% (Smiles)",
   "detalhe": "🧳 Smiles Oferece Até 355% De Bônus Na Compra De Milhas\n #Milhas",
