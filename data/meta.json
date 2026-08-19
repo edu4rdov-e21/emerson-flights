@@ -1,13 +1,14 @@
 {
- "gerado_em": "2026-08-18T21:42:37+00:00",
- "duracao_s": 37.7,
- "alertas_na_rodada": 1,
+ "gerado_em": "2026-08-19T01:56:26+00:00",
+ "duracao_s": 39.1,
+ "alertas_na_rodada": 5,
  "fontes": {
   "precos": {
    "ok": true,
-   "itens": 17,
+   "itens": 16,
    "erros": [
-    "GRU-CUN +30d: list index out of range"
+    "GRU-CUN +30d: list index out of range",
+    "GRU-CUN +60d: list index out of range"
    ]
   },
   "rss": {
