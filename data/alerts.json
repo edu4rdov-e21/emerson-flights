@@ -1,6 +1,41 @@
 [
  {
   "tipo": "preco",
+  "titulo": "Lisboa (GRU-LIS) por R$ 2971",
+  "detalhe": "KLM, 1 parada(s), voo 2026-10-22. Motivo: abaixo do teto de R$ 3000.",
+  "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20LIS%20on%202026-10-22",
+  "criado_em": "2026-08-23T02:03:06+00:00"
+ },
+ {
+  "tipo": "preco",
+  "titulo": "Lisboa (GRU-LIS) por R$ 2575",
+  "detalhe": "LATAM, Air Europa, 2 parada(s), voo 2026-11-21. Motivo: abaixo do teto de R$ 3000.",
+  "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20LIS%20on%202026-11-21",
+  "criado_em": "2026-08-23T02:03:06+00:00"
+ },
+ {
+  "tipo": "preco",
+  "titulo": "Miami (GRU-MIA) por R$ 1580",
+  "detalhe": "Avianca, 1 parada(s), voo 2026-11-21. Motivo: abaixo do teto de R$ 2000.",
+  "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20MIA%20on%202026-11-21",
+  "criado_em": "2026-08-23T02:03:06+00:00"
+ },
+ {
+  "tipo": "preco",
+  "titulo": "Orlando (GRU-MCO) por R$ 1521",
+  "detalhe": "United, 1 parada(s), voo 2026-09-22. Motivo: abaixo do teto de R$ 1700.",
+  "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20MCO%20on%202026-09-22",
+  "criado_em": "2026-08-23T02:03:06+00:00"
+ },
+ {
+  "tipo": "preco",
+  "titulo": "Buenos Aires (GRU-EZE) por R$ 647",
+  "detalhe": "LATAM, 0 parada(s), voo 2026-11-21. Motivo: abaixo do teto de R$ 800.",
+  "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20EZE%20on%202026-11-21",
+  "criado_em": "2026-08-23T02:03:06+00:00"
+ },
+ {
+  "tipo": "preco",
   "titulo": "Miami (GRU-MIA) por R$ 1704",
   "detalhe": "Avianca, 1 parada(s), voo 2026-11-20. Motivo: abaixo do teto de R$ 2000.",
   "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20MIA%20on%202026-11-20",
