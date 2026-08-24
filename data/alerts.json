@@ -1,5 +1,19 @@
 [
  {
+  "tipo": "preco",
+  "titulo": "Orlando (GRU-MCO) por R$ 1629",
+  "detalhe": "United, 1 parada(s), voo 2026-10-23. Motivo: abaixo do teto de R$ 1700.",
+  "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20MCO%20on%202026-10-23",
+  "criado_em": "2026-08-24T19:05:08+00:00"
+ },
+ {
+  "tipo": "preco",
+  "titulo": "Orlando (GRU-MCO) por R$ 1629",
+  "detalhe": "United, 1 parada(s), voo 2026-11-22. Motivo: abaixo do teto de R$ 1700.",
+  "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20MCO%20on%202026-11-22",
+  "criado_em": "2026-08-24T19:05:08+00:00"
+ },
+ {
   "tipo": "bonus",
   "titulo": "Bonus de 120% (BB -> Azul Fidelidade)",
   "detalhe": "Azul Fidelidade\n\n Até 120% de bônus na transferência de pontos do C6 Bank\n\n👉 https://melhores.la/2hpbBc",
