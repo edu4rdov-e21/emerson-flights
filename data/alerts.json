@@ -1,6 +1,13 @@
 [
  {
   "tipo": "preco",
+  "titulo": "Miami (GRU-MIA) por R$ 1724",
+  "detalhe": "Gol, Avianca, 2 parada(s), voo 2026-10-23. Motivo: abaixo do teto de R$ 2000.",
+  "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20MIA%20on%202026-10-23",
+  "criado_em": "2026-08-24T21:48:34+00:00"
+ },
+ {
+  "tipo": "preco",
   "titulo": "Orlando (GRU-MCO) por R$ 1629",
   "detalhe": "United, 1 parada(s), voo 2026-10-23. Motivo: abaixo do teto de R$ 1700.",
   "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20MCO%20on%202026-10-23",
