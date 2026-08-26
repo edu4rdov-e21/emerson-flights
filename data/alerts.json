@@ -1,6 +1,13 @@
 [
  {
   "tipo": "preco",
+  "titulo": "Lisboa (GRU-LIS) por R$ 2383",
+  "detalhe": "Air Europa, 1 parada(s), voo 2026-10-25. Motivo: abaixo do teto de R$ 3000.",
+  "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20LIS%20on%202026-10-25",
+  "criado_em": "2026-08-26T13:27:36+00:00"
+ },
+ {
+  "tipo": "preco",
   "titulo": "Lisboa (GRU-LIS) por R$ 2569",
   "detalhe": "LATAM, Air Europa, 2 parada(s), voo 2026-11-24. Motivo: abaixo do teto de R$ 3000.",
   "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20LIS%20on%202026-11-24",
@@ -1391,12 +1398,5 @@
   "detalhe": "Avianca, 1 parada(s), voo 2026-09-15. Motivo: abaixo do teto de R$ 1300.",
   "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20CUN%20on%202026-09-15",
   "criado_em": "2026-07-17T02:45:07+00:00"
- },
- {
-  "tipo": "preco",
-  "titulo": "Lisboa (GRU-LIS) por R$ 2910",
-  "detalhe": "Air Europa, 1 parada(s), voo 2026-10-14. Motivo: abaixo do teto de R$ 3000.",
-  "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20LIS%20on%202026-10-14",
-  "criado_em": "2026-07-17T02:30:55+00:00"
  }
 ]
