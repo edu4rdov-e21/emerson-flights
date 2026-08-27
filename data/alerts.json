@@ -1,5 +1,12 @@
 [
  {
+  "tipo": "bonus",
+  "titulo": "Bonus de 80% (Smiles)",
+  "detalhe": "Só hoje!\n\n Smiles oferece até 80% de bônus na transferência de pontos do cartão de crédito\n\n👉 https://melhores.la/yocqPf",
+  "link": "https://t.me/melhoresdestinos/19143",
+  "criado_em": "2026-08-27T14:20:08+00:00"
+ },
+ {
   "tipo": "preco",
   "titulo": "Lisboa (GRU-LIS) por R$ 2572",
   "detalhe": "Royal Air Maroc, 1 parada(s), voo 2026-11-25. Motivo: abaixo do teto de R$ 3000.",
@@ -1391,12 +1398,5 @@
   "detalhe": "LATAM, 0 parada(s), voo 2026-09-15. Motivo: 25% abaixo da mediana historica (R$ 1099).",
   "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20EZE%20on%202026-09-15",
   "criado_em": "2026-07-17T11:00:03+00:00"
- },
- {
-  "tipo": "preco",
-  "titulo": "Cancún (GRU-CUN) por R$ 1260",
-  "detalhe": "COPA, 1 parada(s), voo 2026-08-16. Motivo: abaixo do teto de R$ 1300.",
-  "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20CUN%20on%202026-08-16",
-  "criado_em": "2026-07-17T02:45:07+00:00"
  }
 ]
