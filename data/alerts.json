@@ -1,5 +1,26 @@
 [
  {
+  "tipo": "preco",
+  "titulo": "Lisboa (GRU-LIS) por R$ 2576",
+  "detalhe": "Royal Air Maroc, 1 parada(s), voo 2026-11-26. Motivo: abaixo do teto de R$ 3000.",
+  "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20LIS%20on%202026-11-26",
+  "criado_em": "2026-08-28T00:27:19+00:00"
+ },
+ {
+  "tipo": "preco",
+  "titulo": "Orlando (GRU-MCO) por R$ 1549",
+  "detalhe": "United, 2 parada(s), voo 2026-09-27. Motivo: abaixo do teto de R$ 1700.",
+  "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20MCO%20on%202026-09-27",
+  "criado_em": "2026-08-28T00:27:19+00:00"
+ },
+ {
+  "tipo": "preco",
+  "titulo": "Orlando (GRU-MCO) por R$ 1629",
+  "detalhe": "United, 1 parada(s), voo 2026-11-26. Motivo: abaixo do teto de R$ 1700.",
+  "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20MCO%20on%202026-11-26",
+  "criado_em": "2026-08-28T00:27:19+00:00"
+ },
+ {
   "tipo": "bonus",
   "titulo": "Bonus de 80% (Smiles)",
   "detalhe": "Só hoje!\n\n Smiles oferece até 80% de bônus na transferência de pontos do cartão de crédito\n\n👉 https://melhores.la/yocqPf",
@@ -1377,26 +1398,5 @@
   "detalhe": "Avianca, 1 parada(s), voo 2026-09-16. Motivo: abaixo do teto de R$ 1300.",
   "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20CUN%20on%202026-09-16",
   "criado_em": "2026-07-18T03:38:47+00:00"
- },
- {
-  "tipo": "bonus",
-  "titulo": "Bonus de 115% (Azul Fidelidade)",
-  "detalhe": "🧳 Últimas Horas! Ganhe Até 115% De Bônus No Envio De Pontos Do Cartão Para O Azul Fidelidade",
-  "link": "https://t.me/promopassagens/109876",
-  "criado_em": "2026-07-17T19:37:07+00:00"
- },
- {
-  "tipo": "preco",
-  "titulo": "Miami (GRU-MIA) por R$ 1596",
-  "detalhe": "Avianca, 1 parada(s), voo 2026-09-15. Motivo: abaixo do teto de R$ 2000.",
-  "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20MIA%20on%202026-09-15",
-  "criado_em": "2026-07-17T11:00:03+00:00"
- },
- {
-  "tipo": "preco",
-  "titulo": "Buenos Aires (GRU-EZE) por R$ 824",
-  "detalhe": "LATAM, 0 parada(s), voo 2026-09-15. Motivo: 25% abaixo da mediana historica (R$ 1099).",
-  "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20EZE%20on%202026-09-15",
-  "criado_em": "2026-07-17T11:00:03+00:00"
  }
 ]
