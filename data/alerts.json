@@ -1,6 +1,41 @@
 [
  {
   "tipo": "preco",
+  "titulo": "Lisboa (GRU-LIS) por R$ 2579",
+  "detalhe": "Royal Air Maroc, 1 parada(s), voo 2026-11-27. Motivo: abaixo do teto de R$ 3000.",
+  "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20LIS%20on%202026-11-27",
+  "criado_em": "2026-08-29T01:47:41+00:00"
+ },
+ {
+  "tipo": "preco",
+  "titulo": "Miami (GRU-MIA) por R$ 1724",
+  "detalhe": "Gol, Avianca, 2 parada(s), voo 2026-10-28. Motivo: abaixo do teto de R$ 2000.",
+  "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20MIA%20on%202026-10-28",
+  "criado_em": "2026-08-29T01:47:41+00:00"
+ },
+ {
+  "tipo": "preco",
+  "titulo": "Santiago (GRU-SCL) por R$ 740",
+  "detalhe": "LATAM, 0 parada(s), voo 2026-09-28. Motivo: abaixo do teto de R$ 800.",
+  "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20SCL%20on%202026-09-28",
+  "criado_em": "2026-08-29T01:47:41+00:00"
+ },
+ {
+  "tipo": "preco",
+  "titulo": "Santiago (GRU-SCL) por R$ 740",
+  "detalhe": "LATAM, 0 parada(s), voo 2026-10-28. Motivo: abaixo do teto de R$ 800.",
+  "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20SCL%20on%202026-10-28",
+  "criado_em": "2026-08-29T01:47:41+00:00"
+ },
+ {
+  "tipo": "preco",
+  "titulo": "Santiago (GRU-SCL) por R$ 740",
+  "detalhe": "LATAM, 0 parada(s), voo 2026-11-27. Motivo: abaixo do teto de R$ 800.",
+  "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20SCL%20on%202026-11-27",
+  "criado_em": "2026-08-29T01:47:41+00:00"
+ },
+ {
+  "tipo": "preco",
   "titulo": "Miami (GRU-MIA) por R$ 1724",
   "detalhe": "Gol, Avianca, 2 parada(s), voo 2026-10-27. Motivo: abaixo do teto de R$ 2000.",
   "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20MIA%20on%202026-10-27",
@@ -1363,40 +1398,5 @@
   "detalhe": "Avianca, 1 parada(s), voo 2026-09-18. Motivo: abaixo do teto de R$ 1300.",
   "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20CUN%20on%202026-09-18",
   "criado_em": "2026-07-20T04:09:56+00:00"
- },
- {
-  "tipo": "preco",
-  "titulo": "Miami (GRU-MIA) por R$ 1562",
-  "detalhe": "Avianca, 1 parada(s), voo 2026-08-18. Motivo: abaixo do teto de R$ 2000.",
-  "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20MIA%20on%202026-08-18",
-  "criado_em": "2026-07-19T04:00:35+00:00"
- },
- {
-  "tipo": "preco",
-  "titulo": "Santiago (GRU-SCL) por R$ 734",
-  "detalhe": "LATAM, 0 parada(s), voo 2026-08-18. Motivo: abaixo do teto de R$ 800.",
-  "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20SCL%20on%202026-08-18",
-  "criado_em": "2026-07-19T04:00:35+00:00"
- },
- {
-  "tipo": "preco",
-  "titulo": "Cancún (GRU-CUN) por R$ 1271",
-  "detalhe": "COPA, 1 parada(s), voo 2026-08-18. Motivo: abaixo do teto de R$ 1300.",
-  "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20CUN%20on%202026-08-18",
-  "criado_em": "2026-07-19T04:00:35+00:00"
- },
- {
-  "tipo": "preco",
-  "titulo": "Cancún (GRU-CUN) por R$ 1264",
-  "detalhe": "Avianca, 1 parada(s), voo 2026-09-17. Motivo: abaixo do teto de R$ 1300.",
-  "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20CUN%20on%202026-09-17",
-  "criado_em": "2026-07-19T04:00:35+00:00"
- },
- {
-  "tipo": "preco",
-  "titulo": "Miami (GRU-MIA) por R$ 1562",
-  "detalhe": "Avianca, 1 parada(s), voo 2026-09-16. Motivo: abaixo do teto de R$ 2000.",
-  "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20MIA%20on%202026-09-16",
-  "criado_em": "2026-07-18T03:38:47+00:00"
  }
 ]

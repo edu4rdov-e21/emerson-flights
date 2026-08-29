@@ -1,7 +1,7 @@
 {
- "gerado_em": "2026-08-28T15:29:44+00:00",
- "duracao_s": 38.1,
- "alertas_na_rodada": 4,
+ "gerado_em": "2026-08-29T01:47:41+00:00",
+ "duracao_s": 38.0,
+ "alertas_na_rodada": 5,
  "fontes": {
   "precos": {
    "ok": true,
@@ -15,12 +15,12 @@
   },
   "telegram": {
    "ok": true,
-   "itens": 59,
+   "itens": 60,
    "erros": []
   },
   "bonus": {
    "ok": true,
-   "itens": 0
+   "itens": 1
   },
   "webhook": "desligado"
  }
