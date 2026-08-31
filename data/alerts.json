@@ -1,6 +1,20 @@
 [
  {
   "tipo": "preco",
+  "titulo": "Santiago (GRU-SCL) por R$ 667",
+  "detalhe": "LATAM, 0 parada(s), voo 2026-09-30. Motivo: abaixo do teto de R$ 800.",
+  "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20SCL%20on%202026-09-30",
+  "criado_em": "2026-08-31T20:52:56+00:00"
+ },
+ {
+  "tipo": "preco",
+  "titulo": "Santiago (GRU-SCL) por R$ 667",
+  "detalhe": "LATAM, 0 parada(s), voo 2026-11-29. Motivo: abaixo do teto de R$ 800.",
+  "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20SCL%20on%202026-11-29",
+  "criado_em": "2026-08-31T20:52:56+00:00"
+ },
+ {
+  "tipo": "preco",
   "titulo": "Lisboa (GRU-LIS) por R$ 2983",
   "detalhe": "Air Europa, 1 parada(s), voo 2026-10-30. Motivo: abaixo do teto de R$ 3000.",
   "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20LIS%20on%202026-10-30",
@@ -1384,19 +1398,5 @@
   "detalhe": "🚢 Smiles Oferece Até 365% De Bônus Na Compra De Milhas E 10% Off Para Voar\n #Milhas",
   "link": "https://t.me/promopassagens/109992",
   "criado_em": "2026-07-21T11:21:17+00:00"
- },
- {
-  "tipo": "preco",
-  "titulo": "Lisboa (GRU-LIS) por R$ 2564",
-  "detalhe": "Air Europa, 1 parada(s), voo 2026-10-19. Motivo: abaixo do teto de R$ 3000.",
-  "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20LIS%20on%202026-10-19",
-  "criado_em": "2026-07-21T03:52:00+00:00"
- },
- {
-  "tipo": "preco",
-  "titulo": "Miami (GRU-MIA) por R$ 1859",
-  "detalhe": "LATAM, 1 parada(s), voo 2026-09-19. Motivo: abaixo do teto de R$ 2000.",
-  "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20MIA%20on%202026-09-19",
-  "criado_em": "2026-07-21T03:52:00+00:00"
  }
 ]
