@@ -1,5 +1,12 @@
 [
  {
+  "tipo": "bonus",
+  "titulo": "Bonus de 110% (Azul Fidelidade)",
+  "detalhe": "Azul Fidelidade\n\n Ganhe até 110% de bônus na transferência de pontos do Inter Loop\n\n👉 https://melhores.la/kDwX3t",
+  "link": "https://t.me/melhoresdestinos/19236",
+  "criado_em": "2026-09-01T14:12:03+00:00"
+ },
+ {
   "tipo": "preco",
   "titulo": "Santiago (GRU-SCL) por R$ 698",
   "detalhe": "LATAM, 1 parada(s), voo 2026-10-01. Motivo: abaixo do teto de R$ 800.",
@@ -1390,13 +1397,6 @@
   "titulo": "Miami (GRU-MIA) por R$ 1986",
   "detalhe": "LATAM, 1 parada(s), voo 2026-08-20. Motivo: abaixo do teto de R$ 2000.",
   "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20MIA%20on%202026-08-20",
-  "criado_em": "2026-07-21T19:56:26+00:00"
- },
- {
-  "tipo": "preco",
-  "titulo": "Miami (GRU-MIA) por R$ 1594",
-  "detalhe": "Avianca, 1 parada(s), voo 2026-09-19. Motivo: abaixo do teto de R$ 2000.",
-  "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20MIA%20on%202026-09-19",
   "criado_em": "2026-07-21T19:56:26+00:00"
  }
 ]
