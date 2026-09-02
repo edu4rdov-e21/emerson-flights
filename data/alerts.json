@@ -2,6 +2,20 @@
  {
   "tipo": "preco",
   "titulo": "Lisboa (GRU-LIS) por R$ 2576",
+  "detalhe": "Royal Air Maroc, 1 parada(s), voo 2026-11-01. Motivo: abaixo do teto de R$ 3000.",
+  "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20LIS%20on%202026-11-01",
+  "criado_em": "2026-09-02T16:41:06+00:00"
+ },
+ {
+  "tipo": "preco",
+  "titulo": "Buenos Aires (GRU-EZE) por R$ 621",
+  "detalhe": "LATAM, 0 parada(s), voo 2026-10-02. Motivo: abaixo do teto de R$ 800.",
+  "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20EZE%20on%202026-10-02",
+  "criado_em": "2026-09-02T16:41:06+00:00"
+ },
+ {
+  "tipo": "preco",
+  "titulo": "Lisboa (GRU-LIS) por R$ 2576",
   "detalhe": "Royal Air Maroc, 1 parada(s), voo 2026-12-01. Motivo: abaixo do teto de R$ 3000.",
   "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20LIS%20on%202026-12-01",
   "criado_em": "2026-09-02T04:44:30+00:00"
@@ -1384,19 +1398,5 @@
   "detalhe": "Air Europa, 1 parada(s), voo 2026-10-21. Motivo: abaixo do teto de R$ 3000.",
   "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20LIS%20on%202026-10-21",
   "criado_em": "2026-07-23T03:50:02+00:00"
- },
- {
-  "tipo": "bonus",
-  "titulo": "Bonus de 115% (Esfera -> Azul Fidelidade)",
-  "detalhe": "Azul Fidelidade\n\n Ganhe até 115% de bônus na transferência de pontos Esfera\n\n👉 https://melhores.la/OoYWv6",
-  "link": "https://t.me/melhoresdestinos/18620",
-  "criado_em": "2026-07-22T14:29:37+00:00"
- },
- {
-  "tipo": "preco",
-  "titulo": "Lisboa (GRU-LIS) por R$ 2976",
-  "detalhe": "LATAM, Lufthansa, 1 parada(s), voo 2026-10-20. Motivo: abaixo do teto de R$ 3000.",
-  "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20LIS%20on%202026-10-20",
-  "criado_em": "2026-07-22T03:52:23+00:00"
  }
 ]
