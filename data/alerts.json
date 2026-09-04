@@ -1,6 +1,13 @@
 [
  {
   "tipo": "preco",
+  "titulo": "Lisboa (GRU-LIS) por R$ 2546",
+  "detalhe": "Royal Air Maroc, 1 parada(s), voo 2026-12-03. Motivo: abaixo do teto de R$ 3000.",
+  "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20LIS%20on%202026-12-03",
+  "criado_em": "2026-09-04T11:27:47+00:00"
+ },
+ {
+  "tipo": "preco",
   "titulo": "Lisboa (GRU-LIS) por R$ 2260",
   "detalhe": "Gol, Air Europa, 2 parada(s), voo 2026-11-03. Motivo: abaixo do teto de R$ 3000.",
   "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20LIS%20on%202026-11-03",
@@ -1391,12 +1398,5 @@
   "detalhe": "🚞 Smiles Oferece Até 375% De Bônus Na Compra De Milhas\n #Milhas",
   "link": "https://t.me/promopassagens/110155",
   "criado_em": "2026-07-24T17:00:22+00:00"
- },
- {
-  "tipo": "bonus",
-  "titulo": "Bonus de 110% (Smiles)",
-  "detalhe": "‌Smiles e Premmia oferecem até 110% de bônus na transferência de pontos\n\nAutor(a): Vinícius Rodrigues\n\nLeia mais em: https://pontospravoar.com/?p=132983",
-  "link": "https://t.me/canalpontospravoar/26710",
-  "criado_em": "2026-07-24T14:17:31+00:00"
  }
 ]
