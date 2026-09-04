@@ -1,6 +1,20 @@
 [
  {
   "tipo": "preco",
+  "titulo": "Lisboa (GRU-LIS) por R$ 2260",
+  "detalhe": "Gol, Air Europa, 2 parada(s), voo 2026-11-03. Motivo: abaixo do teto de R$ 3000.",
+  "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20LIS%20on%202026-11-03",
+  "criado_em": "2026-09-04T04:43:02+00:00"
+ },
+ {
+  "tipo": "preco",
+  "titulo": "Santiago (GRU-SCL) por R$ 757",
+  "detalhe": "LATAM, 0 parada(s), voo 2026-12-03. Motivo: abaixo do teto de R$ 800.",
+  "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20SCL%20on%202026-12-03",
+  "criado_em": "2026-09-04T04:43:02+00:00"
+ },
+ {
+  "tipo": "preco",
   "titulo": "Santiago (GRU-SCL) por R$ 761",
   "detalhe": "LATAM, 0 parada(s), voo 2026-12-02. Motivo: abaixo do teto de R$ 800.",
   "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20SCL%20on%202026-12-02",
@@ -1384,19 +1398,5 @@
   "detalhe": "‌Smiles e Premmia oferecem até 110% de bônus na transferência de pontos\n\nAutor(a): Vinícius Rodrigues\n\nLeia mais em: https://pontospravoar.com/?p=132983",
   "link": "https://t.me/canalpontospravoar/26710",
   "criado_em": "2026-07-24T14:17:31+00:00"
- },
- {
-  "tipo": "preco",
-  "titulo": "Buenos Aires (GRU-EZE) por R$ 526",
-  "detalhe": "LATAM, 0 parada(s), voo 2026-09-22. Motivo: abaixo do teto de R$ 800.",
-  "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20EZE%20on%202026-09-22",
-  "criado_em": "2026-07-24T03:49:49+00:00"
- },
- {
-  "tipo": "preco",
-  "titulo": "Cancún (GRU-CUN) por R$ 1297",
-  "detalhe": "Avianca, 1 parada(s), voo 2026-09-21. Motivo: abaixo do teto de R$ 1300.",
-  "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20CUN%20on%202026-09-21",
-  "criado_em": "2026-07-23T19:50:40+00:00"
  }
 ]
