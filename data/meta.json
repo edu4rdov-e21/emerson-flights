@@ -1,15 +1,12 @@
 {
- "gerado_em": "2026-09-06T04:49:33+00:00",
- "duracao_s": 38.8,
+ "gerado_em": "2026-09-06T11:05:51+00:00",
+ "duracao_s": 40.1,
  "alertas_na_rodada": 1,
  "fontes": {
   "precos": {
    "ok": true,
-   "itens": 16,
-   "erros": [
-    "GRU-SCL +60d: list index out of range",
-    "GRU-SCL +90d: list index out of range"
-   ]
+   "itens": 18,
+   "erros": []
   },
   "rss": {
    "ok": true,
