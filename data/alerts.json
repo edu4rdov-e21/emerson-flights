@@ -1,5 +1,12 @@
 [
  {
+  "tipo": "bonus",
+  "titulo": "Bonus de 120% (Livelo -> Azul Fidelidade)",
+  "detalhe": "Azul Fidelidade e Livelo\n\n Ganhe até 120% de bônus na transferência de pontos\n\n👉 https://melhores.la/f9fXz6",
+  "link": "https://t.me/melhoresdestinos/19300",
+  "criado_em": "2026-09-08T16:43:42+00:00"
+ },
+ {
   "tipo": "preco",
   "titulo": "Lisboa (GRU-LIS) por R$ 2075",
   "detalhe": "LATAM, 1 parada(s), voo 2026-12-07. Motivo: abaixo do teto de R$ 3000.",
@@ -1390,13 +1397,6 @@
   "titulo": "Buenos Aires (GRU-EZE) por R$ 479",
   "detalhe": "Gol, 0 parada(s), voo 2026-08-26. Motivo: abaixo do teto de R$ 800.",
   "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20EZE%20on%202026-08-26",
-  "criado_em": "2026-07-27T04:08:53+00:00"
- },
- {
-  "tipo": "preco",
-  "titulo": "Cancún (GRU-CUN) por R$ 1298",
-  "detalhe": "Avianca, 1 parada(s), voo 2026-09-25. Motivo: abaixo do teto de R$ 1300.",
-  "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20CUN%20on%202026-09-25",
   "criado_em": "2026-07-27T04:08:53+00:00"
  }
 ]

@@ -1,13 +1,13 @@
 {
- "gerado_em": "2026-09-08T11:27:56+00:00",
- "duracao_s": 37.6,
+ "gerado_em": "2026-09-08T16:43:42+00:00",
+ "duracao_s": 39.2,
  "alertas_na_rodada": 1,
  "fontes": {
   "precos": {
    "ok": true,
    "itens": 17,
    "erros": [
-    "GRU-CUN +60d: no flights found; received error"
+    "GRU-CUN +60d: list index out of range"
    ]
   },
   "rss": {
@@ -22,7 +22,7 @@
   },
   "bonus": {
    "ok": true,
-   "itens": 0
+   "itens": 1
   },
   "webhook": "desligado"
  }
