@@ -1,14 +1,12 @@
 {
- "gerado_em": "2026-09-09T16:45:24+00:00",
- "duracao_s": 38.5,
+ "gerado_em": "2026-09-09T21:00:37+00:00",
+ "duracao_s": 38.7,
  "alertas_na_rodada": 0,
  "fontes": {
   "precos": {
    "ok": true,
-   "itens": 17,
-   "erros": [
-    "GRU-MIA +90d: no flights found; received error"
-   ]
+   "itens": 18,
+   "erros": []
   },
   "rss": {
    "ok": true,
@@ -22,7 +20,7 @@
   },
   "bonus": {
    "ok": true,
-   "itens": 1
+   "itens": 0
   },
   "webhook": "desligado"
  }
