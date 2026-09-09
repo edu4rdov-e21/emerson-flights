@@ -1,15 +1,12 @@
 {
- "gerado_em": "2026-09-08T23:27:35+00:00",
- "duracao_s": 39.3,
- "alertas_na_rodada": 0,
+ "gerado_em": "2026-09-09T04:52:15+00:00",
+ "duracao_s": 40.0,
+ "alertas_na_rodada": 4,
  "fontes": {
   "precos": {
    "ok": true,
-   "itens": 16,
-   "erros": [
-    "GRU-MCO +30d: no flights found; received error",
-    "GRU-CUN +60d: list index out of range"
-   ]
+   "itens": 18,
+   "erros": []
   },
   "rss": {
    "ok": true,
