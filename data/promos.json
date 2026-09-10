@@ -94,14 +94,6 @@
   "fonte": "t.me/melhoresdestinos",
   "tipo": "telegram",
   "canal": "melhoresdestinos",
-  "titulo": "África do Sul 🇿🇦\n\n Voos diretos para Joanesburgo por 80 mil milhas Smiles\n\n👉 https://melhores.la/oIaUDP",
-  "link": "https://t.me/melhoresdestinos/19315",
-  "publicado_em": "2026-09-08T20:17:02+00:00"
- },
- {
-  "fonte": "t.me/melhoresdestinos",
-  "tipo": "telegram",
-  "canal": "melhoresdestinos",
   "titulo": "Só até 23h59 ✈️\n\n Latam oferece até 40% de desconto em passagens com milhas\n\n👉 https://melhores.la/E11fBl",
   "link": "https://t.me/melhoresdestinos/19316",
   "publicado_em": "2026-09-08T22:34:20+00:00"
@@ -251,12 +243,12 @@
   "publicado_em": "2026-09-09T23:05:35+00:00"
  },
  {
-  "fonte": "t.me/canalpontospravoar",
+  "fonte": "t.me/melhoresdestinos",
   "tipo": "telegram",
-  "canal": "canalpontospravoar",
-  "titulo": "‌Alerta PPV! Passagens internacionais a partir de 41 mil pontos no Azul pelo Mundo\n\nAutor(a): Vinícius Rodrigues\n\nLeia mais em: https://pontospravoar.com/?p=140546",
-  "link": "https://t.me/canalpontospravoar/27718",
-  "publicado_em": "2026-09-09T15:00:42+00:00"
+  "canal": "melhoresdestinos",
+  "titulo": "Alemanha ou Suíça\n\n Passagens para Berlim, Frankfurt, Zurique e outras cidades a partir de R$ 3.765 ida e volta!\n\n👉 https://melhores.la/bUMznY",
+  "link": "https://t.me/melhoresdestinos/19335",
+  "publicado_em": "2026-09-10T11:02:44+00:00"
  },
  {
   "fonte": "t.me/canalpontospravoar",
@@ -411,20 +403,12 @@
   "publicado_em": "2026-09-09T23:00:04+00:00"
  },
  {
-  "fonte": "t.me/promopassagens",
+  "fonte": "t.me/canalpontospravoar",
   "tipo": "telegram",
-  "canal": "promopassagens",
-  "titulo": "🧭 Voltou! Abra Sua Conta Na Revolut, Ganhe 3.000 Pontos Bônus E Faça Câmbio Sem Iof E Sem Spread",
-  "link": "https://t.me/promopassagens/111862",
-  "publicado_em": "2026-09-09T18:45:43+00:00"
- },
- {
-  "fonte": "t.me/promopassagens",
-  "tipo": "telegram",
-  "canal": "promopassagens",
-  "titulo": "🧭 Voos Da Azul A Partir De 4 Mil Pontos Ou R$ 51 + Taxas",
-  "link": "https://t.me/promopassagens/111863",
-  "publicado_em": "2026-09-09T19:01:15+00:00"
+  "canal": "canalpontospravoar",
+  "titulo": "‌Passagem com milhas ou dinheiro? Aprenda a fazer a comparação completa\n\nAutor(a): Equipe Pontos pra Voar\n\nLeia mais em: https://pontospravoar.com/?p=140305",
+  "link": "https://t.me/canalpontospravoar/27738",
+  "publicado_em": "2026-09-10T11:00:59+00:00"
  },
  {
   "fonte": "t.me/promopassagens",
@@ -569,6 +553,54 @@
   "titulo": "🗺 Radar Ppv! Resumo Das Promoções De Acúmulo E Transferência De Pontos Do Dia 9 De Setembro De 2026",
   "link": "https://t.me/promopassagens/111881",
   "publicado_em": "2026-09-09T23:15:55+00:00"
+ },
+ {
+  "fonte": "t.me/promopassagens",
+  "tipo": "telegram",
+  "canal": "promopassagens",
+  "titulo": "✈️ Jetblue Revela Mais Detalhes Da Sua Nova Primeira Classe Bluefirst",
+  "link": "https://t.me/promopassagens/111882",
+  "publicado_em": "2026-09-10T11:01:46+00:00"
+ },
+ {
+  "fonte": "t.me/promopassagens",
+  "tipo": "telegram",
+  "canal": "promopassagens",
+  "titulo": "🚢 Passagem Com Milhas Ou Dinheiro? Aprenda A Fazer A Comparação Completa\n #Milhas",
+  "link": "https://t.me/promopassagens/111883",
+  "publicado_em": "2026-09-10T11:15:45+00:00"
+ },
+ {
+  "fonte": "t.me/melhoresdestinos",
+  "tipo": "telegram",
+  "canal": "melhoresdestinos",
+  "titulo": "África do Sul 🇿🇦\n\n Voos diretos para Joanesburgo por 80 mil milhas Smiles\n\n👉 https://melhores.la/oIaUDP",
+  "link": "https://t.me/melhoresdestinos/19315",
+  "publicado_em": "2026-09-08T20:17:02+00:00"
+ },
+ {
+  "fonte": "t.me/canalpontospravoar",
+  "tipo": "telegram",
+  "canal": "canalpontospravoar",
+  "titulo": "‌Alerta PPV! Passagens internacionais a partir de 41 mil pontos no Azul pelo Mundo\n\nAutor(a): Vinícius Rodrigues\n\nLeia mais em: https://pontospravoar.com/?p=140546",
+  "link": "https://t.me/canalpontospravoar/27718",
+  "publicado_em": "2026-09-09T15:00:42+00:00"
+ },
+ {
+  "fonte": "t.me/promopassagens",
+  "tipo": "telegram",
+  "canal": "promopassagens",
+  "titulo": "🧭 Voltou! Abra Sua Conta Na Revolut, Ganhe 3.000 Pontos Bônus E Faça Câmbio Sem Iof E Sem Spread",
+  "link": "https://t.me/promopassagens/111862",
+  "publicado_em": "2026-09-09T18:45:43+00:00"
+ },
+ {
+  "fonte": "t.me/promopassagens",
+  "tipo": "telegram",
+  "canal": "promopassagens",
+  "titulo": "🧭 Voos Da Azul A Partir De 4 Mil Pontos Ou R$ 51 + Taxas",
+  "link": "https://t.me/promopassagens/111863",
+  "publicado_em": "2026-09-09T19:01:15+00:00"
  },
  {
   "fonte": "melhoresdestinos.com.br",
@@ -945,37 +977,5 @@
   "titulo": "‌Radar PPV! Resumo das promoções de acúmulo e transferência de pontos do dia 8 de setembro de 2026\n\nAutor(a): Rennan Machado\n\nLeia mais em: https://pontospravoar.com/?p=140370",
   "link": "https://t.me/canalpontospravoar/27709",
   "publicado_em": "2026-09-08T23:00:50+00:00"
- },
- {
-  "fonte": "t.me/canalpontospravoar",
-  "tipo": "telegram",
-  "canal": "canalpontospravoar",
-  "titulo": "‌SWISS permite escolher refeição da classe econômica antes do voo\n\nAutor(a): Fernanda Inocente\n\nLeia mais em: https://pontospravoar.com/?p=140392",
-  "link": "https://t.me/canalpontospravoar/27710",
-  "publicado_em": "2026-09-09T10:59:52+00:00"
- },
- {
-  "fonte": "t.me/canalpontospravoar",
-  "tipo": "telegram",
-  "canal": "canalpontospravoar",
-  "titulo": "👉🏼 CUPOM MERCADO LIVRE 👈🏼\n\n🎟 VOLTEMELI\n15% OFF acima de R$199, limite R$150\n \nTESTE AQUI\nhttps://meli.la/22VSMJz\n\nINDIQUE NOSSOS GRUPOS\n\nCOM SUPORTE:\n👉 WhatsApp: https://x.gd/a95UO\n\nGRATUITO:\n👉 WhatsApp: https://x.gd/pxhIE\n👉 Telegram: https://t.me/ppvpromocoes",
-  "link": "https://t.me/canalpontospravoar/27711",
-  "publicado_em": "2026-09-09T11:03:41+00:00"
- },
- {
-  "fonte": "t.me/promopassagens",
-  "tipo": "telegram",
-  "canal": "promopassagens",
-  "titulo": "🧳 Novidade! Picpay É O Novo Parceiro De Transferência Do Latam Pass",
-  "link": "https://t.me/promopassagens/111834",
-  "publicado_em": "2026-09-09T02:15:48+00:00"
- },
- {
-  "fonte": "t.me/promopassagens",
-  "tipo": "telegram",
-  "canal": "promopassagens",
-  "titulo": "✈️ Classe Executiva Dreams Da Copa Para Orlando Por R$ 2.091 Ou 176 Mil Pontos Azul + Taxas\n #Orlando",
-  "link": "https://t.me/promopassagens/111835",
-  "publicado_em": "2026-09-09T11:01:40+00:00"
  }
 ]
