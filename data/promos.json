@@ -253,14 +253,6 @@
   "fonte": "t.me/canalpontospravoar",
   "tipo": "telegram",
   "canal": "canalpontospravoar",
-  "titulo": "‌Hotéis perto de aeroportos pelo Brasil: diárias a partir de R$ 162\n\nAutor(a): Rennan Machado\n\nLeia mais em: https://pontospravoar.com/?p=140845",
-  "link": "https://t.me/canalpontospravoar/27782",
-  "publicado_em": "2026-09-11T18:01:45+00:00"
- },
- {
-  "fonte": "t.me/canalpontospravoar",
-  "tipo": "telegram",
-  "canal": "canalpontospravoar",
   "titulo": "‌GOL quer atrair europeus para a Patagônia argentina com stopover no Rio\n\nAutor(a): Fernanda Inocente\n\nLeia mais em: https://pontospravoar.com/?p=140903",
   "link": "https://t.me/canalpontospravoar/27783",
   "publicado_em": "2026-09-11T18:30:16+00:00"
@@ -410,12 +402,12 @@
   "publicado_em": "2026-09-12T20:00:07+00:00"
  },
  {
-  "fonte": "t.me/promopassagens",
+  "fonte": "t.me/canalpontospravoar",
   "tipo": "telegram",
-  "canal": "promopassagens",
-  "titulo": "🗺 Plaza Premium Group Inaugurará Novo Lounge No Aeroporto De Belo Horizonte",
-  "link": "https://t.me/promopassagens/111962",
-  "publicado_em": "2026-09-11T21:31:02+00:00"
+  "canal": "canalpontospravoar",
+  "titulo": "‌Além da Fontana di Trevi: conheça 4 belas fontes de Roma\n\nAutor(a): Fátima Pasquotto\n\nLeia mais em: https://pontospravoar.com/?p=97251",
+  "link": "https://t.me/canalpontospravoar/27802",
+  "publicado_em": "2026-09-12T21:00:19+00:00"
  },
  {
   "fonte": "t.me/promopassagens",
@@ -568,6 +560,30 @@
   "titulo": "🚞 Onde Encontrar Alambiques De Cachaça Em Socorro (Sp)",
   "link": "https://t.me/promopassagens/111981",
   "publicado_em": "2026-09-12T19:15:32+00:00"
+ },
+ {
+  "fonte": "t.me/promopassagens",
+  "tipo": "telegram",
+  "canal": "promopassagens",
+  "titulo": "🛩 Qantas Oferece Serviço De Transfer Entre Terminais No Aeroporto De Sydney\n #Sydney",
+  "link": "https://t.me/promopassagens/111982",
+  "publicado_em": "2026-09-12T21:15:44+00:00"
+ },
+ {
+  "fonte": "t.me/canalpontospravoar",
+  "tipo": "telegram",
+  "canal": "canalpontospravoar",
+  "titulo": "‌Hotéis perto de aeroportos pelo Brasil: diárias a partir de R$ 162\n\nAutor(a): Rennan Machado\n\nLeia mais em: https://pontospravoar.com/?p=140845",
+  "link": "https://t.me/canalpontospravoar/27782",
+  "publicado_em": "2026-09-11T18:01:45+00:00"
+ },
+ {
+  "fonte": "t.me/promopassagens",
+  "tipo": "telegram",
+  "canal": "promopassagens",
+  "titulo": "🗺 Plaza Premium Group Inaugurará Novo Lounge No Aeroporto De Belo Horizonte",
+  "link": "https://t.me/promopassagens/111962",
+  "publicado_em": "2026-09-11T21:31:02+00:00"
  },
  {
   "fonte": "t.me/canalpontospravoar",
@@ -962,22 +978,6 @@
   "titulo": "Passagens para Orlando a partir de R$ 2.136 ou nas férias de fim de ano e Carnaval por R$ 2.530!",
   "link": "https://www.melhoresdestinos.com.br/promocao/passagens-para-orlando-09set26",
   "publicado_em": "Wed, 09 Sep 2026 13:27:29 +0000",
-  "categorias": []
- },
- {
-  "fonte": "melhoresdestinos.com.br",
-  "tipo": "rss",
-  "titulo": "Oferta 9.9! Gol dá 12% de desconto em passagens nacionais e internacionais com nosso cupom exclusivo",
-  "link": "https://www.melhoresdestinos.com.br/promocao/oferta-9-9-gol-da-12-de-desconto-em-passagens-nacionais-e-internacionais-com-nosso-cupom-exclusivo",
-  "publicado_em": "Wed, 09 Sep 2026 13:24:09 +0000",
-  "categorias": []
- },
- {
-  "fonte": "melhoresdestinos.com.br",
-  "tipo": "rss",
-  "titulo": "Pacotes de viagem para Florianópolis a partir de R$ 860 por pessoa em até 12x sem juros!",
-  "link": "https://www.melhoresdestinos.com.br/promocao/pacotes-de-viagem-para-florianopolis-09set26",
-  "publicado_em": "Wed, 09 Sep 2026 12:22:59 +0000",
   "categorias": []
  }
 ]
