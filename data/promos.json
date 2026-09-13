@@ -253,22 +253,6 @@
   "fonte": "t.me/canalpontospravoar",
   "tipo": "telegram",
   "canal": "canalpontospravoar",
-  "titulo": "‌GOL quer atrair europeus para a Patagônia argentina com stopover no Rio\n\nAutor(a): Fernanda Inocente\n\nLeia mais em: https://pontospravoar.com/?p=140903",
-  "link": "https://t.me/canalpontospravoar/27783",
-  "publicado_em": "2026-09-11T18:30:16+00:00"
- },
- {
-  "fonte": "t.me/canalpontospravoar",
-  "tipo": "telegram",
-  "canal": "canalpontospravoar",
-  "titulo": "‌Programa Hera da Accor: o que é e suas vantagens exclusivas\n\nAutor(a): Valdeci Freire\n\nLeia mais em: https://pontospravoar.com/?p=140928",
-  "link": "https://t.me/canalpontospravoar/27784",
-  "publicado_em": "2026-09-11T19:00:14+00:00"
- },
- {
-  "fonte": "t.me/canalpontospravoar",
-  "tipo": "telegram",
-  "canal": "canalpontospravoar",
   "titulo": "‌Lufthansa Group confirma retomada de voos para Dubai\n\nAutor(a): Fernanda Inocente\n\nLeia mais em: https://pontospravoar.com/?p=140827",
   "link": "https://t.me/canalpontospravoar/27785",
   "publicado_em": "2026-09-11T19:30:17+00:00"
@@ -410,12 +394,20 @@
   "publicado_em": "2026-09-12T21:00:19+00:00"
  },
  {
-  "fonte": "t.me/promopassagens",
+  "fonte": "t.me/canalpontospravoar",
   "tipo": "telegram",
-  "canal": "promopassagens",
-  "titulo": "🗺 Último Dia! Receba Até 15 Pontos Azul Fidelidade Por Real Gasto No Magalu",
-  "link": "https://t.me/promopassagens/111963",
-  "publicado_em": "2026-09-11T21:45:47+00:00"
+  "canal": "canalpontospravoar",
+  "titulo": "‌Não deixe a promoção passar: receba os alertas de pontos e milhas do PPV no WhatsApp\n\nAutor(a): Equipe Pontos pra Voar\n\nLeia mais em: https://pontospravoar.com/?p=141046",
+  "link": "https://t.me/canalpontospravoar/27803",
+  "publicado_em": "2026-09-13T11:00:03+00:00"
+ },
+ {
+  "fonte": "t.me/canalpontospravoar",
+  "tipo": "telegram",
+  "canal": "canalpontospravoar",
+  "titulo": "‌Guia completo da transferência de pontos Livelo\n\nAutor(a): Laís Roani\n\nLeia mais em: https://pontospravoar.com/?p=140477",
+  "link": "https://t.me/canalpontospravoar/27804",
+  "publicado_em": "2026-09-13T12:00:11+00:00"
  },
  {
   "fonte": "t.me/promopassagens",
@@ -568,6 +560,38 @@
   "titulo": "🛩 Qantas Oferece Serviço De Transfer Entre Terminais No Aeroporto De Sydney\n #Sydney",
   "link": "https://t.me/promopassagens/111982",
   "publicado_em": "2026-09-12T21:15:44+00:00"
+ },
+ {
+  "fonte": "t.me/promopassagens",
+  "tipo": "telegram",
+  "canal": "promopassagens",
+  "titulo": "🧭 Não Deixe A Promoção Passar: Receba Os Alertas De Pontos E Milhas Do Ppv No Whatsapp\n #Milhas",
+  "link": "https://t.me/promopassagens/111983",
+  "publicado_em": "2026-09-13T11:02:36+00:00"
+ },
+ {
+  "fonte": "t.me/canalpontospravoar",
+  "tipo": "telegram",
+  "canal": "canalpontospravoar",
+  "titulo": "‌GOL quer atrair europeus para a Patagônia argentina com stopover no Rio\n\nAutor(a): Fernanda Inocente\n\nLeia mais em: https://pontospravoar.com/?p=140903",
+  "link": "https://t.me/canalpontospravoar/27783",
+  "publicado_em": "2026-09-11T18:30:16+00:00"
+ },
+ {
+  "fonte": "t.me/canalpontospravoar",
+  "tipo": "telegram",
+  "canal": "canalpontospravoar",
+  "titulo": "‌Programa Hera da Accor: o que é e suas vantagens exclusivas\n\nAutor(a): Valdeci Freire\n\nLeia mais em: https://pontospravoar.com/?p=140928",
+  "link": "https://t.me/canalpontospravoar/27784",
+  "publicado_em": "2026-09-11T19:00:14+00:00"
+ },
+ {
+  "fonte": "t.me/promopassagens",
+  "tipo": "telegram",
+  "canal": "promopassagens",
+  "titulo": "🗺 Último Dia! Receba Até 15 Pontos Azul Fidelidade Por Real Gasto No Magalu",
+  "link": "https://t.me/promopassagens/111963",
+  "publicado_em": "2026-09-11T21:45:47+00:00"
  },
  {
   "fonte": "t.me/canalpontospravoar",
@@ -950,34 +974,5 @@
   "categorias": [
    "Notícias"
   ]
- },
- {
-  "fonte": "melhoresdestinos.com.br",
-  "tipo": "rss",
-  "titulo": "Anac libera voos no Aeroporto de Congonhas após 23h em casos excepcionais",
-  "link": "https://www.melhoresdestinos.com.br/anac-libera-operacoes-congonhas.html",
-  "publicado_em": "Wed, 09 Sep 2026 15:26:34 +0000",
-  "categorias": [
-   "Notícias"
-  ]
- },
- {
-  "fonte": "melhoresdestinos.com.br",
-  "tipo": "rss",
-  "titulo": "Inédito! Cantora italiana Laura Pausini vai comandar um cruzeiro temático em 2027 no Brasil",
-  "link": "https://www.melhoresdestinos.com.br/cruzeiro-laura-pausini.html",
-  "publicado_em": "Wed, 09 Sep 2026 13:37:28 +0000",
-  "categorias": [
-   "Cruzeiros",
-   "Notícias"
-  ]
- },
- {
-  "fonte": "melhoresdestinos.com.br",
-  "tipo": "rss",
-  "titulo": "Passagens para Orlando a partir de R$ 2.136 ou nas férias de fim de ano e Carnaval por R$ 2.530!",
-  "link": "https://www.melhoresdestinos.com.br/promocao/passagens-para-orlando-09set26",
-  "publicado_em": "Wed, 09 Sep 2026 13:27:29 +0000",
-  "categorias": []
  }
 ]
