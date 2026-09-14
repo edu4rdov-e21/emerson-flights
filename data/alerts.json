@@ -1,6 +1,13 @@
 [
  {
   "tipo": "preco",
+  "titulo": "Buenos Aires (GRU-EZE) por R$ 680",
+  "detalhe": "LATAM, 2 parada(s), voo 2026-11-13. Motivo: abaixo do teto de R$ 800.",
+  "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20EZE%20on%202026-11-13",
+  "criado_em": "2026-09-14T05:06:17+00:00"
+ },
+ {
+  "tipo": "preco",
   "titulo": "Lisboa (GRU-LIS) por R$ 2302",
   "detalhe": "LATAM, 1 parada(s), voo 2026-11-12. Motivo: abaixo do teto de R$ 3000.",
   "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20LIS%20on%202026-11-12",
@@ -1391,12 +1398,5 @@
   "detalhe": "Aerolineas Argentinas, 1 parada(s), voo 2026-10-28. Motivo: abaixo do teto de R$ 2000.",
   "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20MIA%20on%202026-10-28",
   "criado_em": "2026-07-30T09:08:08+00:00"
- },
- {
-  "tipo": "preco",
-  "titulo": "Lisboa (GRU-LIS) por R$ 2545",
-  "detalhe": "Royal Air Maroc, 1 parada(s), voo 2026-10-28. Motivo: abaixo do teto de R$ 3000.",
-  "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20LIS%20on%202026-10-28",
-  "criado_em": "2026-07-30T03:36:45+00:00"
  }
 ]
