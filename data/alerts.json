@@ -1,5 +1,12 @@
 [
  {
+  "tipo": "preco",
+  "titulo": "Santiago (GRU-SCL) por R$ 629",
+  "detalhe": "LATAM, 0 parada(s), voo 2026-12-13. Motivo: abaixo do teto de R$ 800.",
+  "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20SCL%20on%202026-12-13",
+  "criado_em": "2026-09-14T23:54:05+00:00"
+ },
+ {
   "tipo": "bonus",
   "titulo": "Bonus de 80% (Smiles)",
   "detalhe": "Smiles\n\n Ganhe até 80% de bônus na transferência de pontos do cartão de crédito\n\n👉 https://melhores.la/dppOJA",
@@ -1391,12 +1398,5 @@
   "detalhe": "Avianca, 1 parada(s), voo 2026-10-29. Motivo: abaixo do teto de R$ 2000.",
   "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20MIA%20on%202026-10-29",
   "criado_em": "2026-07-31T16:59:54+00:00"
- },
- {
-  "tipo": "preco",
-  "titulo": "Lisboa (GRU-LIS) por R$ 2936",
-  "detalhe": "Gol, Air Europa, 2 parada(s), voo 2026-09-29. Motivo: abaixo do teto de R$ 3000.",
-  "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20LIS%20on%202026-09-29",
-  "criado_em": "2026-07-31T03:55:50+00:00"
  }
 ]

@@ -1,14 +1,12 @@
 {
- "gerado_em": "2026-09-14T19:52:34+00:00",
- "duracao_s": 39.9,
- "alertas_na_rodada": 3,
+ "gerado_em": "2026-09-14T23:54:05+00:00",
+ "duracao_s": 38.7,
+ "alertas_na_rodada": 1,
  "fontes": {
   "precos": {
    "ok": true,
-   "itens": 17,
-   "erros": [
-    "GRU-SCL +90d: no flights found; received error"
-   ]
+   "itens": 18,
+   "erros": []
   },
   "rss": {
    "ok": true,
@@ -22,7 +20,7 @@
   },
   "bonus": {
    "ok": true,
-   "itens": 3
+   "itens": 1
   },
   "webhook": "desligado"
  }
