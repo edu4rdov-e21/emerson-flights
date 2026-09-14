@@ -1,5 +1,26 @@
 [
  {
+  "tipo": "bonus",
+  "titulo": "Bonus de 80% (Smiles)",
+  "detalhe": "Smiles\n\n Ganhe até 80% de bônus na transferência de pontos do cartão de crédito\n\n👉 https://melhores.la/dppOJA",
+  "link": "https://t.me/melhoresdestinos/19381",
+  "criado_em": "2026-09-14T19:52:34+00:00"
+ },
+ {
+  "tipo": "bonus",
+  "titulo": "Bonus de 110% (C6 -> Azul Fidelidade)",
+  "detalhe": "Azul Fidelidade e C6 Bank\n\n Ganhe até 110% de bônus na transferência de pontos\n\n👉 https://melhores.la/HzpmJW",
+  "link": "https://t.me/melhoresdestinos/19386",
+  "criado_em": "2026-09-14T19:52:34+00:00"
+ },
+ {
+  "tipo": "bonus",
+  "titulo": "Bonus de 110% (C6)",
+  "detalhe": "🧭 Azul Oferece Até 110% De Bônus Nas Transferências De Pontos Do C6 Bank",
+  "link": "https://t.me/promopassagens/112025",
+  "criado_em": "2026-09-14T19:52:34+00:00"
+ },
+ {
   "tipo": "preco",
   "titulo": "Lisboa (GRU-LIS) por R$ 2302",
   "detalhe": "LATAM, 1 parada(s), voo 2026-11-13. Motivo: abaixo do teto de R$ 3000.",
@@ -1376,27 +1397,6 @@
   "titulo": "Lisboa (GRU-LIS) por R$ 2936",
   "detalhe": "Gol, Air Europa, 2 parada(s), voo 2026-09-29. Motivo: abaixo do teto de R$ 3000.",
   "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20LIS%20on%202026-09-29",
-  "criado_em": "2026-07-31T03:55:50+00:00"
- },
- {
-  "tipo": "preco",
-  "titulo": "Lisboa (GRU-LIS) por R$ 2529",
-  "detalhe": "Royal Air Maroc, 1 parada(s), voo 2026-10-29. Motivo: abaixo do teto de R$ 3000.",
-  "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20LIS%20on%202026-10-29",
-  "criado_em": "2026-07-31T03:55:50+00:00"
- },
- {
-  "tipo": "preco",
-  "titulo": "Miami (GRU-MIA) por R$ 1473",
-  "detalhe": "Avianca, 1 parada(s), voo 2026-09-29. Motivo: abaixo do teto de R$ 2000.",
-  "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20MIA%20on%202026-09-29",
-  "criado_em": "2026-07-31T03:55:50+00:00"
- },
- {
-  "tipo": "preco",
-  "titulo": "Orlando (GRU-MCO) por R$ 1545",
-  "detalhe": "COPA, 1 parada(s), voo 2026-09-29. Motivo: abaixo do teto de R$ 1700.",
-  "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20MCO%20on%202026-09-29",
   "criado_em": "2026-07-31T03:55:50+00:00"
  }
 ]
