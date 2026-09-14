@@ -1,16 +1,12 @@
 {
- "gerado_em": "2026-09-14T05:06:17+00:00",
- "duracao_s": 37.1,
- "alertas_na_rodada": 1,
+ "gerado_em": "2026-09-14T13:00:41+00:00",
+ "duracao_s": 40.1,
+ "alertas_na_rodada": 2,
  "fontes": {
   "precos": {
    "ok": true,
-   "itens": 15,
-   "erros": [
-    "GRU-LIS +60d: no flights found; received error",
-    "GRU-MIA +60d: no flights found; received error",
-    "GRU-EZE +30d: no flights found; received error"
-   ]
+   "itens": 18,
+   "erros": []
   },
   "rss": {
    "ok": true,
@@ -24,7 +20,7 @@
   },
   "bonus": {
    "ok": true,
-   "itens": 0
+   "itens": 1
   },
   "webhook": "desligado"
  }

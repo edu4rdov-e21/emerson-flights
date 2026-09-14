@@ -1,5 +1,15 @@
 [
  {
+  "pct": 100,
+  "de": null,
+  "para": "Aeroplan",
+  "texto": "✈️ Aeroplan Oferece Até 100% De Bônus Na Compra De Milhas\n #Milhas",
+  "fonte": "t.me/promopassagens",
+  "link": "https://t.me/promopassagens/112014",
+  "publicado_em": "2026-09-14T12:31:03+00:00",
+  "detectado_em": "2026-09-14T13:00:41+00:00"
+ },
+ {
   "pct": 120,
   "de": "Livelo",
   "para": null,
@@ -588,15 +598,5 @@
   "link": "https://t.me/canalpontospravoar/26694",
   "publicado_em": "2026-07-23T16:00:24+00:00",
   "detectado_em": "2026-07-23T16:50:44+00:00"
- },
- {
-  "pct": 115,
-  "de": "Esfera",
-  "para": "Azul Fidelidade",
-  "texto": "Azul Fidelidade\n\n Ganhe até 115% de bônus na transferência de pontos Esfera\n\n👉 https://melhores.la/OoYWv6",
-  "fonte": "t.me/melhoresdestinos",
-  "link": "https://t.me/melhoresdestinos/18620",
-  "publicado_em": "2026-07-22T12:21:50+00:00",
-  "detectado_em": "2026-07-22T14:29:37+00:00"
  }
 ]
