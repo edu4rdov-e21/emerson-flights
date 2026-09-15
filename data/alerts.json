@@ -1,5 +1,19 @@
 [
  {
+  "tipo": "bonus",
+  "titulo": "Bonus de 110% (Azul Fidelidade)",
+  "detalhe": "Azul Fidelidade\n\n Ganhe até 110% de bônus na transferência de pontos do Itaú\n\n👉 https://melhores.la/LuE5s2",
+  "link": "https://t.me/melhoresdestinos/19401",
+  "criado_em": "2026-09-15T21:28:54+00:00"
+ },
+ {
+  "tipo": "bonus",
+  "titulo": "Bonus de 120% (Smiles)",
+  "detalhe": "🚞 Transfira Pontos Premmia Para A Smiles Com Até 120% De Bônus – Cpm A Partir De R$ 14,63",
+  "link": "https://t.me/promopassagens/112096",
+  "criado_em": "2026-09-15T21:28:54+00:00"
+ },
+ {
   "tipo": "preco",
   "titulo": "Lisboa (GRU-LIS) por R$ 2290",
   "detalhe": "Gol, Air Europa, 2 parada(s), voo 2026-11-14. Motivo: abaixo do teto de R$ 3000.",
@@ -1384,19 +1398,5 @@
   "detalhe": "LATAM, Lufthansa, 1 parada(s), voo 2026-10-31. Motivo: abaixo do teto de R$ 3000.",
   "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20LIS%20on%202026-10-31",
   "criado_em": "2026-08-02T03:59:09+00:00"
- },
- {
-  "tipo": "preco",
-  "titulo": "Miami (GRU-MIA) por R$ 1923",
-  "detalhe": "Arajet, 1 parada(s), voo 2026-09-30. Motivo: abaixo do teto de R$ 2000.",
-  "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20MIA%20on%202026-09-30",
-  "criado_em": "2026-08-01T03:56:01+00:00"
- },
- {
-  "tipo": "preco",
-  "titulo": "Miami (GRU-MIA) por R$ 1786",
-  "detalhe": "Arajet, 1 parada(s), voo 2026-10-30. Motivo: abaixo do teto de R$ 2000.",
-  "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20MIA%20on%202026-10-30",
-  "criado_em": "2026-08-01T03:56:01+00:00"
  }
 ]
