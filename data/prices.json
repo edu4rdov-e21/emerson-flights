@@ -12,7 +12,7 @@
   "paradas": 0,
   "duracao_min": 595,
   "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20LIS%20on%202026-10-16",
-  "coletado_em": "2026-09-16T11:46:49+00:00"
+  "coletado_em": "2026-09-16T17:06:46+00:00"
  },
  {
   "rota": "GRU-LIS",
@@ -27,7 +27,7 @@
   "paradas": 1,
   "duracao_min": 625,
   "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20LIS%20on%202026-11-15",
-  "coletado_em": "2026-09-16T11:46:49+00:00"
+  "coletado_em": "2026-09-16T17:06:46+00:00"
  },
  {
   "rota": "GRU-LIS",
@@ -37,12 +37,12 @@
   "teto_brl": 3000,
   "data_voo": "2026-12-15",
   "horizonte": 90,
-  "preco": 2728,
+  "preco": 2429,
   "cia": "LATAM",
-  "paradas": 1,
-  "duracao_min": 640,
+  "paradas": 2,
+  "duracao_min": 695,
   "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20LIS%20on%202026-12-15",
-  "coletado_em": "2026-09-16T11:46:49+00:00"
+  "coletado_em": "2026-09-16T17:06:46+00:00"
  },
  {
   "rota": "GRU-MIA",
@@ -57,7 +57,7 @@
   "paradas": 1,
   "duracao_min": 612,
   "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20MIA%20on%202026-10-16",
-  "coletado_em": "2026-09-16T11:46:49+00:00"
+  "coletado_em": "2026-09-16T17:06:46+00:00"
  },
  {
   "rota": "GRU-MIA",
@@ -70,9 +70,9 @@
   "preco": 2639,
   "cia": "Gol, Avianca",
   "paradas": 2,
-  "duracao_min": 670,
+  "duracao_min": 680,
   "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20MIA%20on%202026-11-15",
-  "coletado_em": "2026-09-16T11:46:49+00:00"
+  "coletado_em": "2026-09-16T17:06:46+00:00"
  },
  {
   "rota": "GRU-MIA",
@@ -87,7 +87,7 @@
   "paradas": 1,
   "duracao_min": 735,
   "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20MIA%20on%202026-12-15",
-  "coletado_em": "2026-09-16T11:46:49+00:00"
+  "coletado_em": "2026-09-16T17:06:46+00:00"
  },
  {
   "rota": "GRU-MCO",
@@ -97,12 +97,12 @@
   "teto_brl": 1700,
   "data_voo": "2026-10-16",
   "horizonte": 30,
-  "preco": 2071,
-  "cia": "COPA",
-  "paradas": 1,
-  "duracao_min": 632,
+  "preco": 2298,
+  "cia": "Gol, Avianca",
+  "paradas": 2,
+  "duracao_min": 665,
   "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20MCO%20on%202026-10-16",
-  "coletado_em": "2026-09-16T11:46:49+00:00"
+  "coletado_em": "2026-09-16T17:06:46+00:00"
  },
  {
   "rota": "GRU-MCO",
@@ -117,7 +117,7 @@
   "paradas": 1,
   "duracao_min": 615,
   "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20MCO%20on%202026-11-15",
-  "coletado_em": "2026-09-16T11:46:49+00:00"
+  "coletado_em": "2026-09-16T17:06:46+00:00"
  },
  {
   "rota": "GRU-MCO",
@@ -127,12 +127,12 @@
   "teto_brl": 1700,
   "data_voo": "2026-12-15",
   "horizonte": 90,
-  "preco": 2859,
+  "preco": 3292,
   "cia": "COPA",
   "paradas": 1,
-  "duracao_min": 638,
+  "duracao_min": 629,
   "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20MCO%20on%202026-12-15",
-  "coletado_em": "2026-09-16T11:46:49+00:00"
+  "coletado_em": "2026-09-16T17:06:46+00:00"
  },
  {
   "rota": "GRU-EZE",
@@ -147,7 +147,7 @@
   "paradas": 1,
   "duracao_min": 380,
   "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20EZE%20on%202026-10-16",
-  "coletado_em": "2026-09-16T11:46:49+00:00"
+  "coletado_em": "2026-09-16T17:06:46+00:00"
  },
  {
   "rota": "GRU-EZE",
@@ -162,7 +162,7 @@
   "paradas": 1,
   "duracao_min": 375,
   "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20EZE%20on%202026-11-15",
-  "coletado_em": "2026-09-16T11:46:49+00:00"
+  "coletado_em": "2026-09-16T17:06:46+00:00"
  },
  {
   "rota": "GRU-EZE",
@@ -177,7 +177,7 @@
   "paradas": 1,
   "duracao_min": 375,
   "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20EZE%20on%202026-12-15",
-  "coletado_em": "2026-09-16T11:46:49+00:00"
+  "coletado_em": "2026-09-16T17:06:46+00:00"
  },
  {
   "rota": "GRU-SCL",
@@ -192,7 +192,7 @@
   "paradas": 0,
   "duracao_min": 260,
   "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20SCL%20on%202026-10-16",
-  "coletado_em": "2026-09-16T11:46:49+00:00"
+  "coletado_em": "2026-09-16T17:06:46+00:00"
  },
  {
   "rota": "GRU-SCL",
@@ -207,7 +207,7 @@
   "paradas": 1,
   "duracao_min": 325,
   "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20SCL%20on%202026-11-15",
-  "coletado_em": "2026-09-16T11:46:49+00:00"
+  "coletado_em": "2026-09-16T17:06:46+00:00"
  },
  {
   "rota": "GRU-SCL",
@@ -217,12 +217,12 @@
   "teto_brl": 800,
   "data_voo": "2026-12-15",
   "horizonte": 90,
-  "preco": 641,
+  "preco": 643,
   "cia": "LATAM",
-  "paradas": 0,
-  "duracao_min": 250,
+  "paradas": 1,
+  "duracao_min": 316,
   "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20SCL%20on%202026-12-15",
-  "coletado_em": "2026-09-16T11:46:49+00:00"
+  "coletado_em": "2026-09-16T17:06:46+00:00"
  },
  {
   "rota": "GRU-CUN",
@@ -232,12 +232,12 @@
   "teto_brl": 1300,
   "data_voo": "2026-10-16",
   "horizonte": 30,
-  "preco": 1704,
+  "preco": 1781,
   "cia": "LATAM, Aeromexico",
   "paradas": 1,
   "duracao_min": 709,
   "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20CUN%20on%202026-10-16",
-  "coletado_em": "2026-09-16T11:46:49+00:00"
+  "coletado_em": "2026-09-16T17:06:46+00:00"
  },
  {
   "rota": "GRU-CUN",
@@ -252,7 +252,7 @@
   "paradas": 1,
   "duracao_min": 645,
   "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20CUN%20on%202026-11-15",
-  "coletado_em": "2026-09-16T11:46:49+00:00"
+  "coletado_em": "2026-09-16T17:06:46+00:00"
  },
  {
   "rota": "GRU-CUN",
@@ -262,11 +262,11 @@
   "teto_brl": 1300,
   "data_voo": "2026-12-15",
   "horizonte": 90,
-  "preco": 2080,
-  "cia": "LATAM",
-  "paradas": 2,
-  "duracao_min": 825,
+  "preco": 2086,
+  "cia": "COPA",
+  "paradas": 1,
+  "duracao_min": 592,
   "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20CUN%20on%202026-12-15",
-  "coletado_em": "2026-09-16T11:46:49+00:00"
+  "coletado_em": "2026-09-16T17:06:46+00:00"
  }
 ]

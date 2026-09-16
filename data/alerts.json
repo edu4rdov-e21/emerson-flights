@@ -1,6 +1,20 @@
 [
  {
   "tipo": "preco",
+  "titulo": "Lisboa (GRU-LIS) por R$ 2429",
+  "detalhe": "LATAM, 2 parada(s), voo 2026-12-15. Motivo: abaixo do teto de R$ 3000.",
+  "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20LIS%20on%202026-12-15",
+  "criado_em": "2026-09-16T17:07:24+00:00"
+ },
+ {
+  "tipo": "bonus",
+  "titulo": "Bonus de 380% (Smiles)",
+  "detalhe": "🏝 Smiles Oferece Até 380% De Bônus Na Compra De Milhas\n #Milhas",
+  "link": "https://t.me/promopassagens/112114",
+  "criado_em": "2026-09-16T17:07:24+00:00"
+ },
+ {
+  "tipo": "preco",
   "titulo": "Lisboa (GRU-LIS) por R$ 2946",
   "detalhe": "Tap Air Portugal, 0 parada(s), voo 2026-10-16. Motivo: abaixo do teto de R$ 3000.",
   "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20LIS%20on%202026-10-16",
@@ -1384,19 +1398,5 @@
   "detalhe": "Avianca, 1 parada(s), voo 2026-09-03. Motivo: abaixo do teto de R$ 1300.",
   "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20CUN%20on%202026-09-03",
   "criado_em": "2026-08-04T03:43:37+00:00"
- },
- {
-  "tipo": "preco",
-  "titulo": "Miami (GRU-MIA) por R$ 1296",
-  "detalhe": "Avianca, 1 parada(s), voo 2026-11-01. Motivo: abaixo do teto de R$ 2000.",
-  "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20MIA%20on%202026-11-01",
-  "criado_em": "2026-08-03T15:21:53+00:00"
- },
- {
-  "tipo": "bonus",
-  "titulo": "Bonus de 317% (Azul Fidelidade)",
-  "detalhe": "‌17 anos do Azul Fidelidade! Compra de pontos com até 317% de bônus\n\nAutor(a): Vinícius Rodrigues\n\nLeia mais em: https://pontospravoar.com/?p=134318",
-  "link": "https://t.me/canalpontospravoar/26893",
-  "criado_em": "2026-08-03T15:21:53+00:00"
  }
 ]
