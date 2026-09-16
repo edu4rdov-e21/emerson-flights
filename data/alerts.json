@@ -1,5 +1,26 @@
 [
  {
+  "tipo": "preco",
+  "titulo": "Lisboa (GRU-LIS) por R$ 2946",
+  "detalhe": "Tap Air Portugal, 0 parada(s), voo 2026-10-16. Motivo: abaixo do teto de R$ 3000.",
+  "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20LIS%20on%202026-10-16",
+  "criado_em": "2026-09-16T04:57:34+00:00"
+ },
+ {
+  "tipo": "preco",
+  "titulo": "Lisboa (GRU-LIS) por R$ 2728",
+  "detalhe": "LATAM, 1 parada(s), voo 2026-12-15. Motivo: abaixo do teto de R$ 3000.",
+  "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20LIS%20on%202026-12-15",
+  "criado_em": "2026-09-16T04:57:34+00:00"
+ },
+ {
+  "tipo": "preco",
+  "titulo": "Santiago (GRU-SCL) por R$ 643",
+  "detalhe": "LATAM, 1 parada(s), voo 2026-12-15. Motivo: abaixo do teto de R$ 800.",
+  "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20SCL%20on%202026-12-15",
+  "criado_em": "2026-09-16T04:57:34+00:00"
+ },
+ {
   "tipo": "bonus",
   "titulo": "Bonus de 110% (Azul Fidelidade)",
   "detalhe": "Azul Fidelidade\n\n Ganhe até 110% de bônus na transferência de pontos do Itaú\n\n👉 https://melhores.la/LuE5s2",
@@ -1377,26 +1398,5 @@
   "detalhe": "‌17 anos do Azul Fidelidade! Compra de pontos com até 317% de bônus\n\nAutor(a): Vinícius Rodrigues\n\nLeia mais em: https://pontospravoar.com/?p=134318",
   "link": "https://t.me/canalpontospravoar/26893",
   "criado_em": "2026-08-03T15:21:53+00:00"
- },
- {
-  "tipo": "preco",
-  "titulo": "Miami (GRU-MIA) por R$ 1923",
-  "detalhe": "Arajet, 1 parada(s), voo 2026-10-02. Motivo: abaixo do teto de R$ 2000.",
-  "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20MIA%20on%202026-10-02",
-  "criado_em": "2026-08-03T04:01:26+00:00"
- },
- {
-  "tipo": "preco",
-  "titulo": "Orlando (GRU-MCO) por R$ 1611",
-  "detalhe": "Avianca, 1 parada(s), voo 2026-09-02. Motivo: abaixo do teto de R$ 1700.",
-  "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20MCO%20on%202026-09-02",
-  "criado_em": "2026-08-03T04:01:26+00:00"
- },
- {
-  "tipo": "preco",
-  "titulo": "Lisboa (GRU-LIS) por R$ 2976",
-  "detalhe": "LATAM, Lufthansa, 1 parada(s), voo 2026-10-31. Motivo: abaixo do teto de R$ 3000.",
-  "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20LIS%20on%202026-10-31",
-  "criado_em": "2026-08-02T03:59:09+00:00"
  }
 ]
