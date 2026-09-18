@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-09-18T11:27:01+00:00",
+ "gerado_em": "2026-09-18T16:32:18+00:00",
  "duracao_s": 37.7,
  "alertas_na_rodada": 0,
  "fontes": {
@@ -20,7 +20,7 @@
   },
   "bonus": {
    "ok": true,
-   "itens": 0
+   "itens": 1
   },
   "webhook": "desligado"
  }
