@@ -1,6 +1,13 @@
 [
  {
   "tipo": "preco",
+  "titulo": "Lisboa (GRU-LIS) por R$ 2330",
+  "detalhe": "LATAM, 1 parada(s), voo 2026-11-18. Motivo: abaixo do teto de R$ 3000.",
+  "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20LIS%20on%202026-11-18",
+  "criado_em": "2026-09-19T04:45:10+00:00"
+ },
+ {
+  "tipo": "preco",
   "titulo": "Lisboa (GRU-LIS) por R$ 2626",
   "detalhe": "LATAM, 1 parada(s), voo 2026-10-18. Motivo: abaixo do teto de R$ 3000.",
   "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20LIS%20on%202026-10-18",
@@ -1391,12 +1398,5 @@
   "detalhe": "Avianca, 1 parada(s), voo 2026-11-04. Motivo: abaixo do teto de R$ 2000.",
   "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20MIA%20on%202026-11-04",
   "criado_em": "2026-08-06T11:36:42+00:00"
- },
- {
-  "tipo": "preco",
-  "titulo": "Orlando (GRU-MCO) por R$ 1692",
-  "detalhe": "COPA, 1 parada(s), voo 2026-11-03. Motivo: abaixo do teto de R$ 1700.",
-  "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20MCO%20on%202026-11-03",
-  "criado_em": "2026-08-05T14:39:03+00:00"
  }
 ]
