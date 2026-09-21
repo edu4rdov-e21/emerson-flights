@@ -1,6 +1,27 @@
 [
  {
   "tipo": "preco",
+  "titulo": "Lisboa (GRU-LIS) por R$ 1976",
+  "detalhe": "Tap Air Portugal, 0 parada(s), voo 2026-10-21. Motivo: abaixo do teto de R$ 3000.",
+  "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20LIS%20on%202026-10-21",
+  "criado_em": "2026-09-21T20:01:33+00:00"
+ },
+ {
+  "tipo": "preco",
+  "titulo": "Lisboa (GRU-LIS) por R$ 1976",
+  "detalhe": "Tap Air Portugal, 0 parada(s), voo 2026-11-20. Motivo: abaixo do teto de R$ 3000.",
+  "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20LIS%20on%202026-11-20",
+  "criado_em": "2026-09-21T20:01:33+00:00"
+ },
+ {
+  "tipo": "bonus",
+  "titulo": "Bonus de 80% (BB -> Smiles)",
+  "detalhe": "🛩 Smiles Oferece Até 80% De Bônus Nas Transferências De Pontos Do Bb Empresas",
+  "link": "https://t.me/promopassagens/112320",
+  "criado_em": "2026-09-21T20:01:33+00:00"
+ },
+ {
+  "tipo": "preco",
   "titulo": "Lisboa (GRU-LIS) por R$ 2251",
   "detalhe": "LATAM, 0 parada(s), voo 2026-10-21. Motivo: abaixo do teto de R$ 3000.",
   "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20LIS%20on%202026-10-21",
@@ -1377,26 +1398,5 @@
   "detalhe": "LATAM, 1 parada(s), voo 2026-11-06. Motivo: abaixo do teto de R$ 800.",
   "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20SCL%20on%202026-11-06",
   "criado_em": "2026-08-08T02:25:19+00:00"
- },
- {
-  "tipo": "preco",
-  "titulo": "Miami (GRU-MIA) por R$ 1845",
-  "detalhe": "Aerolineas Argentinas, 1 parada(s), voo 2026-09-06. Motivo: abaixo do teto de R$ 2000.",
-  "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20MIA%20on%202026-09-06",
-  "criado_em": "2026-08-07T16:12:11+00:00"
- },
- {
-  "tipo": "preco",
-  "titulo": "Santiago (GRU-SCL) por R$ 732",
-  "detalhe": "LATAM, 0 parada(s), voo 2026-09-06. Motivo: abaixo do teto de R$ 800.",
-  "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20SCL%20on%202026-09-06",
-  "criado_em": "2026-08-07T16:12:11+00:00"
- },
- {
-  "tipo": "preco",
-  "titulo": "Santiago (GRU-SCL) por R$ 732",
-  "detalhe": "LATAM, 0 parada(s), voo 2026-10-06. Motivo: abaixo do teto de R$ 800.",
-  "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20SCL%20on%202026-10-06",
-  "criado_em": "2026-08-07T16:12:11+00:00"
  }
 ]
