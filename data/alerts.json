@@ -1,6 +1,13 @@
 [
  {
   "tipo": "preco",
+  "titulo": "Lisboa (GRU-LIS) por R$ 2039",
+  "detalhe": "LATAM, 1 parada(s), voo 2026-11-21. Motivo: abaixo do teto de R$ 3000.",
+  "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20LIS%20on%202026-11-21",
+  "criado_em": "2026-09-22T17:03:21+00:00"
+ },
+ {
+  "tipo": "preco",
   "titulo": "Lisboa (GRU-LIS) por R$ 2056",
   "detalhe": "Tap Air Portugal, 1 parada(s), voo 2026-10-22. Motivo: abaixo do teto de R$ 3000.",
   "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20LIS%20on%202026-10-22",
@@ -1390,13 +1397,6 @@
   "titulo": "Orlando (GRU-MCO) por R$ 1604",
   "detalhe": "American, 2 parada(s), voo 2026-11-06. Motivo: abaixo do teto de R$ 1700.",
   "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20MCO%20on%202026-11-06",
-  "criado_em": "2026-08-08T02:25:19+00:00"
- },
- {
-  "tipo": "preco",
-  "titulo": "Buenos Aires (GRU-EZE) por R$ 738",
-  "detalhe": "JetSMART, 2 parada(s), voo 2026-09-07. Motivo: abaixo do teto de R$ 800.",
-  "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20EZE%20on%202026-09-07",
   "criado_em": "2026-08-08T02:25:19+00:00"
  }
 ]
