@@ -1,5 +1,15 @@
 [
  {
+  "pct": 70,
+  "de": null,
+  "para": "Azul Fidelidade",
+  "texto": "🚢 Azul Fidelidade Oferece Até 70% De Desconto Na Compra De Pontos",
+  "fonte": "t.me/promopassagens",
+  "link": "https://t.me/promopassagens/112421",
+  "publicado_em": "2026-09-23T18:30:58+00:00",
+  "detectado_em": "2026-09-23T21:35:21+00:00"
+ },
+ {
   "pct": 25,
   "de": "Esfera",
   "para": "LATAM Pass",
@@ -588,15 +598,5 @@
   "link": "https://t.me/canalpontospravoar/26989",
   "publicado_em": "2026-08-07T16:30:52+00:00",
   "detectado_em": "2026-08-07T19:24:54+00:00"
- },
- {
-  "pct": 25,
-  "de": null,
-  "para": "Avios",
-  "texto": "‌Qatar Airways oferece até 25% de desconto em resgates com Avios, incluindo classe executiva\n\nAutor(a): Fernanda Inocente\n\nLeia mais em: https://pontospravoar.com/?p=134961",
-  "fonte": "t.me/canalpontospravoar",
-  "link": "https://t.me/canalpontospravoar/26963",
-  "publicado_em": "2026-08-06T14:30:34+00:00",
-  "detectado_em": "2026-08-06T14:39:39+00:00"
  }
 ]
