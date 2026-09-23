@@ -1,5 +1,12 @@
 [
  {
+  "tipo": "bonus",
+  "titulo": "Bonus de 110% (Livelo -> Azul Fidelidade)",
+  "detalhe": "‌Azul Fidelidade oferece até 110% de bônus na transferência de pontos – incluindo Esfera e Livelo\n\nAutor(a): Vinícius Rodrigues\n\nLeia mais em: https://pontospravoar.com/?p=142500",
+  "link": "https://t.me/canalpontospravoar/28039",
+  "criado_em": "2026-09-23T17:13:08+00:00"
+ },
+ {
   "tipo": "preco",
   "titulo": "Lisboa (GRU-LIS) por R$ 1961",
   "detalhe": "Tap Air Portugal, 0 parada(s), voo 2026-11-22. Motivo: abaixo do teto de R$ 3000.",
@@ -1390,13 +1397,6 @@
   "titulo": "Lisboa (GRU-LIS) por R$ 2994",
   "detalhe": "LATAM, Lufthansa, 1 parada(s), voo 2026-11-06. Motivo: abaixo do teto de R$ 3000.",
   "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20LIS%20on%202026-11-06",
-  "criado_em": "2026-08-08T02:25:19+00:00"
- },
- {
-  "tipo": "preco",
-  "titulo": "Miami (GRU-MIA) por R$ 1480",
-  "detalhe": "Avianca, 1 parada(s), voo 2026-11-06. Motivo: abaixo do teto de R$ 2000.",
-  "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20MIA%20on%202026-11-06",
   "criado_em": "2026-08-08T02:25:19+00:00"
  }
 ]
