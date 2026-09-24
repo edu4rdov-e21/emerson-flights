@@ -2,6 +2,20 @@
  {
   "tipo": "preco",
   "titulo": "Lisboa (GRU-LIS) por R$ 1970",
+  "detalhe": "Tap Air Portugal, 0 parada(s), voo 2026-10-24. Motivo: abaixo do teto de R$ 3000.",
+  "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20LIS%20on%202026-10-24",
+  "criado_em": "2026-09-24T17:19:03+00:00"
+ },
+ {
+  "tipo": "bonus",
+  "titulo": "Bonus de 80% (C6 -> Smiles)",
+  "detalhe": "Smiles e C6 Bank\n\n Ganhe até 80% de bônus na transferência de pontos\n\n👉 https://melhores.la/v1ebfk",
+  "link": "https://t.me/melhoresdestinos/19538",
+  "criado_em": "2026-09-24T17:19:03+00:00"
+ },
+ {
+  "tipo": "preco",
+  "titulo": "Lisboa (GRU-LIS) por R$ 1970",
   "detalhe": "Tap Air Portugal, 0 parada(s), voo 2026-11-23. Motivo: abaixo do teto de R$ 3000.",
   "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20LIS%20on%202026-11-23",
   "criado_em": "2026-09-24T05:02:24+00:00"
@@ -1384,19 +1398,5 @@
   "detalhe": "LATAM, 1 parada(s), voo 2026-11-07. Motivo: abaixo do teto de R$ 800.",
   "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20SCL%20on%202026-11-07",
   "criado_em": "2026-08-09T02:32:42+00:00"
- },
- {
-  "tipo": "preco",
-  "titulo": "Cancún (GRU-CUN) por R$ 1189",
-  "detalhe": "Arajet, 1 parada(s), voo 2026-11-06. Motivo: abaixo do teto de R$ 1300.",
-  "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20CUN%20on%202026-11-06",
-  "criado_em": "2026-08-08T21:49:53+00:00"
- },
- {
-  "tipo": "preco",
-  "titulo": "Orlando (GRU-MCO) por R$ 1529",
-  "detalhe": "American, 2 parada(s), voo 2026-09-07. Motivo: abaixo do teto de R$ 1700.",
-  "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20MCO%20on%202026-09-07",
-  "criado_em": "2026-08-08T07:25:25+00:00"
  }
 ]
