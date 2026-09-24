@@ -1,5 +1,12 @@
 [
  {
+  "tipo": "preco",
+  "titulo": "Lisboa (GRU-LIS) por R$ 1970",
+  "detalhe": "Tap Air Portugal, 0 parada(s), voo 2026-11-23. Motivo: abaixo do teto de R$ 3000.",
+  "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20LIS%20on%202026-11-23",
+  "criado_em": "2026-09-24T05:02:24+00:00"
+ },
+ {
   "tipo": "bonus",
   "titulo": "Bonus de 110% (Livelo -> Azul Fidelidade)",
   "detalhe": "‌Azul Fidelidade oferece até 110% de bônus na transferência de pontos – incluindo Esfera e Livelo\n\nAutor(a): Vinícius Rodrigues\n\nLeia mais em: https://pontospravoar.com/?p=142500",
@@ -1391,12 +1398,5 @@
   "detalhe": "American, 2 parada(s), voo 2026-09-07. Motivo: abaixo do teto de R$ 1700.",
   "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20MCO%20on%202026-09-07",
   "criado_em": "2026-08-08T07:25:25+00:00"
- },
- {
-  "tipo": "preco",
-  "titulo": "Lisboa (GRU-LIS) por R$ 2994",
-  "detalhe": "LATAM, Lufthansa, 1 parada(s), voo 2026-11-06. Motivo: abaixo do teto de R$ 3000.",
-  "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20LIS%20on%202026-11-06",
-  "criado_em": "2026-08-08T02:25:19+00:00"
  }
 ]
