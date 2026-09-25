@@ -1,5 +1,25 @@
 [
  {
+  "pct": 20,
+  "de": null,
+  "para": "Azul Fidelidade",
+  "texto": "‌Azul Fidelidade oferece até 20% OFF em passagens para clientes Azul Itaú\n\nAutor(a): Vinícius Rodrigues\n\nLeia mais em: https://pontospravoar.com/?p=142885",
+  "fonte": "t.me/canalpontospravoar",
+  "link": "https://t.me/canalpontospravoar/28109",
+  "publicado_em": "2026-09-25T18:00:19+00:00",
+  "detectado_em": "2026-09-25T21:41:13+00:00"
+ },
+ {
+  "pct": 100,
+  "de": null,
+  "para": "Smiles",
+  "texto": "🚢 Smiles Oferece Até 100% De Bônus Na Transferência Do Kmv",
+  "fonte": "t.me/promopassagens",
+  "link": "https://t.me/promopassagens/112531",
+  "publicado_em": "2026-09-25T20:15:49+00:00",
+  "detectado_em": "2026-09-25T21:41:13+00:00"
+ },
+ {
   "pct": 80,
   "de": "C6",
   "para": "Smiles",
@@ -577,26 +597,6 @@
   "fonte": "t.me/melhoresdestinos",
   "link": "https://t.me/melhoresdestinos/18881",
   "publicado_em": "2026-08-10T12:04:21+00:00",
-  "detectado_em": "2026-08-10T13:49:30+00:00"
- },
- {
-  "pct": 25,
-  "de": null,
-  "para": "LATAM Pass",
-  "texto": "Promoção do Latam Pass\n\n Ganhe 25% de bônus na transferência de pontos do Itaú e Credicard\n\n👉 https://melhores.la/fB0wZs",
-  "fonte": "t.me/melhoresdestinos",
-  "link": "https://t.me/melhoresdestinos/18886",
-  "publicado_em": "2026-08-10T13:38:32+00:00",
-  "detectado_em": "2026-08-10T13:49:30+00:00"
- },
- {
-  "pct": 80,
-  "de": null,
-  "para": "Smiles",
-  "texto": "🛩 Smiles Oferece Até 80% De Bônus Nas Transferências De Pontos Dos Cartões De Crédito",
-  "fonte": "t.me/promopassagens",
-  "link": "https://t.me/promopassagens/110804",
-  "publicado_em": "2026-08-10T13:45:41+00:00",
   "detectado_em": "2026-08-10T13:49:30+00:00"
  }
 ]

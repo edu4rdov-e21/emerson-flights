@@ -1,5 +1,12 @@
 [
  {
+  "tipo": "bonus",
+  "titulo": "Bonus de 100% (Smiles)",
+  "detalhe": "🚢 Smiles Oferece Até 100% De Bônus Na Transferência Do Kmv",
+  "link": "https://t.me/promopassagens/112531",
+  "criado_em": "2026-09-25T21:41:13+00:00"
+ },
+ {
   "tipo": "preco",
   "titulo": "Lisboa (GRU-LIS) por R$ 1954",
   "detalhe": "Air Europa, 1 parada(s), voo 2026-11-24. Motivo: abaixo do teto de R$ 3000.",
@@ -1390,13 +1397,6 @@
   "titulo": "Orlando (GRU-MCO) por R$ 1572",
   "detalhe": "American, 1 parada(s), voo 2026-11-07. Motivo: abaixo do teto de R$ 1700.",
   "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20MCO%20on%202026-11-07",
-  "criado_em": "2026-08-09T02:32:42+00:00"
- },
- {
-  "tipo": "preco",
-  "titulo": "Santiago (GRU-SCL) por R$ 741",
-  "detalhe": "LATAM, 0 parada(s), voo 2026-09-08. Motivo: abaixo do teto de R$ 800.",
-  "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20SCL%20on%202026-09-08",
   "criado_em": "2026-08-09T02:32:42+00:00"
  }
 ]
