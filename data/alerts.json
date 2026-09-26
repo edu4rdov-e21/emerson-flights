@@ -1,5 +1,19 @@
 [
  {
+  "tipo": "preco",
+  "titulo": "Lisboa (GRU-LIS) por R$ 1991",
+  "detalhe": "Tap Air Portugal, 0 parada(s), voo 2026-10-26. Motivo: abaixo do teto de R$ 3000.",
+  "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20LIS%20on%202026-10-26",
+  "criado_em": "2026-09-26T05:09:01+00:00"
+ },
+ {
+  "tipo": "preco",
+  "titulo": "Lisboa (GRU-LIS) por R$ 2072",
+  "detalhe": "LATAM, 1 parada(s), voo 2026-11-25. Motivo: abaixo do teto de R$ 3000.",
+  "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20LIS%20on%202026-11-25",
+  "criado_em": "2026-09-26T05:09:01+00:00"
+ },
+ {
   "tipo": "bonus",
   "titulo": "Bonus de 100% (Smiles)",
   "detalhe": "🚢 Smiles Oferece Até 100% De Bônus Na Transferência Do Kmv",
@@ -1383,20 +1397,6 @@
   "titulo": "Lisboa (GRU-LIS) por R$ 2921",
   "detalhe": "Air Europa, 1 parada(s), voo 2026-11-07. Motivo: abaixo do teto de R$ 3000.",
   "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20LIS%20on%202026-11-07",
-  "criado_em": "2026-08-09T02:32:42+00:00"
- },
- {
-  "tipo": "preco",
-  "titulo": "Miami (GRU-MIA) por R$ 1892",
-  "detalhe": "Aerolineas Argentinas, 1 parada(s), voo 2026-11-07. Motivo: abaixo do teto de R$ 2000.",
-  "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20MIA%20on%202026-11-07",
-  "criado_em": "2026-08-09T02:32:42+00:00"
- },
- {
-  "tipo": "preco",
-  "titulo": "Orlando (GRU-MCO) por R$ 1572",
-  "detalhe": "American, 1 parada(s), voo 2026-11-07. Motivo: abaixo do teto de R$ 1700.",
-  "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20MCO%20on%202026-11-07",
   "criado_em": "2026-08-09T02:32:42+00:00"
  }
 ]
