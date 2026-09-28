@@ -1,5 +1,25 @@
 [
  {
+  "pct": 53,
+  "de": "Esfera",
+  "para": null,
+  "texto": "‌Só hoje! Esfera oferece até 53% de desconto na compra de pontos\n\nAutor(a): Vinícius Rodrigues\n\nLeia mais em: https://pontospravoar.com/?p=143192",
+  "fonte": "t.me/canalpontospravoar",
+  "link": "https://t.me/canalpontospravoar/28154",
+  "publicado_em": "2026-09-28T15:00:11+00:00",
+  "detectado_em": "2026-09-28T21:16:38+00:00"
+ },
+ {
+  "pct": 57,
+  "de": "Livelo",
+  "para": null,
+  "texto": "‌Livelo oferece até 57% de desconto na compra de pontos + 2% OFF no Pix\n\nAutor(a): Vinícius Rodrigues\n\nLeia mais em: https://pontospravoar.com/?p=143204",
+  "fonte": "t.me/canalpontospravoar",
+  "link": "https://t.me/canalpontospravoar/28163",
+  "publicado_em": "2026-09-28T19:00:50+00:00",
+  "detectado_em": "2026-09-28T21:16:38+00:00"
+ },
+ {
   "pct": 20,
   "de": "Livelo",
   "para": null,
@@ -578,25 +598,5 @@
   "link": "https://t.me/promopassagens/110907",
   "publicado_em": "2026-08-12T14:45:42+00:00",
   "detectado_em": "2026-08-12T16:13:10+00:00"
- },
- {
-  "pct": 77,
-  "de": null,
-  "para": "Smiles",
-  "texto": "‌Clube Smiles 1.000 oferece 42 mil milhas + voucher de 77% OFF\n\nAutor(a): Vinícius Rodrigues\n\nLeia mais em: https://pontospravoar.com/?p=135829",
-  "fonte": "t.me/canalpontospravoar",
-  "link": "https://t.me/canalpontospravoar/27060",
-  "publicado_em": "2026-08-11T19:00:27+00:00",
-  "detectado_em": "2026-08-11T19:29:59+00:00"
- },
- {
-  "pct": 25,
-  "de": null,
-  "para": "Azul Fidelidade",
-  "texto": "🚞 Azul Fidelidade Oferece 25% De Bônus No Uber Voucher De R$ 100",
-  "fonte": "t.me/promopassagens",
-  "link": "https://t.me/promopassagens/110874",
-  "publicado_em": "2026-08-11T19:15:46+00:00",
-  "detectado_em": "2026-08-11T19:29:59+00:00"
  }
 ]
