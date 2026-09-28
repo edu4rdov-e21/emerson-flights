@@ -1,6 +1,20 @@
 [
  {
   "tipo": "preco",
+  "titulo": "Lisboa (GRU-LIS) por R$ 2071",
+  "detalhe": "Tap Air Portugal, 1 parada(s), voo 2026-10-28. Motivo: abaixo do teto de R$ 3000.",
+  "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20LIS%20on%202026-10-28",
+  "criado_em": "2026-09-28T05:34:04+00:00"
+ },
+ {
+  "tipo": "preco",
+  "titulo": "Lisboa (GRU-LIS) por R$ 1961",
+  "detalhe": "Air Europa, 1 parada(s), voo 2026-11-27. Motivo: abaixo do teto de R$ 3000.",
+  "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20LIS%20on%202026-11-27",
+  "criado_em": "2026-09-28T05:34:04+00:00"
+ },
+ {
+  "tipo": "preco",
   "titulo": "Lisboa (GRU-LIS) por R$ 1991",
   "detalhe": "Tap Air Portugal, 0 parada(s), voo 2026-10-27. Motivo: abaixo do teto de R$ 3000.",
   "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20LIS%20on%202026-10-27",
@@ -1384,19 +1398,5 @@
   "detalhe": "LATAM, 1 parada(s), voo 2026-09-09. Motivo: abaixo do teto de R$ 800.",
   "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20SCL%20on%202026-09-09",
   "criado_em": "2026-08-10T02:38:35+00:00"
- },
- {
-  "tipo": "preco",
-  "titulo": "Santiago (GRU-SCL) por R$ 799",
-  "detalhe": "LATAM, 1 parada(s), voo 2026-11-08. Motivo: abaixo do teto de R$ 800.",
-  "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20SCL%20on%202026-11-08",
-  "criado_em": "2026-08-10T02:38:35+00:00"
- },
- {
-  "tipo": "preco",
-  "titulo": "Santiago (GRU-SCL) por R$ 738",
-  "detalhe": "LATAM, 1 parada(s), voo 2026-11-07. Motivo: abaixo do teto de R$ 800.",
-  "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20SCL%20on%202026-11-07",
-  "criado_em": "2026-08-09T10:00:37+00:00"
  }
 ]
