@@ -1,5 +1,12 @@
 [
  {
+  "tipo": "bonus",
+  "titulo": "Bonus de 100% (Azul Fidelidade)",
+  "detalhe": "Azul Fidelidade\n\n Ganhe até 100% de bônus na transferência de pontos do Inter Loop\n\n👉 https://melhores.la/wayxF9",
+  "link": "https://t.me/melhoresdestinos/19625",
+  "criado_em": "2026-10-01T18:28:14+00:00"
+ },
+ {
   "tipo": "preco",
   "titulo": "Lisboa (GRU-LIS) por R$ 2093",
   "detalhe": "Tap Air Portugal, 1 parada(s), voo 2026-10-31. Motivo: abaixo do teto de R$ 3000.",
@@ -1390,13 +1397,6 @@
   "titulo": "Lisboa (GRU-LIS) por R$ 2540",
   "detalhe": "Royal Air Maroc, 1 parada(s), voo 2026-11-10. Motivo: abaixo do teto de R$ 3000.",
   "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20LIS%20on%202026-11-10",
-  "criado_em": "2026-08-12T03:00:30+00:00"
- },
- {
-  "tipo": "preco",
-  "titulo": "Orlando (GRU-MCO) por R$ 1658",
-  "detalhe": "American, 2 parada(s), voo 2026-09-11. Motivo: abaixo do teto de R$ 1700.",
-  "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20MCO%20on%202026-09-11",
   "criado_em": "2026-08-12T03:00:30+00:00"
  }
 ]
