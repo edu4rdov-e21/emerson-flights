@@ -1,5 +1,12 @@
 [
  {
+  "tipo": "preco",
+  "titulo": "Lisboa (GRU-LIS) por R$ 1985",
+  "detalhe": "Tap Air Portugal, 0 parada(s), voo 2026-12-01. Motivo: abaixo do teto de R$ 3000.",
+  "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20LIS%20on%202026-12-01",
+  "criado_em": "2026-10-02T00:53:15+00:00"
+ },
+ {
   "tipo": "bonus",
   "titulo": "Bonus de 100% (Azul Fidelidade)",
   "detalhe": "Azul Fidelidade\n\n Ganhe até 100% de bônus na transferência de pontos do Inter Loop\n\n👉 https://melhores.la/wayxF9",
@@ -1391,12 +1398,5 @@
   "detalhe": "🗺 Estudo Da Livelo Revela Que Pontos Já São Vistos Como Patrimônio Por 85% Dos Usuários",
   "link": "https://t.me/promopassagens/110907",
   "criado_em": "2026-08-12T16:13:10+00:00"
- },
- {
-  "tipo": "preco",
-  "titulo": "Lisboa (GRU-LIS) por R$ 2540",
-  "detalhe": "Royal Air Maroc, 1 parada(s), voo 2026-11-10. Motivo: abaixo do teto de R$ 3000.",
-  "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20LIS%20on%202026-11-10",
-  "criado_em": "2026-08-12T03:00:30+00:00"
  }
 ]
