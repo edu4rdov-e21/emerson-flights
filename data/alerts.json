@@ -1,5 +1,19 @@
 [
  {
+  "tipo": "preco",
+  "titulo": "Lisboa (GRU-LIS) por R$ 2000",
+  "detalhe": "Tap Air Portugal, 0 parada(s), voo 2026-11-02. Motivo: abaixo do teto de R$ 3000.",
+  "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20LIS%20on%202026-11-02",
+  "criado_em": "2026-10-03T05:27:21+00:00"
+ },
+ {
+  "tipo": "preco",
+  "titulo": "Lisboa (GRU-LIS) por R$ 2000",
+  "detalhe": "Tap Air Portugal, 0 parada(s), voo 2026-12-02. Motivo: abaixo do teto de R$ 3000.",
+  "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20LIS%20on%202026-12-02",
+  "criado_em": "2026-10-03T05:27:21+00:00"
+ },
+ {
   "tipo": "bonus",
   "titulo": "Bonus de 80% (TAP Miles&Go)",
   "detalhe": "‌TAP Miles&Go faz 8 anos com até 80% de milhas bônus em voos\n\nAutor(a): Fernanda Inocente\n\nLeia mais em: https://pontospravoar.com/?p=143808",
@@ -1384,19 +1398,5 @@
   "detalhe": "COPA, 1 parada(s), voo 2026-11-11. Motivo: abaixo do teto de R$ 1300.",
   "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20CUN%20on%202026-11-11",
   "criado_em": "2026-08-13T03:03:22+00:00"
- },
- {
-  "tipo": "preco",
-  "titulo": "Miami (GRU-MIA) por R$ 1770",
-  "detalhe": "Avianca, 1 parada(s), voo 2026-09-11. Motivo: abaixo do teto de R$ 2000.",
-  "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20MIA%20on%202026-09-11",
-  "criado_em": "2026-08-12T19:31:10+00:00"
- },
- {
-  "tipo": "preco",
-  "titulo": "Miami (GRU-MIA) por R$ 1854",
-  "detalhe": "Aerolineas Argentinas, 1 parada(s), voo 2026-10-11. Motivo: abaixo do teto de R$ 2000.",
-  "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20MIA%20on%202026-10-11",
-  "criado_em": "2026-08-12T19:31:10+00:00"
  }
 ]
