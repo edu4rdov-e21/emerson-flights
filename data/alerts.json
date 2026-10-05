@@ -1,5 +1,19 @@
 [
  {
+  "tipo": "bonus",
+  "titulo": "Bonus de 100% (Livelo)",
+  "detalhe": "Azul e Livelo\n\n Ganhe até 100% de bônus na transferência de pontos\n\n👉 https://melhores.la/WVYcGk",
+  "link": "https://t.me/melhoresdestinos/19655",
+  "criado_em": "2026-10-05T14:56:11+00:00"
+ },
+ {
+  "tipo": "bonus",
+  "titulo": "Bonus de 100% (Livelo -> Azul Fidelidade)",
+  "detalhe": "‌Transfira pontos da Livelo para o Azul Fidelidade com até 100% de bônus\n\nAutor(a): Vinícius Rodrigues\n\nLeia mais em: https://pontospravoar.com/?p=144197",
+  "link": "https://t.me/canalpontospravoar/28325",
+  "criado_em": "2026-10-05T14:56:11+00:00"
+ },
+ {
   "tipo": "preco",
   "titulo": "Lisboa (GRU-LIS) por R$ 2000",
   "detalhe": "Tap Air Portugal, 0 parada(s), voo 2026-11-04. Motivo: abaixo do teto de R$ 3000.",
@@ -1383,20 +1397,6 @@
   "titulo": "Lisboa (GRU-LIS) por R$ 2948",
   "detalhe": "KLM, 1 parada(s), voo 2026-10-12. Motivo: abaixo do teto de R$ 3000.",
   "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20LIS%20on%202026-10-12",
-  "criado_em": "2026-08-13T03:03:22+00:00"
- },
- {
-  "tipo": "preco",
-  "titulo": "Lisboa (GRU-LIS) por R$ 2554",
-  "detalhe": "Royal Air Maroc, 1 parada(s), voo 2026-11-11. Motivo: abaixo do teto de R$ 3000.",
-  "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20LIS%20on%202026-11-11",
-  "criado_em": "2026-08-13T03:03:22+00:00"
- },
- {
-  "tipo": "preco",
-  "titulo": "Miami (GRU-MIA) por R$ 1782",
-  "detalhe": "Avianca, 1 parada(s), voo 2026-10-12. Motivo: abaixo do teto de R$ 2000.",
-  "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20MIA%20on%202026-10-12",
   "criado_em": "2026-08-13T03:03:22+00:00"
  }
 ]
