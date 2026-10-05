@@ -1,5 +1,19 @@
 [
  {
+  "tipo": "preco",
+  "titulo": "Miami (GRU-MIA) por R$ 1930",
+  "detalhe": "COPA, 1 parada(s), voo 2026-12-04. Motivo: abaixo do teto de R$ 2000.",
+  "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20MIA%20on%202026-12-04",
+  "criado_em": "2026-10-05T22:04:20+00:00"
+ },
+ {
+  "tipo": "preco",
+  "titulo": "Santiago (GRU-SCL) por R$ 800",
+  "detalhe": "LATAM, 0 parada(s), voo 2026-11-04. Motivo: abaixo do teto de R$ 800.",
+  "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20SCL%20on%202026-11-04",
+  "criado_em": "2026-10-05T22:04:20+00:00"
+ },
+ {
   "tipo": "bonus",
   "titulo": "Bonus de 100% (Livelo)",
   "detalhe": "Azul e Livelo\n\n Ganhe até 100% de bônus na transferência de pontos\n\n👉 https://melhores.la/WVYcGk",
@@ -1384,19 +1398,5 @@
   "detalhe": "Gol, Avianca, 2 parada(s), voo 2026-09-12. Motivo: abaixo do teto de R$ 2000.",
   "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20MIA%20on%202026-09-12",
   "criado_em": "2026-08-13T13:53:03+00:00"
- },
- {
-  "tipo": "bonus",
-  "titulo": "Bonus de 120% (Esfera -> Azul Fidelidade)",
-  "detalhe": "✈️ Azul Fidelidade Oferece Até 120% De Bônus Nas Transferências De Pontos De Vários Parceiros – Incluindo Esfera",
-  "link": "https://t.me/promopassagens/110947",
-  "criado_em": "2026-08-13T13:53:03+00:00"
- },
- {
-  "tipo": "preco",
-  "titulo": "Lisboa (GRU-LIS) por R$ 2948",
-  "detalhe": "KLM, 1 parada(s), voo 2026-10-12. Motivo: abaixo do teto de R$ 3000.",
-  "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20LIS%20on%202026-10-12",
-  "criado_em": "2026-08-13T03:03:22+00:00"
  }
 ]
