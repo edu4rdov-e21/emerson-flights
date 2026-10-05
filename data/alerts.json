@@ -2,6 +2,20 @@
  {
   "tipo": "preco",
   "titulo": "Lisboa (GRU-LIS) por R$ 2000",
+  "detalhe": "Tap Air Portugal, 0 parada(s), voo 2026-11-04. Motivo: abaixo do teto de R$ 3000.",
+  "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20LIS%20on%202026-11-04",
+  "criado_em": "2026-10-05T05:52:54+00:00"
+ },
+ {
+  "tipo": "preco",
+  "titulo": "Lisboa (GRU-LIS) por R$ 2000",
+  "detalhe": "Tap Air Portugal, 0 parada(s), voo 2026-12-04. Motivo: abaixo do teto de R$ 3000.",
+  "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20LIS%20on%202026-12-04",
+  "criado_em": "2026-10-05T05:52:54+00:00"
+ },
+ {
+  "tipo": "preco",
+  "titulo": "Lisboa (GRU-LIS) por R$ 2000",
   "detalhe": "Tap Air Portugal, 0 parada(s), voo 2026-12-03. Motivo: abaixo do teto de R$ 3000.",
   "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20LIS%20on%202026-12-03",
   "criado_em": "2026-10-04T06:03:04+00:00"
@@ -1383,20 +1397,6 @@
   "titulo": "Miami (GRU-MIA) por R$ 1782",
   "detalhe": "Avianca, 1 parada(s), voo 2026-10-12. Motivo: abaixo do teto de R$ 2000.",
   "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20MIA%20on%202026-10-12",
-  "criado_em": "2026-08-13T03:03:22+00:00"
- },
- {
-  "tipo": "preco",
-  "titulo": "Miami (GRU-MIA) por R$ 1854",
-  "detalhe": "Aerolineas Argentinas, 1 parada(s), voo 2026-11-11. Motivo: abaixo do teto de R$ 2000.",
-  "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20MIA%20on%202026-11-11",
-  "criado_em": "2026-08-13T03:03:22+00:00"
- },
- {
-  "tipo": "preco",
-  "titulo": "Buenos Aires (GRU-EZE) por R$ 689",
-  "detalhe": "LATAM, 0 parada(s), voo 2026-09-12. Motivo: abaixo do teto de R$ 800.",
-  "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20EZE%20on%202026-09-12",
   "criado_em": "2026-08-13T03:03:22+00:00"
  }
 ]
