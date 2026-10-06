@@ -1,5 +1,12 @@
 [
  {
+  "tipo": "bonus",
+  "titulo": "Bonus de 100% (C6 -> Azul Fidelidade)",
+  "detalhe": "Azul Fidelidade e C6 Bank\n\n Ganhe até 100% de bônus na transferência de pontos\n\n👉 https://melhores.la/6GhnCG",
+  "link": "https://t.me/melhoresdestinos/19673",
+  "criado_em": "2026-10-06T16:01:34+00:00"
+ },
+ {
   "tipo": "preco",
   "titulo": "Lisboa (GRU-LIS) por R$ 1912",
   "detalhe": "Tap Air Portugal, 0 parada(s), voo 2026-11-05. Motivo: abaixo do teto de R$ 3000.",
@@ -1390,13 +1397,6 @@
   "titulo": "Miami (GRU-MIA) por R$ 1789",
   "detalhe": "Avianca, 1 parada(s), voo 2026-09-13. Motivo: abaixo do teto de R$ 2000.",
   "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20MIA%20on%202026-09-13",
-  "criado_em": "2026-08-14T03:02:22+00:00"
- },
- {
-  "tipo": "preco",
-  "titulo": "Miami (GRU-MIA) por R$ 1866",
-  "detalhe": "Aerolineas Argentinas, 1 parada(s), voo 2026-10-13. Motivo: abaixo do teto de R$ 2000.",
-  "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20MIA%20on%202026-10-13",
   "criado_em": "2026-08-14T03:02:22+00:00"
  }
 ]
