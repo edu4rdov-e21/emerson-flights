@@ -1,5 +1,12 @@
 [
  {
+  "tipo": "bonus",
+  "titulo": "Bonus de 100% (Genial -> Azul Fidelidade)",
+  "detalhe": "‌Transfira pontos da Genial para o Azul Fidelidade com até 100% de bônus\n\nAutor(a): Vinícius Rodrigues\n\nLeia mais em: https://pontospravoar.com/?p=144522",
+  "link": "https://t.me/canalpontospravoar/28376",
+  "criado_em": "2026-10-07T20:40:12+00:00"
+ },
+ {
   "tipo": "preco",
   "titulo": "Lisboa (GRU-LIS) por R$ 1907",
   "detalhe": "Tap Air Portugal, 0 parada(s), voo 2026-11-06. Motivo: abaixo do teto de R$ 3000.",
@@ -1391,12 +1398,5 @@
   "detalhe": "Avianca, 1 parada(s), voo 2026-10-14. Motivo: abaixo do teto de R$ 2000.",
   "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20MIA%20on%202026-10-14",
   "criado_em": "2026-08-15T15:40:02+00:00"
- },
- {
-  "tipo": "preco",
-  "titulo": "Miami (GRU-MIA) por R$ 1801",
-  "detalhe": "Avianca, 1 parada(s), voo 2026-09-14. Motivo: abaixo do teto de R$ 2000.",
-  "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20MIA%20on%202026-09-14",
-  "criado_em": "2026-08-15T03:58:19+00:00"
  }
 ]
