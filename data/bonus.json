@@ -1,5 +1,15 @@
 [
  {
+  "pct": 60,
+  "de": "Livelo",
+  "para": null,
+  "texto": "‌Seguro viagem: aproveite até 60% OFF e pontos Livelo com a Assist Card\n\nAutor(a): Rennan Machado\n\nLeia mais em: https://pontospravoar.com/?p=144422",
+  "fonte": "t.me/canalpontospravoar",
+  "link": "https://t.me/canalpontospravoar/28367",
+  "publicado_em": "2026-10-06T22:00:22+00:00",
+  "detectado_em": "2026-10-07T06:10:29+00:00"
+ },
+ {
   "pct": 80,
   "de": null,
   "para": "Smiles",
@@ -588,15 +598,5 @@
   "link": "https://t.me/canalpontospravoar/27480",
   "publicado_em": "2026-08-29T17:00:10+00:00",
   "detectado_em": "2026-08-29T20:59:33+00:00"
- },
- {
-  "pct": 55,
-  "de": "Livelo",
-  "para": null,
-  "texto": "✈️ Livelo Oferece 55% De Desconto Na Compra De Pontos – Milheiro A Partir De R$ 30,87",
-  "fonte": "t.me/promopassagens",
-  "link": "https://t.me/promopassagens/111584",
-  "publicado_em": "2026-08-28T20:01:29+00:00",
-  "detectado_em": "2026-08-29T01:47:41+00:00"
  }
 ]
