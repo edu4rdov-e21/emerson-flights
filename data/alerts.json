@@ -1,6 +1,20 @@
 [
  {
   "tipo": "preco",
+  "titulo": "Santiago (GRU-SCL) por R$ 721",
+  "detalhe": "LATAM, 0 parada(s), voo 2026-12-08. Motivo: abaixo do teto de R$ 800.",
+  "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20SCL%20on%202026-12-08",
+  "criado_em": "2026-10-09T18:25:20+00:00"
+ },
+ {
+  "tipo": "preco",
+  "titulo": "Santiago (GRU-SCL) por R$ 721",
+  "detalhe": "LATAM, 0 parada(s), voo 2027-01-07. Motivo: abaixo do teto de R$ 800.",
+  "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20SCL%20on%202027-01-07",
+  "criado_em": "2026-10-09T18:25:20+00:00"
+ },
+ {
+  "tipo": "preco",
   "titulo": "Lisboa (GRU-LIS) por R$ 1915",
   "detalhe": "Tap Air Portugal, 0 parada(s), voo 2026-11-08. Motivo: abaixo do teto de R$ 3000.",
   "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20LIS%20on%202026-11-08",
@@ -1384,19 +1398,5 @@
   "detalhe": "‌Aproveite! Azul Fidelidade com até 120% de bônus na transferência de pontos Alloyal\n\nAutor(a): Equipe Pontos pra Voar\n\nLeia mais em: https://pontospravoar.com/?p=136873",
   "link": "https://t.me/canalpontospravoar/27196",
   "criado_em": "2026-08-18T19:01:29+00:00"
- },
- {
-  "tipo": "preco",
-  "titulo": "Lisboa (GRU-LIS) por R$ 2993",
-  "detalhe": "Air France, 1 parada(s), voo 2026-10-17. Motivo: abaixo do teto de R$ 3000.",
-  "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20LIS%20on%202026-10-17",
-  "criado_em": "2026-08-18T09:53:18+00:00"
- },
- {
-  "tipo": "preco",
-  "titulo": "Lisboa (GRU-LIS) por R$ 2991",
-  "detalhe": "KLM, 1 parada(s), voo 2026-11-16. Motivo: abaixo do teto de R$ 3000.",
-  "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20LIS%20on%202026-11-16",
-  "criado_em": "2026-08-18T04:02:19+00:00"
  }
 ]
