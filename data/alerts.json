@@ -1,5 +1,19 @@
 [
  {
+  "tipo": "preco",
+  "titulo": "Lisboa (GRU-LIS) por R$ 1896",
+  "detalhe": "Gol, 2 parada(s), voo 2026-11-13. Motivo: abaixo do teto de R$ 3000.",
+  "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20LIS%20on%202026-11-13",
+  "criado_em": "2026-10-14T00:22:05+00:00"
+ },
+ {
+  "tipo": "preco",
+  "titulo": "Lisboa (GRU-LIS) por R$ 2737",
+  "detalhe": "LATAM, 1 parada(s), voo 2026-12-13. Motivo: abaixo do teto de R$ 3000.",
+  "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20LIS%20on%202026-12-13",
+  "criado_em": "2026-10-14T00:22:05+00:00"
+ },
+ {
   "tipo": "bonus",
   "titulo": "Bonus de 100% (Sicredi -> Azul Fidelidade)",
   "detalhe": "‌Azul Fidelidade oferece até 100% de bônus na transferência do Sicredi + 15% OFF em passagens\n\nAutor(a): Vinícius Rodrigues\n\nLeia mais em: https://pontospravoar.com/?p=145259",
@@ -1384,19 +1398,5 @@
   "detalhe": "Aerolineas Argentinas, 1 parada(s), voo 2026-10-21. Motivo: abaixo do teto de R$ 2000.",
   "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20MIA%20on%202026-10-21",
   "criado_em": "2026-08-22T01:54:17+00:00"
- },
- {
-  "tipo": "preco",
-  "titulo": "Lisboa (GRU-LIS) por R$ 2019",
-  "detalhe": "LATAM, 0 parada(s), voo 2026-10-20. Motivo: abaixo do teto de R$ 3000.",
-  "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20LIS%20on%202026-10-20",
-  "criado_em": "2026-08-21T13:15:41+00:00"
- },
- {
-  "tipo": "preco",
-  "titulo": "Lisboa (GRU-LIS) por R$ 2587",
-  "detalhe": "Royal Air Maroc, 1 parada(s), voo 2026-10-20. Motivo: abaixo do teto de R$ 3000.",
-  "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20LIS%20on%202026-10-20",
-  "criado_em": "2026-08-21T09:55:06+00:00"
  }
 ]
