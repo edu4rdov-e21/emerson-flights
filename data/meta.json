@@ -1,21 +1,12 @@
 {
- "gerado_em": "2026-10-16T04:42:08+00:00",
- "duracao_s": 37.7,
- "alertas_na_rodada": 1,
+ "gerado_em": "2026-10-16T11:35:51+00:00",
+ "duracao_s": 41.7,
+ "alertas_na_rodada": 0,
  "fontes": {
   "precos": {
    "ok": true,
-   "itens": 10,
-   "erros": [
-    "GRU-LIS +60d: no flights found; received error",
-    "GRU-LIS +90d: no flights found; received error",
-    "GRU-MIA +30d: no flights found; received error",
-    "GRU-MCO +60d: no flights found; received error",
-    "GRU-MCO +90d: no flights found; received error",
-    "GRU-SCL +30d: no flights found; received error",
-    "GRU-SCL +60d: no flights found; received error",
-    "GRU-CUN +90d: no flights found; received error"
-   ]
+   "itens": 18,
+   "erros": []
   },
   "rss": {
    "ok": true,
