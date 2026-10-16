@@ -7,27 +7,12 @@
   "teto_brl": 3000,
   "data_voo": "2026-11-15",
   "horizonte": 30,
-  "preco": 3483,
+  "preco": 1937,
   "cia": "Tap Air Portugal",
   "paradas": 0,
-  "duracao_min": 595,
+  "duracao_min": 600,
   "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20LIS%20on%202026-11-15",
-  "coletado_em": "2026-10-16T16:45:56+00:00"
- },
- {
-  "rota": "GRU-LIS",
-  "de": "GRU",
-  "para": "LIS",
-  "nome": "Lisboa",
-  "teto_brl": 3000,
-  "data_voo": "2026-12-15",
-  "horizonte": 60,
-  "preco": 3222,
-  "cia": "LATAM",
-  "paradas": 0,
-  "duracao_min": 580,
-  "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20LIS%20on%202026-12-15",
-  "coletado_em": "2026-10-16T16:45:56+00:00"
+  "coletado_em": "2026-10-16T21:21:00+00:00"
  },
  {
   "rota": "GRU-LIS",
@@ -42,7 +27,7 @@
   "paradas": 1,
   "duracao_min": 635,
   "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20LIS%20on%202027-01-14",
-  "coletado_em": "2026-10-16T16:45:56+00:00"
+  "coletado_em": "2026-10-16T21:21:00+00:00"
  },
  {
   "rota": "GRU-MIA",
@@ -57,22 +42,22 @@
   "paradas": 1,
   "duracao_min": 607,
   "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20MIA%20on%202026-11-15",
-  "coletado_em": "2026-10-16T16:45:56+00:00"
+  "coletado_em": "2026-10-16T21:21:00+00:00"
  },
  {
-  "rota": "GRU-MIA",
+  "rota": "GRU-MCO",
   "de": "GRU",
-  "para": "MIA",
-  "nome": "Miami",
-  "teto_brl": 2000,
-  "data_voo": "2027-01-14",
-  "horizonte": 90,
-  "preco": 3632,
-  "cia": "COPA",
+  "para": "MCO",
+  "nome": "Orlando",
+  "teto_brl": 1700,
+  "data_voo": "2026-11-15",
+  "horizonte": 30,
+  "preco": 2105,
+  "cia": "Avianca",
   "paradas": 1,
-  "duracao_min": 597,
-  "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20MIA%20on%202027-01-14",
-  "coletado_em": "2026-10-16T16:45:56+00:00"
+  "duracao_min": 620,
+  "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20MCO%20on%202026-11-15",
+  "coletado_em": "2026-10-16T21:21:00+00:00"
  },
  {
   "rota": "GRU-MCO",
@@ -87,7 +72,7 @@
   "paradas": 2,
   "duracao_min": 865,
   "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20MCO%20on%202026-12-15",
-  "coletado_em": "2026-10-16T16:45:56+00:00"
+  "coletado_em": "2026-10-16T21:21:00+00:00"
  },
  {
   "rota": "GRU-EZE",
@@ -95,29 +80,14 @@
   "para": "EZE",
   "nome": "Buenos Aires",
   "teto_brl": 800,
-  "data_voo": "2026-12-15",
-  "horizonte": 60,
+  "data_voo": "2027-01-14",
+  "horizonte": 90,
   "preco": 1110,
   "cia": "LATAM",
   "paradas": 1,
-  "duracao_min": 377,
-  "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20EZE%20on%202026-12-15",
-  "coletado_em": "2026-10-16T16:45:56+00:00"
- },
- {
-  "rota": "GRU-SCL",
-  "de": "GRU",
-  "para": "SCL",
-  "nome": "Santiago",
-  "teto_brl": 800,
-  "data_voo": "2026-11-15",
-  "horizonte": 30,
-  "preco": 1004,
-  "cia": "LATAM",
-  "paradas": 0,
-  "duracao_min": 255,
-  "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20SCL%20on%202026-11-15",
-  "coletado_em": "2026-10-16T16:45:56+00:00"
+  "duracao_min": 375,
+  "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20EZE%20on%202027-01-14",
+  "coletado_em": "2026-10-16T21:21:00+00:00"
  },
  {
   "rota": "GRU-SCL",
@@ -127,12 +97,12 @@
   "teto_brl": 800,
   "data_voo": "2026-12-15",
   "horizonte": 60,
-  "preco": 864,
+  "preco": 890,
   "cia": "Aerolineas Argentinas",
   "paradas": 1,
   "duracao_min": 325,
   "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20SCL%20on%202026-12-15",
-  "coletado_em": "2026-10-16T16:45:56+00:00"
+  "coletado_em": "2026-10-16T21:21:00+00:00"
  },
  {
   "rota": "GRU-SCL",
@@ -142,27 +112,12 @@
   "teto_brl": 800,
   "data_voo": "2027-01-14",
   "horizonte": 90,
-  "preco": 955,
+  "preco": 980,
   "cia": "Aerolineas Argentinas",
   "paradas": 1,
   "duracao_min": 325,
   "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20SCL%20on%202027-01-14",
-  "coletado_em": "2026-10-16T16:45:56+00:00"
- },
- {
-  "rota": "GRU-CUN",
-  "de": "GRU",
-  "para": "CUN",
-  "nome": "Cancún",
-  "teto_brl": 1300,
-  "data_voo": "2026-11-15",
-  "horizonte": 30,
-  "preco": 1788,
-  "cia": "Avianca",
-  "paradas": 1,
-  "duracao_min": 595,
-  "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20CUN%20on%202026-11-15",
-  "coletado_em": "2026-10-16T16:45:56+00:00"
+  "coletado_em": "2026-10-16T21:21:00+00:00"
  },
  {
   "rota": "GRU-CUN",
@@ -172,11 +127,11 @@
   "teto_brl": 1300,
   "data_voo": "2026-12-15",
   "horizonte": 60,
-  "preco": 2072,
+  "preco": 2274,
   "cia": "COPA",
   "paradas": 1,
   "duracao_min": 592,
   "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20CUN%20on%202026-12-15",
-  "coletado_em": "2026-10-16T16:45:56+00:00"
+  "coletado_em": "2026-10-16T21:21:00+00:00"
  }
 ]
