@@ -1,14 +1,12 @@
 {
- "gerado_em": "2026-10-18T20:53:44+00:00",
- "duracao_s": 38.1,
+ "gerado_em": "2026-10-18T23:21:08+00:00",
+ "duracao_s": 37.2,
  "alertas_na_rodada": 0,
  "fontes": {
   "precos": {
    "ok": true,
-   "itens": 17,
-   "erros": [
-    "GRU-CUN +90d: no flights found; received error"
-   ]
+   "itens": 18,
+   "erros": []
   },
   "rss": {
    "ok": true,
