@@ -1,5 +1,12 @@
 [
  {
+  "tipo": "bonus",
+  "titulo": "Bonus de 100% (Livelo -> Azul Fidelidade)",
+  "detalhe": "Azul Fidelidade\n\n Ganhe até 100% de bônus na transferência de pontos Livelo\n\n👉 https://melhores.la/6aOGOt",
+  "link": "https://t.me/melhoresdestinos/19854",
+  "criado_em": "2026-10-20T14:22:42+00:00"
+ },
+ {
   "tipo": "preco",
   "titulo": "Lisboa (GRU-LIS) por R$ 1950",
   "detalhe": "LATAM, 0 parada(s), voo 2026-11-19. Motivo: abaixo do teto de R$ 3000.",
@@ -1391,12 +1398,5 @@
   "detalhe": "Gol, Avianca, 2 parada(s), voo 2026-09-22. Motivo: abaixo do teto de R$ 2000.",
   "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20MIA%20on%202026-09-22",
   "criado_em": "2026-08-23T09:47:47+00:00"
- },
- {
-  "tipo": "preco",
-  "titulo": "Lisboa (GRU-LIS) por R$ 2971",
-  "detalhe": "KLM, 1 parada(s), voo 2026-10-22. Motivo: abaixo do teto de R$ 3000.",
-  "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20LIS%20on%202026-10-22",
-  "criado_em": "2026-08-23T02:03:06+00:00"
  }
 ]
