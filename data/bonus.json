@@ -1,5 +1,15 @@
 [
  {
+  "pct": 250,
+  "de": null,
+  "para": "Smiles",
+  "texto": "🚢 Smiles Oferece Até 250% De Bônus Na Compra De Milhas Para Assinantes Do Clube\n #Milhas",
+  "fonte": "t.me/promopassagens",
+  "link": "https://t.me/promopassagens/113614",
+  "publicado_em": "2026-10-24T14:00:50+00:00",
+  "detectado_em": "2026-10-24T16:04:04+00:00"
+ },
+ {
   "pct": 76,
   "de": "BB",
   "para": null,
@@ -588,15 +598,5 @@
   "link": "https://t.me/promopassagens/112096",
   "publicado_em": "2026-09-15T20:45:43+00:00",
   "detectado_em": "2026-09-15T21:28:54+00:00"
- },
- {
-  "pct": 25,
-  "de": null,
-  "para": "LATAM Pass",
-  "texto": "Aniversário Latam Pass\n\n Ganhe 25% de bônus na transferência de pontos do cartão de crédito\n\n👉 https://melhores.la/f9SVGi",
-  "fonte": "t.me/melhoresdestinos",
-  "link": "https://t.me/melhoresdestinos/19382",
-  "publicado_em": "2026-09-14T15:17:14+00:00",
-  "detectado_em": "2026-09-14T23:54:05+00:00"
  }
 ]
