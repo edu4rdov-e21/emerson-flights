@@ -1,6 +1,13 @@
 [
  {
   "tipo": "bonus",
+  "titulo": "Bonus de 100% (Avios)",
+  "detalhe": "‌British Airways terá voos com 100% dos assentos disponíveis apenas com Avios\n\nAutor(a): Laís Roani\n\nLeia mais em: https://pontospravoar.com/?p=146447",
+  "link": "https://t.me/canalpontospravoar/28740",
+  "criado_em": "2026-10-24T23:22:17+00:00"
+ },
+ {
+  "tipo": "bonus",
   "titulo": "Bonus de 250% (Smiles)",
   "detalhe": "🚢 Smiles Oferece Até 250% De Bônus Na Compra De Milhas Para Assinantes Do Clube\n #Milhas",
   "link": "https://t.me/promopassagens/113614",
@@ -1390,13 +1397,6 @@
   "titulo": "Bonus de 120% (BB -> Azul Fidelidade)",
   "detalhe": "Azul Fidelidade\n\n Até 120% de bônus na transferência de pontos do C6 Bank\n\n👉 https://melhores.la/2hpbBc",
   "link": "https://t.me/melhoresdestinos/19082",
-  "criado_em": "2026-08-24T13:18:09+00:00"
- },
- {
-  "tipo": "bonus",
-  "titulo": "Bonus de 120% (C6 -> Azul Fidelidade)",
-  "detalhe": "‌Azul Fidelidade: até 120% de bônus na transferência de pontos do C6 Bank\n\nAutor(a): Equipe Pontos pra Voar\n\nLeia mais em: https://pontospravoar.com/?p=137892",
-  "link": "https://t.me/canalpontospravoar/27326",
   "criado_em": "2026-08-24T13:18:09+00:00"
  }
 ]
