@@ -1,5 +1,12 @@
 [
  {
+  "tipo": "preco",
+  "titulo": "Lisboa (GRU-LIS) por R$ 1771",
+  "detalhe": "Iberia, 1 parada(s), voo 2026-11-24. Motivo: abaixo do teto de R$ 3000.",
+  "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20LIS%20on%202026-11-24",
+  "criado_em": "2026-10-25T04:55:14+00:00"
+ },
+ {
   "tipo": "bonus",
   "titulo": "Bonus de 100% (Avios)",
   "detalhe": "‌British Airways terá voos com 100% dos assentos disponíveis apenas com Avios\n\nAutor(a): Laís Roani\n\nLeia mais em: https://pontospravoar.com/?p=146447",
@@ -1391,12 +1398,5 @@
   "detalhe": "United, 1 parada(s), voo 2026-11-22. Motivo: abaixo do teto de R$ 1700.",
   "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20MCO%20on%202026-11-22",
   "criado_em": "2026-08-24T19:05:08+00:00"
- },
- {
-  "tipo": "bonus",
-  "titulo": "Bonus de 120% (BB -> Azul Fidelidade)",
-  "detalhe": "Azul Fidelidade\n\n Até 120% de bônus na transferência de pontos do C6 Bank\n\n👉 https://melhores.la/2hpbBc",
-  "link": "https://t.me/melhoresdestinos/19082",
-  "criado_em": "2026-08-24T13:18:09+00:00"
  }
 ]
