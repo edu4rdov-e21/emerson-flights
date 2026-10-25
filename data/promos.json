@@ -92,14 +92,6 @@
   "fonte": "t.me/melhoresdestinos",
   "tipo": "telegram",
   "canal": "melhoresdestinos",
-  "titulo": "Porto Seguro em 10x sem juros\n\n Pacotes com voos + hospedagens à beira-mar a partir de R$ 1.445 mais cupom de desconto!\n\n👉 https://melhores.la/igUxcJ",
-  "link": "https://t.me/melhoresdestinos/19920",
-  "publicado_em": "2026-10-23T14:27:25+00:00"
- },
- {
-  "fonte": "t.me/melhoresdestinos",
-  "tipo": "telegram",
-  "canal": "melhoresdestinos",
   "titulo": "Suíça 🇨🇭\n\n Passagens aéreas para Genebra ou Zurique a partir de R$ 3.808 ida e volta\n\n👉 https://melhores.la/8cwibn",
   "link": "https://t.me/melhoresdestinos/19921",
   "publicado_em": "2026-10-23T14:54:22+00:00"
@@ -249,12 +241,12 @@
   "publicado_em": "2026-10-25T20:02:07+00:00"
  },
  {
-  "fonte": "t.me/canalpontospravoar",
+  "fonte": "t.me/melhoresdestinos",
   "tipo": "telegram",
-  "canal": "canalpontospravoar",
-  "titulo": "‌Hotéis pet-friendly em São Paulo: confira diárias a partir de R$ 182\n\nAutor(a): Rennan Machado\n\nLeia mais em: https://pontospravoar.com/?p=146622",
-  "link": "https://t.me/canalpontospravoar/28731",
-  "publicado_em": "2026-10-24T12:00:42+00:00"
+  "canal": "melhoresdestinos",
+  "titulo": "‼️ Últimas horas!\n\n Passagens aéreas nacionais a partir de R$ 284 ida e volta com Azul, Gol e Latam\n\n👉 https://melhores.la/gnTuHq",
+  "link": "https://t.me/melhoresdestinos/19940",
+  "publicado_em": "2026-10-25T21:13:19+00:00"
  },
  {
   "fonte": "t.me/canalpontospravoar",
@@ -409,20 +401,12 @@
   "publicado_em": "2026-10-25T20:00:28+00:00"
  },
  {
-  "fonte": "t.me/promopassagens",
+  "fonte": "t.me/canalpontospravoar",
   "tipo": "telegram",
-  "canal": "promopassagens",
-  "titulo": "💺 American Airlines Recebe Primeiro Embraer E175 Com Novos Assentos Recaro",
-  "link": "https://t.me/promopassagens/113625",
-  "publicado_em": "2026-10-24T18:15:42+00:00"
- },
- {
-  "fonte": "t.me/promopassagens",
-  "tipo": "telegram",
-  "canal": "promopassagens",
-  "titulo": "🗺 Emirates Oferece 1 Milha Por Minuto Para Quem Visitar Dubai\n #Dubai",
-  "link": "https://t.me/promopassagens/113626",
-  "publicado_em": "2026-10-24T18:15:50+00:00"
+  "canal": "canalpontospravoar",
+  "titulo": "‌Sessão de Cinema PPV! Sully: Milagre do Hudson\n\nAutor(a): Rodrigo Biajoni\n\nLeia mais em: https://pontospravoar.com/?p=146898",
+  "link": "https://t.me/canalpontospravoar/28751",
+  "publicado_em": "2026-10-25T21:00:27+00:00"
  },
  {
   "fonte": "t.me/promopassagens",
@@ -567,6 +551,54 @@
   "titulo": "🚞 Air Peace Programa Voo Direto Entre Nigéria E Brasil\n #Brasil",
   "link": "https://t.me/promopassagens/113644",
   "publicado_em": "2026-10-25T20:15:42+00:00"
+ },
+ {
+  "fonte": "t.me/promopassagens",
+  "tipo": "telegram",
+  "canal": "promopassagens",
+  "titulo": "🚞 Air New Zealand Terá Novo Cardápio Premium Assinado Por Chef Com Estrelas Michelin",
+  "link": "https://t.me/promopassagens/113645",
+  "publicado_em": "2026-10-25T21:15:43+00:00"
+ },
+ {
+  "fonte": "t.me/promopassagens",
+  "tipo": "telegram",
+  "canal": "promopassagens",
+  "titulo": "✈️ Sessão De Cinema Ppv! Sully: Milagre Do Hudson",
+  "link": "https://t.me/promopassagens/113646",
+  "publicado_em": "2026-10-25T21:15:52+00:00"
+ },
+ {
+  "fonte": "t.me/melhoresdestinos",
+  "tipo": "telegram",
+  "canal": "melhoresdestinos",
+  "titulo": "Porto Seguro em 10x sem juros\n\n Pacotes com voos + hospedagens à beira-mar a partir de R$ 1.445 mais cupom de desconto!\n\n👉 https://melhores.la/igUxcJ",
+  "link": "https://t.me/melhoresdestinos/19920",
+  "publicado_em": "2026-10-23T14:27:25+00:00"
+ },
+ {
+  "fonte": "t.me/canalpontospravoar",
+  "tipo": "telegram",
+  "canal": "canalpontospravoar",
+  "titulo": "‌Hotéis pet-friendly em São Paulo: confira diárias a partir de R$ 182\n\nAutor(a): Rennan Machado\n\nLeia mais em: https://pontospravoar.com/?p=146622",
+  "link": "https://t.me/canalpontospravoar/28731",
+  "publicado_em": "2026-10-24T12:00:42+00:00"
+ },
+ {
+  "fonte": "t.me/promopassagens",
+  "tipo": "telegram",
+  "canal": "promopassagens",
+  "titulo": "💺 American Airlines Recebe Primeiro Embraer E175 Com Novos Assentos Recaro",
+  "link": "https://t.me/promopassagens/113625",
+  "publicado_em": "2026-10-24T18:15:42+00:00"
+ },
+ {
+  "fonte": "t.me/promopassagens",
+  "tipo": "telegram",
+  "canal": "promopassagens",
+  "titulo": "🗺 Emirates Oferece 1 Milha Por Minuto Para Quem Visitar Dubai\n #Dubai",
+  "link": "https://t.me/promopassagens/113626",
+  "publicado_em": "2026-10-24T18:15:50+00:00"
  },
  {
   "fonte": "t.me/melhoresdestinos",
@@ -948,40 +980,5 @@
   "categorias": [
    "Notícias"
   ]
- },
- {
-  "fonte": "melhoresdestinos.com.br",
-  "tipo": "rss",
-  "titulo": "Tailândia via Oriente Médio: voos para Bangkok com parada em Doha ou Abu Dhabi a partir de R$ 6.578 ida e volta",
-  "link": "https://www.melhoresdestinos.com.br/promocao/tailandia-qatar-etihad-voos-bangkok-doha-abu-dhabi-6578",
-  "publicado_em": "Thu, 22 Oct 2026 13:38:07 +0000",
-  "categorias": []
- },
- {
-  "fonte": "melhoresdestinos.com.br",
-  "tipo": "rss",
-  "titulo": "Van Gogh em São Paulo! Masp terá exposição dedicada ao pintor em 2027",
-  "link": "https://www.melhoresdestinos.com.br/exposicao-van-gogh-masp-2027.html",
-  "publicado_em": "Thu, 22 Oct 2026 12:04:59 +0000",
-  "categorias": [
-   "Dicas",
-   "Notícias"
-  ]
- },
- {
-  "fonte": "t.me/melhoresdestinos",
-  "tipo": "telegram",
-  "canal": "melhoresdestinos",
-  "titulo": "Latam Pass\n\n Voos entre São Paulo e o Recife a partir de R$ 344 ou 14 mil milhas o trecho mais taxas\n\n👉 https://melhores.la/80Oaiy",
-  "link": "https://t.me/melhoresdestinos/19913",
-  "publicado_em": "2026-10-23T12:18:41+00:00"
- },
- {
-  "fonte": "t.me/melhoresdestinos",
-  "tipo": "telegram",
-  "canal": "melhoresdestinos",
-  "titulo": "Vai acabar!\n\n 🚨⏳ Últimas horas para contratar seguro viagem Allianz com 60% OFF!\n\n👉 https://melhores.la/2UHabn",
-  "link": "https://t.me/melhoresdestinos/19914",
-  "publicado_em": "2026-10-23T12:33:37+00:00"
  }
 ]
