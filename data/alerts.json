@@ -1,5 +1,19 @@
 [
  {
+  "tipo": "preco",
+  "titulo": "Lisboa (GRU-LIS) por R$ 1771",
+  "detalhe": "Iberia, 1 parada(s), voo 2026-11-26. Motivo: abaixo do teto de R$ 3000.",
+  "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20LIS%20on%202026-11-26",
+  "criado_em": "2026-10-27T00:34:24+00:00"
+ },
+ {
+  "tipo": "preco",
+  "titulo": "Buenos Aires (GRU-EZE) por R$ 709",
+  "detalhe": "LATAM, 1 parada(s), voo 2027-01-25. Motivo: abaixo do teto de R$ 800.",
+  "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20EZE%20on%202027-01-25",
+  "criado_em": "2026-10-27T00:34:24+00:00"
+ },
+ {
   "tipo": "bonus",
   "titulo": "Bonus de 100% (Smiles)",
   "detalhe": "🚢 Transfira Pontos Premmia Para A Smiles Com 100% De Bônus – Cpm A Partir De R$ 16,09",
@@ -1384,19 +1398,5 @@
   "detalhe": "Gol, Avianca, 2 parada(s), voo 2026-09-24. Motivo: abaixo do teto de R$ 2000.",
   "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20MIA%20on%202026-09-24",
   "criado_em": "2026-08-25T01:56:32+00:00"
- },
- {
-  "tipo": "preco",
-  "titulo": "Orlando (GRU-MCO) por R$ 1629",
-  "detalhe": "United, 1 parada(s), voo 2026-11-23. Motivo: abaixo do teto de R$ 1700.",
-  "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20MCO%20on%202026-11-23",
-  "criado_em": "2026-08-25T01:56:32+00:00"
- },
- {
-  "tipo": "preco",
-  "titulo": "Miami (GRU-MIA) por R$ 1724",
-  "detalhe": "Gol, Avianca, 2 parada(s), voo 2026-10-23. Motivo: abaixo do teto de R$ 2000.",
-  "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20MIA%20on%202026-10-23",
-  "criado_em": "2026-08-24T21:48:34+00:00"
  }
 ]
