@@ -1,6 +1,13 @@
 [
  {
   "tipo": "preco",
+  "titulo": "Lisboa (GRU-LIS) por R$ 2890",
+  "detalhe": "Gol, 2 parada(s), voo 2027-01-26. Motivo: abaixo do teto de R$ 3000.",
+  "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20LIS%20on%202027-01-26",
+  "criado_em": "2026-10-28T05:55:09+00:00"
+ },
+ {
+  "tipo": "preco",
   "titulo": "Lisboa (GRU-LIS) por R$ 1771",
   "detalhe": "Iberia, 1 parada(s), voo 2026-11-26. Motivo: abaixo do teto de R$ 3000.",
   "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20LIS%20on%202026-11-26",
@@ -1391,12 +1398,5 @@
   "detalhe": "KLM, 1 parada(s), voo 2026-11-23. Motivo: abaixo do teto de R$ 3000.",
   "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20LIS%20on%202026-11-23",
   "criado_em": "2026-08-25T04:04:35+00:00"
- },
- {
-  "tipo": "preco",
-  "titulo": "Miami (GRU-MIA) por R$ 1724",
-  "detalhe": "Gol, Avianca, 2 parada(s), voo 2026-09-24. Motivo: abaixo do teto de R$ 2000.",
-  "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20MIA%20on%202026-09-24",
-  "criado_em": "2026-08-25T01:56:32+00:00"
  }
 ]
