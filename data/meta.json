@@ -1,13 +1,13 @@
 {
- "gerado_em": "2026-10-28T20:22:07+00:00",
- "duracao_s": 40.5,
+ "gerado_em": "2026-10-29T01:03:04+00:00",
+ "duracao_s": 38.7,
  "alertas_na_rodada": 0,
  "fontes": {
   "precos": {
    "ok": true,
    "itens": 17,
    "erros": [
-    "GRU-SCL +30d: list index out of range"
+    "GRU-LIS +30d: no flights found; received error"
    ]
   },
   "rss": {
@@ -22,7 +22,7 @@
   },
   "bonus": {
    "ok": true,
-   "itens": 4
+   "itens": 0
   },
   "webhook": "desligado"
  }
