@@ -2,6 +2,20 @@
  {
   "tipo": "preco",
   "titulo": "Lisboa (GRU-LIS) por R$ 1873",
+  "detalhe": "Iberia, 1 parada(s), voo 2026-11-29. Motivo: abaixo do teto de R$ 3000.",
+  "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20LIS%20on%202026-11-29",
+  "criado_em": "2026-10-30T01:08:13+00:00"
+ },
+ {
+  "tipo": "bonus",
+  "titulo": "Bonus de 100% (Azul Fidelidade)",
+  "detalhe": "‌Só hoje! Transfira pontos Alloyal para o Azul Fidelidade com até 100% de bônus\n\nAutor(a): Vinícius Rodrigues\n\nLeia mais em: https://pontospravoar.com/?p=147501",
+  "link": "https://t.me/canalpontospravoar/28855",
+  "criado_em": "2026-10-30T01:08:13+00:00"
+ },
+ {
+  "tipo": "preco",
+  "titulo": "Lisboa (GRU-LIS) por R$ 1873",
   "detalhe": "Iberia, 1 parada(s), voo 2026-11-28. Motivo: abaixo do teto de R$ 3000.",
   "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20LIS%20on%202026-11-28",
   "criado_em": "2026-10-29T10:10:56+00:00"
@@ -1384,19 +1398,5 @@
   "detalhe": "United, 2 parada(s), voo 2026-11-24. Motivo: abaixo do teto de R$ 1700.",
   "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20MCO%20on%202026-11-24",
   "criado_em": "2026-08-26T02:02:19+00:00"
- },
- {
-  "tipo": "preco",
-  "titulo": "Miami (GRU-MIA) por R$ 1720",
-  "detalhe": "Gol, Avianca, 2 parada(s), voo 2026-10-24. Motivo: abaixo do teto de R$ 2000.",
-  "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20MIA%20on%202026-10-24",
-  "criado_em": "2026-08-25T13:16:10+00:00"
- },
- {
-  "tipo": "preco",
-  "titulo": "Miami (GRU-MIA) por R$ 1893",
-  "detalhe": "Gol, Avianca, 2 parada(s), voo 2026-10-24. Motivo: abaixo do teto de R$ 2000.",
-  "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20MIA%20on%202026-10-24",
-  "criado_em": "2026-08-25T09:55:27+00:00"
  }
 ]

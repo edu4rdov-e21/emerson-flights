@@ -1,12 +1,15 @@
 {
- "gerado_em": "2026-10-29T18:32:57+00:00",
- "duracao_s": 38.8,
- "alertas_na_rodada": 0,
+ "gerado_em": "2026-10-30T01:08:13+00:00",
+ "duracao_s": 38.1,
+ "alertas_na_rodada": 2,
  "fontes": {
   "precos": {
    "ok": true,
-   "itens": 18,
-   "erros": []
+   "itens": 16,
+   "erros": [
+    "GRU-EZE +60d: no flights found; received error",
+    "GRU-SCL +30d: list index out of range"
+   ]
   },
   "rss": {
    "ok": true,
@@ -20,7 +23,7 @@
   },
   "bonus": {
    "ok": true,
-   "itens": 0
+   "itens": 1
   },
   "webhook": "desligado"
  }
