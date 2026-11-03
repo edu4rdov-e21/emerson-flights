@@ -1,5 +1,19 @@
 [
  {
+  "tipo": "bonus",
+  "titulo": "Bonus de 130% (Livelo -> Azul Fidelidade)",
+  "detalhe": "Azul Friday\n\n Ganhe até 130% de bônus na transferência de pontos Livelo para o Azul Fidelidade\n\n👉 https://melhores.la/ZAjs13",
+  "link": "https://t.me/melhoresdestinos/20043",
+  "criado_em": "2026-11-03T17:09:22+00:00"
+ },
+ {
+  "tipo": "bonus",
+  "titulo": "Bonus de 130% (Livelo)",
+  "detalhe": "‌Azul Friday! Transfira pontos da Livelo e ganhe até 130% de bônus\n\nAutor(a): Valdeci Freire\n\nLeia mais em: https://pontospravoar.com/?p=148007",
+  "link": "https://t.me/canalpontospravoar/28939",
+  "criado_em": "2026-11-03T17:09:22+00:00"
+ },
+ {
   "tipo": "preco",
   "titulo": "Lisboa (GRU-LIS) por R$ 1900",
   "detalhe": "Iberia, 1 parada(s), voo 2026-12-03. Motivo: abaixo do teto de R$ 3000.",
@@ -1383,20 +1397,6 @@
   "titulo": "Lisboa (GRU-LIS) por R$ 2569",
   "detalhe": "LATAM, Air Europa, 2 parada(s), voo 2026-11-24. Motivo: abaixo do teto de R$ 3000.",
   "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20LIS%20on%202026-11-24",
-  "criado_em": "2026-08-26T02:02:19+00:00"
- },
- {
-  "tipo": "preco",
-  "titulo": "Miami (GRU-MIA) por R$ 1479",
-  "detalhe": "Avianca, 1 parada(s), voo 2026-09-25. Motivo: abaixo do teto de R$ 2000.",
-  "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20MIA%20on%202026-09-25",
-  "criado_em": "2026-08-26T02:02:19+00:00"
- },
- {
-  "tipo": "preco",
-  "titulo": "Miami (GRU-MIA) por R$ 1720",
-  "detalhe": "Gol, Avianca, 2 parada(s), voo 2026-10-25. Motivo: abaixo do teto de R$ 2000.",
-  "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20MIA%20on%202026-10-25",
   "criado_em": "2026-08-26T02:02:19+00:00"
  }
 ]
