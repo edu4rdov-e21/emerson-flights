@@ -2,6 +2,13 @@
  {
   "tipo": "preco",
   "titulo": "Lisboa (GRU-LIS) por R$ 1900",
+  "detalhe": "Iberia, 1 parada(s), voo 2026-12-03. Motivo: abaixo do teto de R$ 3000.",
+  "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20LIS%20on%202026-12-03",
+  "criado_em": "2026-11-03T06:59:02+00:00"
+ },
+ {
+  "tipo": "preco",
+  "titulo": "Lisboa (GRU-LIS) por R$ 1900",
   "detalhe": "Iberia, 1 parada(s), voo 2026-12-02. Motivo: abaixo do teto de R$ 3000.",
   "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20LIS%20on%202026-12-02",
   "criado_em": "2026-11-02T11:25:37+00:00"
@@ -1390,13 +1397,6 @@
   "titulo": "Miami (GRU-MIA) por R$ 1720",
   "detalhe": "Gol, Avianca, 2 parada(s), voo 2026-10-25. Motivo: abaixo do teto de R$ 2000.",
   "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20MIA%20on%202026-10-25",
-  "criado_em": "2026-08-26T02:02:19+00:00"
- },
- {
-  "tipo": "preco",
-  "titulo": "Orlando (GRU-MCO) por R$ 1626",
-  "detalhe": "United, 1 parada(s), voo 2026-10-25. Motivo: abaixo do teto de R$ 1700.",
-  "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20MCO%20on%202026-10-25",
   "criado_em": "2026-08-26T02:02:19+00:00"
  }
 ]
