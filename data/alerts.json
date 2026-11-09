@@ -1,5 +1,26 @@
 [
  {
+  "tipo": "bonus",
+  "titulo": "Bonus de 120% (C6)",
+  "detalhe": "Azul\n\n Ganhe até 120% de bônus na transferência de pontos do C6 Bank\n\n👉 https://melhores.la/7APh6K",
+  "link": "https://t.me/melhoresdestinos/20120",
+  "criado_em": "2026-11-09T19:54:57+00:00"
+ },
+ {
+  "tipo": "bonus",
+  "titulo": "Bonus de 80% (Smiles)",
+  "detalhe": "Smiles e Nubank Croma\n\n Ganhe até 80% de bônus nas transferências de pontos\n\n👉 https://melhores.la/AX4k5f",
+  "link": "https://t.me/melhoresdestinos/20124",
+  "criado_em": "2026-11-09T19:54:57+00:00"
+ },
+ {
+  "tipo": "bonus",
+  "titulo": "Bonus de 120% (C6 -> Azul Fidelidade)",
+  "detalhe": "‌Azul Friday! Transfira pontos do C6 Bank para o Azul Fidelidade com até 120% de bônus\n\nAutor(a): Valdeci Freire\n\nLeia mais em: https://pontospravoar.com/?p=148885",
+  "link": "https://t.me/canalpontospravoar/29058",
+  "criado_em": "2026-11-09T19:54:57+00:00"
+ },
+ {
   "tipo": "preco",
   "titulo": "Buenos Aires (GRU-EZE) por R$ 790",
   "detalhe": "LATAM, 1 parada(s), voo 2026-12-05. Motivo: abaixo do teto de R$ 800.",
@@ -1377,26 +1398,5 @@
   "detalhe": "United, 2 parada(s), voo 2026-09-27. Motivo: abaixo do teto de R$ 1700.",
   "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20MCO%20on%202026-09-27",
   "criado_em": "2026-08-28T00:27:19+00:00"
- },
- {
-  "tipo": "preco",
-  "titulo": "Orlando (GRU-MCO) por R$ 1629",
-  "detalhe": "United, 1 parada(s), voo 2026-11-26. Motivo: abaixo do teto de R$ 1700.",
-  "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20MCO%20on%202026-11-26",
-  "criado_em": "2026-08-28T00:27:19+00:00"
- },
- {
-  "tipo": "bonus",
-  "titulo": "Bonus de 80% (Smiles)",
-  "detalhe": "Só hoje!\n\n Smiles oferece até 80% de bônus na transferência de pontos do cartão de crédito\n\n👉 https://melhores.la/yocqPf",
-  "link": "https://t.me/melhoresdestinos/19143",
-  "criado_em": "2026-08-27T14:20:08+00:00"
- },
- {
-  "tipo": "preco",
-  "titulo": "Lisboa (GRU-LIS) por R$ 2572",
-  "detalhe": "Royal Air Maroc, 1 parada(s), voo 2026-11-25. Motivo: abaixo do teto de R$ 3000.",
-  "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20LIS%20on%202026-11-25",
-  "criado_em": "2026-08-27T00:52:12+00:00"
  }
 ]
