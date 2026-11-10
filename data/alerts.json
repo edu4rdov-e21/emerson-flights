@@ -1,5 +1,12 @@
 [
  {
+  "tipo": "bonus",
+  "titulo": "Bonus de 320% (Azul Fidelidade)",
+  "detalhe": "🚞 Azul Fidelidade Oferece Até 320% De Bônus Na Compra De Pontos",
+  "link": "https://t.me/promopassagens/114249",
+  "criado_em": "2026-11-10T15:01:46+00:00"
+ },
+ {
   "tipo": "preco",
   "titulo": "Lisboa (GRU-LIS) por R$ 2545",
   "detalhe": "LATAM, 0 parada(s), voo 2026-12-10. Motivo: abaixo do teto de R$ 3000.",
@@ -1391,12 +1398,5 @@
   "detalhe": "LATAM, 0 parada(s), voo 2026-11-26. Motivo: abaixo do teto de R$ 800.",
   "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20SCL%20on%202026-11-26",
   "criado_em": "2026-08-28T15:29:44+00:00"
- },
- {
-  "tipo": "preco",
-  "titulo": "Lisboa (GRU-LIS) por R$ 2576",
-  "detalhe": "Royal Air Maroc, 1 parada(s), voo 2026-11-26. Motivo: abaixo do teto de R$ 3000.",
-  "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20LIS%20on%202026-11-26",
-  "criado_em": "2026-08-28T00:27:19+00:00"
  }
 ]
