@@ -1,14 +1,13 @@
 {
- "gerado_em": "2026-11-10T21:20:56+00:00",
- "duracao_s": 37.8,
- "alertas_na_rodada": 0,
+ "gerado_em": "2026-11-11T01:18:39+00:00",
+ "duracao_s": 39.0,
+ "alertas_na_rodada": 1,
  "fontes": {
   "precos": {
    "ok": true,
-   "itens": 16,
+   "itens": 17,
    "erros": [
-    "GRU-LIS +60d: no flights found; received error",
-    "GRU-SCL +30d: no flights found; received error"
+    "GRU-EZE +30d: no flights found; received error"
    ]
   },
   "rss": {
@@ -23,7 +22,7 @@
   },
   "bonus": {
    "ok": true,
-   "itens": 0
+   "itens": 1
   },
   "webhook": "desligado"
  }
