@@ -1,13 +1,15 @@
 {
- "gerado_em": "2026-11-11T01:18:39+00:00",
- "duracao_s": 39.0,
- "alertas_na_rodada": 1,
+ "gerado_em": "2026-11-11T11:11:54+00:00",
+ "duracao_s": 36.3,
+ "alertas_na_rodada": 0,
  "fontes": {
   "precos": {
    "ok": true,
-   "itens": 17,
+   "itens": 15,
    "erros": [
-    "GRU-EZE +30d: no flights found; received error"
+    "GRU-EZE +60d: no flights found; received error",
+    "GRU-CUN +60d: no flights found; received error",
+    "GRU-CUN +90d: no flights found; received error"
    ]
   },
   "rss": {
