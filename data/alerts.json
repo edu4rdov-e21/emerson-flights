@@ -1,6 +1,13 @@
 [
  {
   "tipo": "preco",
+  "titulo": "Lisboa (GRU-LIS) por R$ 2930",
+  "detalhe": "Gol, 2 parada(s), voo 2027-02-11. Motivo: abaixo do teto de R$ 3000.",
+  "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20LIS%20on%202027-02-11",
+  "criado_em": "2026-11-13T01:56:29+00:00"
+ },
+ {
+  "tipo": "preco",
   "titulo": "Lisboa (GRU-LIS) por R$ 2907",
   "detalhe": "Gol, 2 parada(s), voo 2027-02-09. Motivo: abaixo do teto de R$ 3000.",
   "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20LIS%20on%202027-02-09",
@@ -1390,13 +1397,6 @@
   "titulo": "Orlando (GRU-MCO) por R$ 1630",
   "detalhe": "United, 1 parada(s), voo 2026-10-27. Motivo: abaixo do teto de R$ 1700.",
   "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20MCO%20on%202026-10-27",
-  "criado_em": "2026-08-28T15:29:44+00:00"
- },
- {
-  "tipo": "preco",
-  "titulo": "Santiago (GRU-SCL) por R$ 740",
-  "detalhe": "LATAM, 0 parada(s), voo 2026-10-27. Motivo: abaixo do teto de R$ 800.",
-  "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20SCL%20on%202026-10-27",
   "criado_em": "2026-08-28T15:29:44+00:00"
  }
 ]
