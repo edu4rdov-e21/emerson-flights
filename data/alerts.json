@@ -1,5 +1,19 @@
 [
  {
+  "tipo": "preco",
+  "titulo": "Lisboa (GRU-LIS) por R$ 2977",
+  "detalhe": "Gol, 2 parada(s), voo 2027-02-14. Motivo: abaixo do teto de R$ 3000.",
+  "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20LIS%20on%202027-02-14",
+  "criado_em": "2026-11-16T19:42:17+00:00"
+ },
+ {
+  "tipo": "bonus",
+  "titulo": "Bonus de 120% (Livelo -> Azul Fidelidade)",
+  "detalhe": "‌Azul Fidelidade oferece até 120% de bônus na transferência de parceiros – incluindo Livelo!\n\nAutor(a): Valdeci Freire\n\nLeia mais em: https://pontospravoar.com/?p=150203",
+  "link": "https://t.me/canalpontospravoar/29213",
+  "criado_em": "2026-11-16T19:42:17+00:00"
+ },
+ {
   "tipo": "bonus",
   "titulo": "Bonus de 80% (Azul Fidelidade)",
   "detalhe": "‌Azul Friday! Até 80% de bônus ao transformar cashback do Méliuz em pontos Azul Fidelidade\n\nAutor(a): Valdeci Freire\n\nLeia mais em: https://pontospravoar.com/?p=150070",
@@ -1383,20 +1397,6 @@
   "titulo": "Santiago (GRU-SCL) por R$ 740",
   "detalhe": "LATAM, 0 parada(s), voo 2026-09-28. Motivo: abaixo do teto de R$ 800.",
   "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20SCL%20on%202026-09-28",
-  "criado_em": "2026-08-29T01:47:41+00:00"
- },
- {
-  "tipo": "preco",
-  "titulo": "Santiago (GRU-SCL) por R$ 740",
-  "detalhe": "LATAM, 0 parada(s), voo 2026-10-28. Motivo: abaixo do teto de R$ 800.",
-  "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20SCL%20on%202026-10-28",
-  "criado_em": "2026-08-29T01:47:41+00:00"
- },
- {
-  "tipo": "preco",
-  "titulo": "Santiago (GRU-SCL) por R$ 740",
-  "detalhe": "LATAM, 0 parada(s), voo 2026-11-27. Motivo: abaixo do teto de R$ 800.",
-  "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20SCL%20on%202026-11-27",
   "criado_em": "2026-08-29T01:47:41+00:00"
  }
 ]
