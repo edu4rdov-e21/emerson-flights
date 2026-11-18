@@ -2,20 +2,40 @@
  {
   "fonte": "melhoresdestinos.com.br",
   "tipo": "rss",
-  "titulo": "Prorrogado! Abra sua conta Nomad e ganhe R$ 0,35 de desconto a cada dólar ou euro e acesso à sala VIP!",
-  "link": "https://www.melhoresdestinos.com.br/promocao/prorrogado-11-11-nomad-desconto-dolar-euro-nov26",
-  "publicado_em": "Thu, 12 Nov 2026 14:01:12 +0000",
+  "titulo": "Zurique: guia completo e dicas da maior cidade suíça",
+  "link": "https://guia.melhoresdestinos.com.br/zurique-suica.html",
+  "publicado_em": "Wed, 18 Nov 2026 08:00:01 +0000",
+  "categorias": [
+   "Dicas"
+  ]
+ },
+ {
+  "fonte": "melhoresdestinos.com.br",
+  "tipo": "rss",
+  "titulo": "Natal Luz de Gramado 2026: programação completa, preços e dicas de quem já foi",
+  "link": "https://www.melhoresdestinos.com.br/natal-luz-gramado-2026.html",
+  "publicado_em": "Tue, 17 Nov 2026 23:00:16 +0000",
+  "categorias": [
+   "Dicas"
+  ]
+ },
+ {
+  "fonte": "melhoresdestinos.com.br",
+  "tipo": "rss",
+  "titulo": "EUA 2×1 🇺🇸 Voos para Miami mais Orlando, Los Angeles e outras cidades a partir de R$ 4.184, com bagagem despachada",
+  "link": "https://www.melhoresdestinos.com.br/promocao/passagens-aereas-2-em-1-estados-unidos-17-11-26",
+  "publicado_em": "Tue, 17 Nov 2026 21:38:41 +0000",
   "categorias": []
  },
  {
   "fonte": "melhoresdestinos.com.br",
   "tipo": "rss",
-  "titulo": "Boa notícia! Voos da Azul para Corumbá, acesso ao Pantanal, passam a ser regulares",
-  "link": "https://www.melhoresdestinos.com.br/voos-corumba-pantanal-azul.html",
-  "publicado_em": "Thu, 12 Nov 2026 13:52:03 +0000",
+  "titulo": "Novidade! Gol fecha parceria para vender voos de companhia aérea do Alasca",
+  "link": "https://www.melhoresdestinos.com.br/parceria-gol-alaska-airlines.html",
+  "publicado_em": "Tue, 17 Nov 2026 19:59:09 +0000",
   "categorias": [
    "Aviação",
-   "Azul Linhas Aéreas",
+   "Gol",
    "Notícias",
    "Passagens aéreas"
   ]
@@ -23,90 +43,54 @@
  {
   "fonte": "melhoresdestinos.com.br",
   "tipo": "rss",
-  "titulo": "Europa 2×1! Passagens aéreas para Portugal mais outro país europeu a partir de R$ 4.370",
-  "link": "https://www.melhoresdestinos.com.br/promocao/europa-2x1-passagens-para-portugal-mais-outro-pais-europeu-12nov26",
-  "publicado_em": "Thu, 12 Nov 2026 13:46:34 +0000",
+  "titulo": "Peru 🇵🇪 Passagens aéreas para Lima ou Cusco a partir de R$ 2.297 ida e volta!",
+  "link": "https://www.melhoresdestinos.com.br/promocao/passagens-aereas-peru-lima-cusco-17-11-26",
+  "publicado_em": "Tue, 17 Nov 2026 19:11:19 +0000",
   "categorias": []
  },
  {
   "fonte": "melhoresdestinos.com.br",
   "tipo": "rss",
-  "titulo": "Diversão na Flórida! Passagens para Orlando a partir de R$ 2.604 com boas opções em janeiro, Carnaval e julho",
-  "link": "https://www.melhoresdestinos.com.br/promocao/diversao-na-florida-passagens-para-orlando-12nov26",
-  "publicado_em": "Thu, 12 Nov 2026 12:37:18 +0000",
+  "titulo": "Black Friday da Hoteis.com tem cupom 10% OFF mais descontos de até 76% nas hospedagens!",
+  "link": "https://www.melhoresdestinos.com.br/promocao/black-friday-hoteis-com-2026-cupom",
+  "publicado_em": "Tue, 17 Nov 2026 19:00:01 +0000",
   "categorias": []
  },
  {
   "fonte": "melhoresdestinos.com.br",
   "tipo": "rss",
-  "titulo": "São Paulo e Rio voltam a ter voos para Buenos Aires com companhias de outros continentes",
-  "link": "https://www.melhoresdestinos.com.br/voos-sao-paulo-rio-buenos-aires.html",
-  "publicado_em": "Thu, 12 Nov 2026 12:11:04 +0000",
-  "categorias": [
-   "Aviação",
-   "Notícias",
-   "Passagens aéreas"
-  ]
- },
- {
-  "fonte": "melhoresdestinos.com.br",
-  "tipo": "rss",
-  "titulo": "Nordeste! Pacotes baratos para Porto de Galinhas a partir de R$ 1.250 por pessoa em 16x sem juros",
-  "link": "https://www.melhoresdestinos.com.br/promocao/nordeste-pacotes-de-viagem-para-porto-de-galinhas-12nov26",
-  "publicado_em": "Thu, 12 Nov 2026 11:54:27 +0000",
-  "categorias": []
- },
- {
-  "fonte": "melhoresdestinos.com.br",
-  "tipo": "rss",
-  "titulo": "Argentina! Passagens para Buenos Aires a partir de R$ 1.405 com bons preços em janeiro",
-  "link": "https://www.melhoresdestinos.com.br/promocao/argentina-passagens-para-buenos-aires-12nov26",
-  "publicado_em": "Thu, 12 Nov 2026 11:07:42 +0000",
-  "categorias": []
- },
- {
-  "fonte": "melhoresdestinos.com.br",
-  "tipo": "rss",
-  "titulo": "Bom demais! Voos em classe executiva para Lisboa a partir de R$ 9.124 com datas no final do ano",
-  "link": "https://www.melhoresdestinos.com.br/promocao/portugal-passagens-em-classe-executiva-12nov26",
-  "publicado_em": "Thu, 12 Nov 2026 08:41:36 +0000",
-  "categorias": []
- },
- {
-  "fonte": "melhoresdestinos.com.br",
-  "tipo": "rss",
-  "titulo": "A Comunidade Melhores Destinos está no ar! O novo ponto de encontro para quem ama viajar",
-  "link": "https://www.melhoresdestinos.com.br/comunidade-melhores-destinos-lancamento.html",
-  "publicado_em": "Thu, 12 Nov 2026 08:00:51 +0000",
-  "categorias": [
-   "Passagens aéreas"
-  ]
- },
- {
-  "fonte": "melhoresdestinos.com.br",
-  "tipo": "rss",
-  "titulo": "Cacau Park! Conhecemos 2 simuladores do parque temático da Cacau Show, um inspirado em atração da Disney",
-  "link": "https://www.melhoresdestinos.com.br/cacau-park-experimentamos-atracoes.html",
-  "publicado_em": "Wed, 11 Nov 2026 23:00:16 +0000",
+  "titulo": "Histórico! Valle Nevado estende temporada de esqui até 1º de dezembro",
+  "link": "https://www.melhoresdestinos.com.br/valle-nevado-temporada-1-dezembro.html",
+  "publicado_em": "Tue, 17 Nov 2026 18:41:26 +0000",
   "categorias": [
    "Notícias"
   ]
  },
  {
-  "fonte": "t.me/melhoresdestinos",
-  "tipo": "telegram",
-  "canal": "melhoresdestinos",
-  "titulo": "Melhores Destinos pinned a photo",
-  "link": "https://t.me/melhoresdestinos/20233",
-  "publicado_em": "2026-11-16T21:35:29+00:00"
+  "fonte": "melhoresdestinos.com.br",
+  "tipo": "rss",
+  "titulo": "Portugal 🇵🇹 Voos para Lisboa ou Porto a partir de R$ 3.797 ida e volta, saindo de 42 cidades brasileiras!",
+  "link": "https://www.melhoresdestinos.com.br/promocao/passagens-aereas-portugal-porto-lisboa-17-11-26",
+  "publicado_em": "Tue, 17 Nov 2026 18:22:13 +0000",
+  "categorias": []
  },
  {
-  "fonte": "t.me/melhoresdestinos",
-  "tipo": "telegram",
-  "canal": "melhoresdestinos",
-  "titulo": "Inglaterra ou Escócia\n\n Passagens para Londres ou Edimburgo a partir de R$ 4.541 ida e volta!\n\n👉 https://melhores.la/XhsSLZ",
-  "link": "https://t.me/melhoresdestinos/20234",
-  "publicado_em": "2026-11-17T11:02:31+00:00"
+  "fonte": "melhoresdestinos.com.br",
+  "tipo": "rss",
+  "titulo": "São Paulo ganha árvore de Natal de 55 metros com pista de patinação grátis!",
+  "link": "https://www.melhoresdestinos.com.br/arvore-natal-villa-lobos-2026.html",
+  "publicado_em": "Tue, 17 Nov 2026 17:03:12 +0000",
+  "categorias": [
+   "Notícias"
+  ]
+ },
+ {
+  "fonte": "melhoresdestinos.com.br",
+  "tipo": "rss",
+  "titulo": "Marrocos mais Europa! Passagens 2 em 1 para Casablanca mais Lisboa, Porto ou Madri a partir de R$ 4.802",
+  "link": "https://www.melhoresdestinos.com.br/promocao/marrocos-mais-europa-passagens-17nov26",
+  "publicado_em": "Tue, 17 Nov 2026 15:28:41 +0000",
+  "categorias": []
  },
  {
   "fonte": "t.me/melhoresdestinos",
@@ -253,12 +237,20 @@
   "publicado_em": "2026-11-17T21:41:12+00:00"
  },
  {
-  "fonte": "t.me/canalpontospravoar",
+  "fonte": "t.me/melhoresdestinos",
   "tipo": "telegram",
-  "canal": "canalpontospravoar",
-  "titulo": "‌Aproveite! Mercado Livre com até R$ 200 de desconto nesta terça-feira\n\nAutor(a): Rennan Machado\n\nLeia mais em: https://pontospravoar.com/?p=150429",
-  "link": "https://t.me/canalpontospravoar/29233",
-  "publicado_em": "2026-11-17T13:31:53+00:00"
+  "canal": "melhoresdestinos",
+  "titulo": "Prorrogado!\n\n Smiles oferece até 80% de bônus na transferência de pontos do cartão de crédito\n\n👉 https://melhores.la/c0MPHK",
+  "link": "https://t.me/melhoresdestinos/20253",
+  "publicado_em": "2026-11-18T11:00:59+00:00"
+ },
+ {
+  "fonte": "t.me/melhoresdestinos",
+  "tipo": "telegram",
+  "canal": "melhoresdestinos",
+  "titulo": "Argentina\n\n Seleção de passagens para Buenos Aires a partir de R$ 1.563 saindo de Floripa, Rio e mais cidades\n\n👉 https://melhores.la/IVR3xP",
+  "link": "https://t.me/melhoresdestinos/20254",
+  "publicado_em": "2026-11-18T11:17:20+00:00"
  },
  {
   "fonte": "t.me/canalpontospravoar",
@@ -413,68 +405,12 @@
   "publicado_em": "2026-11-17T23:00:55+00:00"
  },
  {
-  "fonte": "t.me/promopassagens",
+  "fonte": "t.me/canalpontospravoar",
   "tipo": "telegram",
-  "canal": "promopassagens",
-  "titulo": "🚢 Voe De Recife Para Noronha A Partir De R$ 198 Ou 15 Mil Pontos Azul + Taxas\n #Recife",
-  "link": "https://t.me/promopassagens/114561",
-  "publicado_em": "2026-11-17T17:16:11+00:00"
- },
- {
-  "fonte": "t.me/promopassagens",
-  "tipo": "telegram",
-  "canal": "promopassagens",
-  "titulo": "🛩 Topcashback Apresenta Bloqueio Para Usuários No Brasil\n #Brasil",
-  "link": "https://t.me/promopassagens/114562",
-  "publicado_em": "2026-11-17T17:45:56+00:00"
- },
- {
-  "fonte": "t.me/promopassagens",
-  "tipo": "telegram",
-  "canal": "promopassagens",
-  "titulo": "🧳 Hotéis Ibis No Rio De Janeiro: Confira Opções A Partir De R$ 216\n #Rio #Rio_De_Janeiro",
-  "link": "https://t.me/promopassagens/114563",
-  "publicado_em": "2026-11-17T17:46:04+00:00"
- },
- {
-  "fonte": "t.me/promopassagens",
-  "tipo": "telegram",
-  "canal": "promopassagens",
-  "titulo": "🧭 Povos Originários Da África São Tema De Livro E Exposição Em São Paulo\n #África #São_Paulo",
-  "link": "https://t.me/promopassagens/114564",
-  "publicado_em": "2026-11-17T18:15:46+00:00"
- },
- {
-  "fonte": "t.me/promopassagens",
-  "tipo": "telegram",
-  "canal": "promopassagens",
-  "titulo": "🧳 Meu Resgate Favorito! Mouse Vertical, Kindle Paperwhite, Pacote Canoa Quebrada E Mais A Partir De 6 Mil Pontos Azul",
-  "link": "https://t.me/promopassagens/114565",
-  "publicado_em": "2026-11-17T18:16:00+00:00"
- },
- {
-  "fonte": "t.me/promopassagens",
-  "tipo": "telegram",
-  "canal": "promopassagens",
-  "titulo": "🚢 Meu Resgate Favorito Tem Pacote Para O Ceará E Produtos A Partir De 6 Mil Pontos",
-  "link": "https://t.me/promopassagens/114566",
-  "publicado_em": "2026-11-17T18:16:06+00:00"
- },
- {
-  "fonte": "t.me/promopassagens",
-  "tipo": "telegram",
-  "canal": "promopassagens",
-  "titulo": "🏝 Voltou! Assine O Clube Livelo Mini Por Apenas R$ 24,90 Por Mês",
-  "link": "https://t.me/promopassagens/114567",
-  "publicado_em": "2026-11-17T18:45:45+00:00"
- },
- {
-  "fonte": "t.me/promopassagens",
-  "tipo": "telegram",
-  "canal": "promopassagens",
-  "titulo": "🧳 Orange Friday! Smiles Oferece Até 80% De Bônus Na Transferência De Pontos",
-  "link": "https://t.me/promopassagens/114568",
-  "publicado_em": "2026-11-17T18:45:52+00:00"
+  "canal": "canalpontospravoar",
+  "titulo": "‌Livelo oferece 9 mil pontos na assinatura anual do Clube Mini\n\nAutor(a): Vinícius Rodrigues\n\nLeia mais em: https://pontospravoar.com/?p=150456",
+  "link": "https://t.me/canalpontospravoar/29253",
+  "publicado_em": "2026-11-18T11:00:20+00:00"
  },
  {
   "fonte": "t.me/promopassagens",
@@ -571,6 +507,251 @@
   "titulo": "💺 Radar Ppv! Resumo Das Promoções De Acúmulo E Transferência De Pontos Do Dia 17 De Novembro De 2026",
   "link": "https://t.me/promopassagens/114580",
   "publicado_em": "2026-11-17T23:15:41+00:00"
+ },
+ {
+  "fonte": "t.me/promopassagens",
+  "tipo": "telegram",
+  "canal": "promopassagens",
+  "titulo": "🚞 Zurique: Guia Completo E Dicas Da Maior Cidade Suíça\n #Suíça #Zurique",
+  "link": "https://t.me/promopassagens/114581",
+  "publicado_em": "2026-11-18T09:45:39+00:00"
+ },
+ {
+  "fonte": "t.me/promopassagens",
+  "tipo": "telegram",
+  "canal": "promopassagens",
+  "titulo": "🧳 Natal Luz De Gramado 2026: Programação Completa, Preços E Dicas De Quem Já Foi\n #Gramado #Natal",
+  "link": "https://t.me/promopassagens/114582",
+  "publicado_em": "2026-11-18T09:45:43+00:00"
+ },
+ {
+  "fonte": "t.me/promopassagens",
+  "tipo": "telegram",
+  "canal": "promopassagens",
+  "titulo": "🗺 Eua 2×1 🇺🇸 Voos Para Miami Mais Orlando, Los Angeles E Outras Cidades A Partir De R$ 4.184, Com Bagagem Despachada\n #Eua #Los_Angeles #Miami #Orlando",
+  "link": "https://t.me/promopassagens/114583",
+  "publicado_em": "2026-11-18T09:45:46+00:00"
+ },
+ {
+  "fonte": "t.me/promopassagens",
+  "tipo": "telegram",
+  "canal": "promopassagens",
+  "titulo": "🧳 Novidade! Gol Fecha Parceria Para Vender Voos De Companhia Aérea Do Alasca",
+  "link": "https://t.me/promopassagens/114584",
+  "publicado_em": "2026-11-18T09:45:50+00:00"
+ },
+ {
+  "fonte": "t.me/promopassagens",
+  "tipo": "telegram",
+  "canal": "promopassagens",
+  "titulo": "🏝 Peru 🇵🇪 Passagens Aéreas Para Lima Ou Cusco A Partir De R$ 2.297 Ida E Volta!\n #Cusco #Lima #Peru",
+  "link": "https://t.me/promopassagens/114585",
+  "publicado_em": "2026-11-18T09:45:54+00:00"
+ },
+ {
+  "fonte": "t.me/promopassagens",
+  "tipo": "telegram",
+  "canal": "promopassagens",
+  "titulo": "🚞 Gru Airport Realizará Ação Especial Em Apoio Ao Novembro Azul",
+  "link": "https://t.me/promopassagens/114586",
+  "publicado_em": "2026-11-18T11:01:50+00:00"
+ },
+ {
+  "fonte": "t.me/promopassagens",
+  "tipo": "telegram",
+  "canal": "promopassagens",
+  "titulo": "✈️ Livelo Oferece 9 Mil Pontos Na Assinatura Anual Do Clube Mini",
+  "link": "https://t.me/promopassagens/114587",
+  "publicado_em": "2026-11-18T11:02:00+00:00"
+ },
+ {
+  "fonte": "t.me/promopassagens",
+  "tipo": "telegram",
+  "canal": "promopassagens",
+  "titulo": "🛩 Prêmio Passageiro De Primeira 2026: Ajude A Transformar Milhas Em Solidariedade\n #Milhas",
+  "link": "https://t.me/promopassagens/114588",
+  "publicado_em": "2026-11-18T11:45:34+00:00"
+ },
+ {
+  "fonte": "melhoresdestinos.com.br",
+  "tipo": "rss",
+  "titulo": "Prorrogado! Abra sua conta Nomad e ganhe R$ 0,35 de desconto a cada dólar ou euro e acesso à sala VIP!",
+  "link": "https://www.melhoresdestinos.com.br/promocao/prorrogado-11-11-nomad-desconto-dolar-euro-nov26",
+  "publicado_em": "Thu, 12 Nov 2026 14:01:12 +0000",
+  "categorias": []
+ },
+ {
+  "fonte": "melhoresdestinos.com.br",
+  "tipo": "rss",
+  "titulo": "Boa notícia! Voos da Azul para Corumbá, acesso ao Pantanal, passam a ser regulares",
+  "link": "https://www.melhoresdestinos.com.br/voos-corumba-pantanal-azul.html",
+  "publicado_em": "Thu, 12 Nov 2026 13:52:03 +0000",
+  "categorias": [
+   "Aviação",
+   "Azul Linhas Aéreas",
+   "Notícias",
+   "Passagens aéreas"
+  ]
+ },
+ {
+  "fonte": "melhoresdestinos.com.br",
+  "tipo": "rss",
+  "titulo": "Europa 2×1! Passagens aéreas para Portugal mais outro país europeu a partir de R$ 4.370",
+  "link": "https://www.melhoresdestinos.com.br/promocao/europa-2x1-passagens-para-portugal-mais-outro-pais-europeu-12nov26",
+  "publicado_em": "Thu, 12 Nov 2026 13:46:34 +0000",
+  "categorias": []
+ },
+ {
+  "fonte": "melhoresdestinos.com.br",
+  "tipo": "rss",
+  "titulo": "Diversão na Flórida! Passagens para Orlando a partir de R$ 2.604 com boas opções em janeiro, Carnaval e julho",
+  "link": "https://www.melhoresdestinos.com.br/promocao/diversao-na-florida-passagens-para-orlando-12nov26",
+  "publicado_em": "Thu, 12 Nov 2026 12:37:18 +0000",
+  "categorias": []
+ },
+ {
+  "fonte": "melhoresdestinos.com.br",
+  "tipo": "rss",
+  "titulo": "São Paulo e Rio voltam a ter voos para Buenos Aires com companhias de outros continentes",
+  "link": "https://www.melhoresdestinos.com.br/voos-sao-paulo-rio-buenos-aires.html",
+  "publicado_em": "Thu, 12 Nov 2026 12:11:04 +0000",
+  "categorias": [
+   "Aviação",
+   "Notícias",
+   "Passagens aéreas"
+  ]
+ },
+ {
+  "fonte": "melhoresdestinos.com.br",
+  "tipo": "rss",
+  "titulo": "Nordeste! Pacotes baratos para Porto de Galinhas a partir de R$ 1.250 por pessoa em 16x sem juros",
+  "link": "https://www.melhoresdestinos.com.br/promocao/nordeste-pacotes-de-viagem-para-porto-de-galinhas-12nov26",
+  "publicado_em": "Thu, 12 Nov 2026 11:54:27 +0000",
+  "categorias": []
+ },
+ {
+  "fonte": "melhoresdestinos.com.br",
+  "tipo": "rss",
+  "titulo": "Argentina! Passagens para Buenos Aires a partir de R$ 1.405 com bons preços em janeiro",
+  "link": "https://www.melhoresdestinos.com.br/promocao/argentina-passagens-para-buenos-aires-12nov26",
+  "publicado_em": "Thu, 12 Nov 2026 11:07:42 +0000",
+  "categorias": []
+ },
+ {
+  "fonte": "melhoresdestinos.com.br",
+  "tipo": "rss",
+  "titulo": "Bom demais! Voos em classe executiva para Lisboa a partir de R$ 9.124 com datas no final do ano",
+  "link": "https://www.melhoresdestinos.com.br/promocao/portugal-passagens-em-classe-executiva-12nov26",
+  "publicado_em": "Thu, 12 Nov 2026 08:41:36 +0000",
+  "categorias": []
+ },
+ {
+  "fonte": "melhoresdestinos.com.br",
+  "tipo": "rss",
+  "titulo": "A Comunidade Melhores Destinos está no ar! O novo ponto de encontro para quem ama viajar",
+  "link": "https://www.melhoresdestinos.com.br/comunidade-melhores-destinos-lancamento.html",
+  "publicado_em": "Thu, 12 Nov 2026 08:00:51 +0000",
+  "categorias": [
+   "Passagens aéreas"
+  ]
+ },
+ {
+  "fonte": "melhoresdestinos.com.br",
+  "tipo": "rss",
+  "titulo": "Cacau Park! Conhecemos 2 simuladores do parque temático da Cacau Show, um inspirado em atração da Disney",
+  "link": "https://www.melhoresdestinos.com.br/cacau-park-experimentamos-atracoes.html",
+  "publicado_em": "Wed, 11 Nov 2026 23:00:16 +0000",
+  "categorias": [
+   "Notícias"
+  ]
+ },
+ {
+  "fonte": "t.me/melhoresdestinos",
+  "tipo": "telegram",
+  "canal": "melhoresdestinos",
+  "titulo": "Melhores Destinos pinned a photo",
+  "link": "https://t.me/melhoresdestinos/20233",
+  "publicado_em": "2026-11-16T21:35:29+00:00"
+ },
+ {
+  "fonte": "t.me/melhoresdestinos",
+  "tipo": "telegram",
+  "canal": "melhoresdestinos",
+  "titulo": "Inglaterra ou Escócia\n\n Passagens para Londres ou Edimburgo a partir de R$ 4.541 ida e volta!\n\n👉 https://melhores.la/XhsSLZ",
+  "link": "https://t.me/melhoresdestinos/20234",
+  "publicado_em": "2026-11-17T11:02:31+00:00"
+ },
+ {
+  "fonte": "t.me/canalpontospravoar",
+  "tipo": "telegram",
+  "canal": "canalpontospravoar",
+  "titulo": "‌Aproveite! Mercado Livre com até R$ 200 de desconto nesta terça-feira\n\nAutor(a): Rennan Machado\n\nLeia mais em: https://pontospravoar.com/?p=150429",
+  "link": "https://t.me/canalpontospravoar/29233",
+  "publicado_em": "2026-11-17T13:31:53+00:00"
+ },
+ {
+  "fonte": "t.me/promopassagens",
+  "tipo": "telegram",
+  "canal": "promopassagens",
+  "titulo": "🚢 Voe De Recife Para Noronha A Partir De R$ 198 Ou 15 Mil Pontos Azul + Taxas\n #Recife",
+  "link": "https://t.me/promopassagens/114561",
+  "publicado_em": "2026-11-17T17:16:11+00:00"
+ },
+ {
+  "fonte": "t.me/promopassagens",
+  "tipo": "telegram",
+  "canal": "promopassagens",
+  "titulo": "🛩 Topcashback Apresenta Bloqueio Para Usuários No Brasil\n #Brasil",
+  "link": "https://t.me/promopassagens/114562",
+  "publicado_em": "2026-11-17T17:45:56+00:00"
+ },
+ {
+  "fonte": "t.me/promopassagens",
+  "tipo": "telegram",
+  "canal": "promopassagens",
+  "titulo": "🧳 Hotéis Ibis No Rio De Janeiro: Confira Opções A Partir De R$ 216\n #Rio #Rio_De_Janeiro",
+  "link": "https://t.me/promopassagens/114563",
+  "publicado_em": "2026-11-17T17:46:04+00:00"
+ },
+ {
+  "fonte": "t.me/promopassagens",
+  "tipo": "telegram",
+  "canal": "promopassagens",
+  "titulo": "🧭 Povos Originários Da África São Tema De Livro E Exposição Em São Paulo\n #África #São_Paulo",
+  "link": "https://t.me/promopassagens/114564",
+  "publicado_em": "2026-11-17T18:15:46+00:00"
+ },
+ {
+  "fonte": "t.me/promopassagens",
+  "tipo": "telegram",
+  "canal": "promopassagens",
+  "titulo": "🧳 Meu Resgate Favorito! Mouse Vertical, Kindle Paperwhite, Pacote Canoa Quebrada E Mais A Partir De 6 Mil Pontos Azul",
+  "link": "https://t.me/promopassagens/114565",
+  "publicado_em": "2026-11-17T18:16:00+00:00"
+ },
+ {
+  "fonte": "t.me/promopassagens",
+  "tipo": "telegram",
+  "canal": "promopassagens",
+  "titulo": "🚢 Meu Resgate Favorito Tem Pacote Para O Ceará E Produtos A Partir De 6 Mil Pontos",
+  "link": "https://t.me/promopassagens/114566",
+  "publicado_em": "2026-11-17T18:16:06+00:00"
+ },
+ {
+  "fonte": "t.me/promopassagens",
+  "tipo": "telegram",
+  "canal": "promopassagens",
+  "titulo": "🏝 Voltou! Assine O Clube Livelo Mini Por Apenas R$ 24,90 Por Mês",
+  "link": "https://t.me/promopassagens/114567",
+  "publicado_em": "2026-11-17T18:45:45+00:00"
+ },
+ {
+  "fonte": "t.me/promopassagens",
+  "tipo": "telegram",
+  "canal": "promopassagens",
+  "titulo": "🧳 Orange Friday! Smiles Oferece Até 80% De Bônus Na Transferência De Pontos",
+  "link": "https://t.me/promopassagens/114568",
+  "publicado_em": "2026-11-17T18:45:52+00:00"
  },
  {
   "fonte": "t.me/melhoresdestinos",
@@ -803,173 +984,5 @@
   "titulo": "🧭 Azul Friday! Azul Fidelidade Oferece Até 20% De Desconto Em Passagens Nacionais\n #Nacionais",
   "link": "https://t.me/promopassagens/114542",
   "publicado_em": "2026-11-17T12:15:49+00:00"
- },
- {
-  "fonte": "t.me/promopassagens",
-  "tipo": "telegram",
-  "canal": "promopassagens",
-  "titulo": "🚞 Voe Para Madri A Partir De R$ 801 Ou 63 Mil Pontos Azul + Taxas\n #Madri",
-  "link": "https://t.me/promopassagens/114543",
-  "publicado_em": "2026-11-17T12:31:12+00:00"
- },
- {
-  "fonte": "t.me/promopassagens",
-  "tipo": "telegram",
-  "canal": "promopassagens",
-  "titulo": "🧳 De Onde Vieram Seus Antepassados? O Turismo De Raízes Cresce Na Itália\n #Itália",
-  "link": "https://t.me/promopassagens/114544",
-  "publicado_em": "2026-11-17T13:01:15+00:00"
- },
- {
-  "fonte": "t.me/promopassagens",
-  "tipo": "telegram",
-  "canal": "promopassagens",
-  "titulo": "🧭 De Onde Vieram Seus Antepassados? O Turismo De Raízes Cresce Na Itália\n #Itália",
-  "link": "https://t.me/promopassagens/114545",
-  "publicado_em": "2026-11-17T13:15:28+00:00"
- },
- {
-  "fonte": "t.me/promopassagens",
-  "tipo": "telegram",
-  "canal": "promopassagens",
-  "titulo": "💺 Alerta Ppv! Viaje Para Destinos Internacionais A Partir De 30.500 Milhas Smiles\n #Internacionais #Milhas",
-  "link": "https://t.me/promopassagens/114546",
-  "publicado_em": "2026-11-17T13:15:45+00:00"
- },
- {
-  "fonte": "t.me/promopassagens",
-  "tipo": "telegram",
-  "canal": "promopassagens",
-  "titulo": "🛩 Latam Atualiza Critérios Da Política De Alterações Involuntárias De Voos",
-  "link": "https://t.me/promopassagens/114547",
-  "publicado_em": "2026-11-17T14:15:42+00:00"
- },
- {
-  "fonte": "t.me/promopassagens",
-  "tipo": "telegram",
-  "canal": "promopassagens",
-  "titulo": "🏝 Natura Friday! Ganhe Até 24 Pontos Azul Fidelidade Por Real Gasto",
-  "link": "https://t.me/promopassagens/114548",
-  "publicado_em": "2026-11-17T14:15:51+00:00"
- },
- {
-  "fonte": "t.me/promopassagens",
-  "tipo": "telegram",
-  "canal": "promopassagens",
-  "titulo": "🧳 São Cristóvão (Se) Terá Festival Gratuito Com Shows De Gloria Groove E Péricles",
-  "link": "https://t.me/promopassagens/114549",
-  "publicado_em": "2026-11-17T14:30:54+00:00"
- },
- {
-  "fonte": "t.me/promopassagens",
-  "tipo": "telegram",
-  "canal": "promopassagens",
-  "titulo": "🏝 Assine O Clube Smiles 1.000 E Ganhe 14 Mil Milhas Na Hora\n #Milhas",
-  "link": "https://t.me/promopassagens/114550",
-  "publicado_em": "2026-11-17T14:31:08+00:00"
- },
- {
-  "fonte": "t.me/promopassagens",
-  "tipo": "telegram",
-  "canal": "promopassagens",
-  "titulo": "💺 Azul E Natura: Ganhe Até 24 Pontos Por Real Em Compras",
-  "link": "https://t.me/promopassagens/114551",
-  "publicado_em": "2026-11-17T16:01:05+00:00"
- },
- {
-  "fonte": "t.me/promopassagens",
-  "tipo": "telegram",
-  "canal": "promopassagens",
-  "titulo": "🧳 Milheiro A Partir De R$ 1,90! Ganhe Até 20.000 Pontos Azul Na Assinatura Do Sam’S Club",
-  "link": "https://t.me/promopassagens/114552",
-  "publicado_em": "2026-11-17T16:01:10+00:00"
- },
- {
-  "fonte": "t.me/promopassagens",
-  "tipo": "telegram",
-  "canal": "promopassagens",
-  "titulo": "✈️ Voe De São Paulo Para Miami A Partir De R$ 1.190 Ou 49 Mil Milhas Latam Pass + Taxas\n #Miami #Milhas #São_Paulo",
-  "link": "https://t.me/promopassagens/114553",
-  "publicado_em": "2026-11-17T16:01:15+00:00"
- },
- {
-  "fonte": "t.me/promopassagens",
-  "tipo": "telegram",
-  "canal": "promopassagens",
-  "titulo": "💺 Ganhe Até 600 Mil Pontos No Ano Ao Fazer Upgrade Do Clube Azul – Milheiro A Partir De R$ 12,81",
-  "link": "https://t.me/promopassagens/114554",
-  "publicado_em": "2026-11-17T16:01:21+00:00"
- },
- {
-  "fonte": "t.me/promopassagens",
-  "tipo": "telegram",
-  "canal": "promopassagens",
-  "titulo": "🧭 Azul Friday! Garanta 30% Off Em Pacotes E Hotéis Em Recife E Porto De Galinhas Na Azul Viagens\n #Porto #Recife",
-  "link": "https://t.me/promopassagens/114555",
-  "publicado_em": "2026-11-17T16:01:28+00:00"
- },
- {
-  "fonte": "t.me/promopassagens",
-  "tipo": "telegram",
-  "canal": "promopassagens",
-  "titulo": "💺 Livelo Oferece 100.000 Pontos No Upgrade Do Clube Especial",
-  "link": "https://t.me/promopassagens/114556",
-  "publicado_em": "2026-11-17T16:01:32+00:00"
- },
- {
-  "fonte": "t.me/melhoresdestinos",
-  "tipo": "telegram",
-  "canal": "melhoresdestinos",
-  "titulo": "Europa\n\n Passagens para Paris, Bruxelas ou Amsterdã a partir de R$ 4.341 ida e volta\n\n👉 https://melhores.la/wi7JaY",
-  "link": "https://t.me/melhoresdestinos/20211",
-  "publicado_em": "2026-11-16T11:02:23+00:00"
- },
- {
-  "fonte": "t.me/melhoresdestinos",
-  "tipo": "telegram",
-  "canal": "melhoresdestinos",
-  "titulo": "Oportunidade!\n\n Abra a conta Nomad e ganhe até 45 mil milhas Smiles\n\n👉 https://melhores.la/y6Ps3j",
-  "link": "https://t.me/melhoresdestinos/20212",
-  "publicado_em": "2026-11-16T11:17:10+00:00"
- },
- {
-  "fonte": "t.me/melhoresdestinos",
-  "tipo": "telegram",
-  "canal": "melhoresdestinos",
-  "titulo": "Smiles ✈️\n\n Promoção de voos a partir de 5.800 milhas o trecho\n\n👉 https://melhores.la/ZbZxtV",
-  "link": "https://t.me/melhoresdestinos/20213",
-  "publicado_em": "2026-11-16T11:32:33+00:00"
- },
- {
-  "fonte": "t.me/melhoresdestinos",
-  "tipo": "telegram",
-  "canal": "melhoresdestinos",
-  "titulo": "Latam Pass\n\n Voos entre São Paulo e o Recife a partir de 10 mil milhas o trecho\n\n👉 https://melhores.la/vyvU2F",
-  "link": "https://t.me/melhoresdestinos/20214",
-  "publicado_em": "2026-11-16T12:26:50+00:00"
- },
- {
-  "fonte": "t.me/melhoresdestinos",
-  "tipo": "telegram",
-  "canal": "melhoresdestinos",
-  "titulo": "Black Antecipada da Zarpo\n\n Hotéis e resorts a partir de R$ 362 mais cupom de desconto exclusivo de até R$ 800 OFF\n\n👉 https://melhores.la/pdUbTg",
-  "link": "https://t.me/melhoresdestinos/20215",
-  "publicado_em": "2026-11-16T12:53:33+00:00"
- },
- {
-  "fonte": "t.me/melhoresdestinos",
-  "tipo": "telegram",
-  "canal": "melhoresdestinos",
-  "titulo": "Super oportunidade!\n\n Compre milhas Latam Pass com até 66% OFF – milheiro a partir de R$ 23,80\n\n👉 https://melhores.la/CaK9ku",
-  "link": "https://t.me/melhoresdestinos/20216",
-  "publicado_em": "2026-11-16T13:02:22+00:00"
- },
- {
-  "fonte": "t.me/melhoresdestinos",
-  "tipo": "telegram",
-  "canal": "melhoresdestinos",
-  "titulo": "🔎🚗 Aluguel de carro\n\n Nova chance! Diárias com até 60% OFF, mais cupom 10% ou 8% OFF exclusivo\n\n👉 https://melhores.la/re1Qc0",
-  "link": "https://t.me/melhoresdestinos/20217",
-  "publicado_em": "2026-11-16T13:38:57+00:00"
  }
 ]
