@@ -1,5 +1,12 @@
 [
  {
+  "tipo": "bonus",
+  "titulo": "Bonus de 80% (Esfera -> Smiles)",
+  "detalhe": "🎯 TRANSFERÊNCIA BONIFICADA ✈️\n\n📌 Programa de fidelidade: Smiles\n🏦 Programa participante: Todos os parceiros, exceto Esfera.\n📆 Data: Válido até amanhã, dia 18 de novembro de 2026.\n\nBonificação da promoção\n\n•⁠  ⁠80% de bôn",
+  "link": "https://t.me/canalpontospravoar/29242",
+  "criado_em": "2026-11-18T01:01:41+00:00"
+ },
+ {
   "tipo": "preco",
   "titulo": "Lisboa (GRU-LIS) por R$ 2977",
   "detalhe": "Gol, 2 parada(s), voo 2027-02-14. Motivo: abaixo do teto de R$ 3000.",
@@ -1390,13 +1397,6 @@
   "titulo": "Miami (GRU-MIA) por R$ 1724",
   "detalhe": "Gol, Avianca, 2 parada(s), voo 2026-10-28. Motivo: abaixo do teto de R$ 2000.",
   "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20MIA%20on%202026-10-28",
-  "criado_em": "2026-08-29T01:47:41+00:00"
- },
- {
-  "tipo": "preco",
-  "titulo": "Santiago (GRU-SCL) por R$ 740",
-  "detalhe": "LATAM, 0 parada(s), voo 2026-09-28. Motivo: abaixo do teto de R$ 800.",
-  "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20SCL%20on%202026-09-28",
   "criado_em": "2026-08-29T01:47:41+00:00"
  }
 ]
