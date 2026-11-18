@@ -1,6 +1,13 @@
 [
  {
   "tipo": "bonus",
+  "titulo": "Bonus de 130% (Smiles)",
+  "detalhe": "Milheiro a partir de R$ 14!\n\n Troque pontos Premmia por milhas Smiles com até 130% de bônus\n\n👉 https://melhores.la/E69jdU",
+  "link": "https://t.me/melhoresdestinos/20261",
+  "criado_em": "2026-11-18T20:41:52+00:00"
+ },
+ {
+  "tipo": "bonus",
   "titulo": "Bonus de 80% (Esfera -> Smiles)",
   "detalhe": "🎯 TRANSFERÊNCIA BONIFICADA ✈️\n\n📌 Programa de fidelidade: Smiles\n🏦 Programa participante: Todos os parceiros, exceto Esfera.\n📆 Data: Válido até amanhã, dia 18 de novembro de 2026.\n\nBonificação da promoção\n\n•⁠  ⁠80% de bôn",
   "link": "https://t.me/canalpontospravoar/29242",
@@ -1390,13 +1397,6 @@
   "titulo": "Lisboa (GRU-LIS) por R$ 2579",
   "detalhe": "Royal Air Maroc, 1 parada(s), voo 2026-11-27. Motivo: abaixo do teto de R$ 3000.",
   "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20LIS%20on%202026-11-27",
-  "criado_em": "2026-08-29T01:47:41+00:00"
- },
- {
-  "tipo": "preco",
-  "titulo": "Miami (GRU-MIA) por R$ 1724",
-  "detalhe": "Gol, Avianca, 2 parada(s), voo 2026-10-28. Motivo: abaixo do teto de R$ 2000.",
-  "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20MIA%20on%202026-10-28",
   "criado_em": "2026-08-29T01:47:41+00:00"
  }
 ]
