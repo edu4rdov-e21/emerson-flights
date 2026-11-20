@@ -1,23 +1,26 @@
 {
- "gerado_em": "2026-11-19T20:47:55+00:00",
- "duracao_s": 36.4,
- "alertas_na_rodada": 1,
+ "gerado_em": "2026-11-20T02:25:35+00:00",
+ "duracao_s": 112.3,
+ "alertas_na_rodada": 0,
  "fontes": {
   "precos": {
    "ok": true,
-   "itens": 6,
+   "itens": 3,
    "erros": [
-    "GRU-LIS +30d: no flights found; received error",
+    "GRU-LIS +30d: 'NoneType' object has no attribute 'text'",
     "GRU-LIS +60d: 'NoneType' object has no attribute 'text'",
-    "GRU-LIS +90d: no flights found; received error",
-    "GRU-MIA +30d: no flights found; received error",
     "GRU-MIA +60d: no flights found; received error",
-    "GRU-MCO +60d: no flights found; received error",
+    "GRU-MIA +90d: no flights found; received error",
+    "GRU-MCO +30d: no flights found; received error",
+    "GRU-MCO +60d: 'NoneType' object has no attribute 'text'",
     "GRU-MCO +90d: no flights found; received error",
-    "GRU-EZE +60d: no flights found; received error",
-    "GRU-SCL +30d: no flights found; received error",
-    "GRU-SCL +90d: no flights found; received error",
-    "GRU-CUN +60d: no flights found; received error",
+    "GRU-EZE +30d: 'NoneType' object has no attribute 'text'",
+    "GRU-EZE +60d: 'NoneType' object has no attribute 'text'",
+    "GRU-EZE +90d: no flights found; received error",
+    "GRU-SCL +30d: 'NoneType' object has no attribute 'text'",
+    "GRU-SCL +90d: 'NoneType' object has no attribute 'text'",
+    "GRU-CUN +30d: 'NoneType' object has no attribute 'text'",
+    "GRU-CUN +60d: 'NoneType' object has no attribute 'text'",
     "GRU-CUN +90d: 'NoneType' object has no attribute 'text'"
    ]
   },
@@ -33,7 +36,7 @@
   },
   "bonus": {
    "ok": true,
-   "itens": 1
+   "itens": 0
   },
   "webhook": "desligado"
  }
