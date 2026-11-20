@@ -2,6 +2,36 @@
  {
   "fonte": "melhoresdestinos.com.br",
   "tipo": "rss",
+  "titulo": "Feriadão de ofertas ✈️ Gol, Latam e Azul têm  passagens nacionais a partir de R$ 276 ida e volta!",
+  "link": "https://www.melhoresdestinos.com.br/promocao/passagens-aereas-nacionais-19-11-26",
+  "publicado_em": "Thu, 19 Nov 2026 23:59:15 +0000",
+  "categorias": []
+ },
+ {
+  "fonte": "melhoresdestinos.com.br",
+  "tipo": "rss",
+  "titulo": "Brasil emplaca 4 aeroportos nos melhores do mundo da revista TIME – veja quais são!",
+  "link": "https://www.melhoresdestinos.com.br/melhores-aeroportos-do-mundo-time.html",
+  "publicado_em": "Thu, 19 Nov 2026 23:00:53 +0000",
+  "categorias": [
+   "Aeroportos",
+   "Notícias",
+   "Passagens aéreas"
+  ]
+ },
+ {
+  "fonte": "melhoresdestinos.com.br",
+  "tipo": "rss",
+  "titulo": "Só 155 metros! Beco no Rio de Janeiro entra na lista das ruas mais descoladas do mundo em 2026",
+  "link": "https://www.melhoresdestinos.com.br/ruas-mais-descoladas-mundo-2026.html",
+  "publicado_em": "Thu, 19 Nov 2026 21:18:31 +0000",
+  "categorias": [
+   "Notícias"
+  ]
+ },
+ {
+  "fonte": "melhoresdestinos.com.br",
+  "tipo": "rss",
   "titulo": "Gol vai sortear viagens e 300 mil milhas Smiles em nova promoção – veja como participar!",
   "link": "https://www.melhoresdestinos.com.br/gol-sorteio-passagens-milhas.html",
   "publicado_em": "Thu, 19 Nov 2026 19:54:58 +0000",
@@ -63,71 +93,6 @@
   "categorias": [
    "Passagens aéreas"
   ]
- },
- {
-  "fonte": "melhoresdestinos.com.br",
-  "tipo": "rss",
-  "titulo": "Após 1 ano em vigor, polêmica taxa de conexão no Aeroporto de Lima pode ser reduzida – saiba mais",
-  "link": "https://www.melhoresdestinos.com.br/reducao-taxa-conexao-aeroporto-lima.html",
-  "publicado_em": "Thu, 19 Nov 2026 15:14:46 +0000",
-  "categorias": [
-   "Aeroportos",
-   "Aviação",
-   "LATAM",
-   "Notícias"
-  ]
- },
- {
-  "fonte": "melhoresdestinos.com.br",
-  "tipo": "rss",
-  "titulo": "Verão na Bahia! Passagens para Porto Seguro, Salvador e Ilhéus a partir de R$ 573 saindo de Sampa, Rio e mais cidades",
-  "link": "https://www.melhoresdestinos.com.br/promocao/verao-na-bahia-passagens-porto-seguro-salvador-19nov26",
-  "publicado_em": "Thu, 19 Nov 2026 15:01:34 +0000",
-  "categorias": []
- },
- {
-  "fonte": "melhoresdestinos.com.br",
-  "tipo": "rss",
-  "titulo": "Comunidade Melhores Destinos já tem mais de 2 mil participantes – venha fazer parte!",
-  "link": "https://www.melhoresdestinos.com.br/comunidade-melhores-destinos-2-mil-participantes.html",
-  "publicado_em": "Thu, 19 Nov 2026 13:49:24 +0000",
-  "categorias": [
-   "Dicas",
-   "Melhores Destinos",
-   "Notícias"
-  ]
- },
- {
-  "fonte": "t.me/melhoresdestinos",
-  "tipo": "telegram",
-  "canal": "melhoresdestinos",
-  "titulo": "Bom demais!\n\n Abra sua conta Nomad e ganhe R$ 0,40 de desconto a cada dólar ou euro convertido\n\n👉 https://melhores.la/Q3Jm93",
-  "link": "https://t.me/melhoresdestinos/20265",
-  "publicado_em": "2026-11-18T20:10:07+00:00"
- },
- {
-  "fonte": "t.me/melhoresdestinos",
-  "tipo": "telegram",
-  "canal": "melhoresdestinos",
-  "titulo": "Só hoje!\n\n Latam Pass tem voos com até 30% OFF - trechos a partir de R$ 79 ou 3.332 milhas mais taxas\n\n👉 https://melhores.la/U4Ep0w",
-  "link": "https://t.me/melhoresdestinos/20266",
-  "publicado_em": "2026-11-18T21:36:14+00:00"
- },
- {
-  "fonte": "t.me/melhoresdestinos",
-  "tipo": "telegram",
-  "canal": "melhoresdestinos",
-  "titulo": "Só até amanhã!\n\n Melhores hotéis com ofertas especiais e cupom de desconto exclusivo por tempo limitado!\n\n👉 https://melhores.la/ti3xqH",
-  "link": "https://t.me/melhoresdestinos/20267",
-  "publicado_em": "2026-11-18T21:51:52+00:00"
- },
- {
-  "fonte": "t.me/melhoresdestinos",
-  "tipo": "telegram",
-  "canal": "melhoresdestinos",
-  "titulo": "Madrugada de ofertas 🌙\n\n Azul, Latam e Gol têm promoções de voos nacionais a partir de R$ 276 ida e volta!\n\n👉 https://melhores.la/7tTrdE",
-  "link": "https://t.me/melhoresdestinos/20268",
-  "publicado_em": "2026-11-18T22:34:55+00:00"
  },
  {
   "fonte": "t.me/melhoresdestinos",
@@ -258,84 +223,36 @@
   "publicado_em": "2026-11-20T00:04:19+00:00"
  },
  {
-  "fonte": "t.me/canalpontospravoar",
+  "fonte": "t.me/melhoresdestinos",
   "tipo": "telegram",
-  "canal": "canalpontospravoar",
-  "titulo": "‌Smiles prorroga oferta de até 80% de bônus na transferência de pontos\n\nAutor(a): Vinícius Rodrigues\n\nLeia mais em: https://pontospravoar.com/?p=150815",
-  "link": "https://t.me/canalpontospravoar/29279",
-  "publicado_em": "2026-11-19T14:01:02+00:00"
+  "canal": "melhoresdestinos",
+  "titulo": "Termina hoje!\n\n Milhas Latam Pass com até 66% OFF – milheiro a partir de R$ 23,80\n\n👉 https://melhores.la/upIq5O",
+  "link": "https://t.me/melhoresdestinos/20285",
+  "publicado_em": "2026-11-20T12:23:03+00:00"
  },
  {
-  "fonte": "t.me/canalpontospravoar",
+  "fonte": "t.me/melhoresdestinos",
   "tipo": "telegram",
-  "canal": "canalpontospravoar",
-  "titulo": "DISPONIBILIDADE LATAM PASS\n\n📍Brasília (BSB) - Aracaju (AJU)\n\n✈️ LATAM\n\n➡️ 14.755 milhas LATAM Pass + taxas\n\n🗓️ Fevereiro/2027: 16, 17 e 25\n🗓️ Março/2027: 04, 18, 24 e 31\n🗓️ Abril/2027: 01, 02 e 03\n\n👉 Reserve aqui: https://x.gd/sPklt\n\nIndique nossos grupos para os amigos e familia",
-  "link": "https://t.me/canalpontospravoar/29280",
-  "publicado_em": "2026-11-19T14:12:19+00:00"
+  "canal": "melhoresdestinos",
+  "titulo": "Beto Carrero\n\n Black Friday com até 50% OFF! Ingressos por apenas R$ 75, no melhor preço do ano\n\n👉 https://melhores.la/912pKa",
+  "link": "https://t.me/melhoresdestinos/20286",
+  "publicado_em": "2026-11-20T13:29:27+00:00"
  },
  {
-  "fonte": "t.me/canalpontospravoar",
+  "fonte": "t.me/melhoresdestinos",
   "tipo": "telegram",
-  "canal": "canalpontospravoar",
-  "titulo": "‌Black Friday de consórcios! Como aproveitar as condições da Liga Vitória e pontuar na Livelo\n\nAutor(a): Equipe Pontos pra Voar\n\nLeia mais em: https://pontospravoar.com/?p=150717",
-  "link": "https://t.me/canalpontospravoar/29281",
-  "publicado_em": "2026-11-19T14:30:44+00:00"
+  "canal": "melhoresdestinos",
+  "titulo": "⏳ Últimos dias!\n\n Alugue carro com até 60% OFF, mais cupom 10% ou 8% OFF exclusivo da Rentcars\n\n👉 https://melhores.la/fzCuIf",
+  "link": "https://t.me/melhoresdestinos/20287",
+  "publicado_em": "2026-11-20T13:44:44+00:00"
  },
  {
-  "fonte": "t.me/canalpontospravoar",
+  "fonte": "t.me/melhoresdestinos",
   "tipo": "telegram",
-  "canal": "canalpontospravoar",
-  "titulo": "‌Azul Friday! Solicite um cartão Azul Itaú e ganhe até 80 mil pontos\n\nAutor(a): Vinícius Rodrigues\n\nLeia mais em: https://pontospravoar.com/?p=150801",
-  "link": "https://t.me/canalpontospravoar/29282",
-  "publicado_em": "2026-11-19T15:00:26+00:00"
- },
- {
-  "fonte": "t.me/canalpontospravoar",
-  "tipo": "telegram",
-  "canal": "canalpontospravoar",
-  "titulo": "‌Black Friday da XP e Rico turbina pontos e Investback nos cartões e traz ofertas em investimentos\n\nAutor(a): Valdeci Freire\n\nLeia mais em: https://pontospravoar.com/?p=150847",
-  "link": "https://t.me/canalpontospravoar/29283",
-  "publicado_em": "2026-11-19T15:32:03+00:00"
- },
- {
-  "fonte": "t.me/canalpontospravoar",
-  "tipo": "telegram",
-  "canal": "canalpontospravoar",
-  "titulo": "‌Mercado Livre com até R$ 60 de desconto em produtos selecionados\n\nAutor(a): Rennan Machado\n\nLeia mais em: https://pontospravoar.com/?p=150858",
-  "link": "https://t.me/canalpontospravoar/29284",
-  "publicado_em": "2026-11-19T16:00:34+00:00"
- },
- {
-  "fonte": "t.me/canalpontospravoar",
-  "tipo": "telegram",
-  "canal": "canalpontospravoar",
-  "titulo": "DISPONIBILIDADE SMILES\n\n📍Rio de Janeiro (GIG) - Florianópolis (FLN)\n\n✈️ GOL\n\n➡️ 12.800 milhas Smiles + taxas\n\n🗓️ Junho/2027: 07 e 28\n🗓️ Agosto/2027: 10 e 18\n🗓️ Setembro/2027: 18 e 24\n\n👉 Reserve aqui: https://x.gd/tAFRK\n\nIndique nossos grupos para os amigos e familiares:\nhttps://b",
-  "link": "https://t.me/canalpontospravoar/29285",
-  "publicado_em": "2026-11-19T16:04:37+00:00"
- },
- {
-  "fonte": "t.me/canalpontospravoar",
-  "tipo": "telegram",
-  "canal": "canalpontospravoar",
-  "titulo": "‌Blackíssima no Santander Shopping – Categorias para ficar de olho durante o mês de ofertas\n\nAutor(a): Laís Roani\n\nLeia mais em: https://pontospravoar.com/?p=150328",
-  "link": "https://t.me/canalpontospravoar/29286",
-  "publicado_em": "2026-11-19T16:30:18+00:00"
- },
- {
-  "fonte": "t.me/canalpontospravoar",
-  "tipo": "telegram",
-  "canal": "canalpontospravoar",
-  "titulo": "‌Alerta PPV! Confira passagens pelo Brasil a partir de 7.500 milhas Smiles\n\nAutor(a): Vinícius Rodrigues\n\nLeia mais em: https://pontospravoar.com/?p=150804",
-  "link": "https://t.me/canalpontospravoar/29287",
-  "publicado_em": "2026-11-19T17:00:03+00:00"
- },
- {
-  "fonte": "t.me/canalpontospravoar",
-  "tipo": "telegram",
-  "canal": "canalpontospravoar",
-  "titulo": "‌Hotéis ibis Styles com piscina pelo Brasil: confira diárias a partir de R$ 167\n\nAutor(a): Rennan Machado\n\nLeia mais em: https://pontospravoar.com/?p=150585",
-  "link": "https://t.me/canalpontospravoar/29288",
-  "publicado_em": "2026-11-19T18:00:24+00:00"
+  "canal": "melhoresdestinos",
+  "titulo": "Latam Pass\n\n Voos a partir de R$ 78 ou 3.273 milhas o trecho mais taxas\n\n👉 https://melhores.la/NjEOjw",
+  "link": "https://t.me/melhoresdestinos/20288",
+  "publicado_em": "2026-11-20T14:51:05+00:00"
  },
  {
   "fonte": "t.me/canalpontospravoar",
@@ -418,60 +335,84 @@
   "publicado_em": "2026-11-20T11:00:52+00:00"
  },
  {
-  "fonte": "t.me/promopassagens",
+  "fonte": "t.me/canalpontospravoar",
   "tipo": "telegram",
-  "canal": "promopassagens",
-  "titulo": "🗺 Alerta Ppv! Azul Pelo Mundo Oferece Voos Internacionais A Partir De 36 Mil Pontos\n #Internacionais",
-  "link": "https://t.me/promopassagens/114657",
-  "publicado_em": "2026-11-19T19:15:50+00:00"
+  "canal": "canalpontospravoar",
+  "titulo": "‌Clube Livelo Especial oferece 100 mil pontos para novos assinantes\n\nAutor(a): Vinícius Rodrigues\n\nLeia mais em: https://pontospravoar.com/?p=150869",
+  "link": "https://t.me/canalpontospravoar/29299",
+  "publicado_em": "2026-11-20T12:00:43+00:00"
  },
  {
-  "fonte": "t.me/promopassagens",
+  "fonte": "t.me/canalpontospravoar",
   "tipo": "telegram",
-  "canal": "promopassagens",
-  "titulo": "🚞 Jardim Do Seridó (Rn) Recebe Festival Gratuito De Congadas E Tradições Afro-Brasileiras\n #Brasil",
-  "link": "https://t.me/promopassagens/114658",
-  "publicado_em": "2026-11-19T19:31:02+00:00"
+  "canal": "canalpontospravoar",
+  "titulo": "‌Confira 5 promoções de pontos e milhas que encerram hoje!\n\nAutor(a): Vinícius Rodrigues\n\nLeia mais em: https://pontospravoar.com/?p=150877",
+  "link": "https://t.me/canalpontospravoar/29300",
+  "publicado_em": "2026-11-20T13:00:24+00:00"
  },
  {
-  "fonte": "t.me/promopassagens",
+  "fonte": "t.me/canalpontospravoar",
   "tipo": "telegram",
-  "canal": "promopassagens",
-  "titulo": "🚢 Confira A Oportunidade De Gerar O Milheiro Smiles A Partir De R$ 15,91",
-  "link": "https://t.me/promopassagens/114659",
-  "publicado_em": "2026-11-19T20:15:32+00:00"
+  "canal": "canalpontospravoar",
+  "titulo": "‌Confira 5 promoções de pontos e milhas que encerram hoje!\n\nAutor(a): Vinícius Rodrigues\n\nLeia mais em: https://pontospravoar.com/?p=150877",
+  "link": "https://t.me/canalpontospravoar/29301",
+  "publicado_em": "2026-11-20T13:00:25+00:00"
  },
  {
-  "fonte": "t.me/promopassagens",
+  "fonte": "t.me/canalpontospravoar",
   "tipo": "telegram",
-  "canal": "promopassagens",
-  "titulo": "🏝 Último Dia! Azul Fidelidade Oferece Até 120% De Bônus Em Transferências De Pontos",
-  "link": "https://t.me/promopassagens/114660",
-  "publicado_em": "2026-11-19T20:15:40+00:00"
+  "canal": "canalpontospravoar",
+  "titulo": "‌Hotéis em Belo Horizonte, Goiânia e Campo Grande: diárias a partir de R$ 135\n\nAutor(a): Rennan Machado\n\nLeia mais em: https://pontospravoar.com/?p=150590",
+  "link": "https://t.me/canalpontospravoar/29302",
+  "publicado_em": "2026-11-20T14:00:44+00:00"
  },
  {
-  "fonte": "t.me/promopassagens",
+  "fonte": "t.me/canalpontospravoar",
   "tipo": "telegram",
-  "canal": "promopassagens",
-  "titulo": "💺 Azul Viagens Oferece Cupom De Até 25% De Desconto Em Reservas De Hotéis, Carros E Pacotes",
-  "link": "https://t.me/promopassagens/114661",
-  "publicado_em": "2026-11-19T20:31:04+00:00"
+  "canal": "canalpontospravoar",
+  "titulo": "‌Voo da Azul de Guarulhos para Maceió estreia na temporada de verão\n\nAutor(a): Valdeci Freire\n\nLeia mais em: https://pontospravoar.com/?p=150981",
+  "link": "https://t.me/canalpontospravoar/29303",
+  "publicado_em": "2026-11-20T15:11:11+00:00"
  },
  {
-  "fonte": "t.me/promopassagens",
+  "fonte": "t.me/canalpontospravoar",
   "tipo": "telegram",
-  "canal": "promopassagens",
-  "titulo": "✈️ Gol Vai Sortear Viagens E 300 Mil Milhas Smiles Em Nova Promoção – Veja Como Participar!\n #Milhas",
-  "link": "https://t.me/promopassagens/114662",
-  "publicado_em": "2026-11-19T21:15:34+00:00"
+  "canal": "canalpontospravoar",
+  "titulo": "‌Clube Smiles com até 50.000 milhas na hora para novos assinantes\n\nAutor(a): Valdeci Freire\n\nLeia mais em: https://pontospravoar.com/?p=150673",
+  "link": "https://t.me/canalpontospravoar/29304",
+  "publicado_em": "2026-11-20T16:05:54+00:00"
  },
  {
-  "fonte": "t.me/promopassagens",
+  "fonte": "t.me/canalpontospravoar",
   "tipo": "telegram",
-  "canal": "promopassagens",
-  "titulo": "🧭 Black Friday Airalo! Promoção Inédita Tem Chip Virtual De Internet Com Cupom De 25% Off Exclusivo",
-  "link": "https://t.me/promopassagens/114663",
-  "publicado_em": "2026-11-19T21:15:38+00:00"
+  "canal": "canalpontospravoar",
+  "titulo": "‌Campanha da LATAM no Paraná destaca rotas de Curitiba para o Brasil e o exterior\n\nAutor(a): Valdeci Freire\n\nLeia mais em: https://pontospravoar.com/?p=151005",
+  "link": "https://t.me/canalpontospravoar/29305",
+  "publicado_em": "2026-11-20T17:07:48+00:00"
+ },
+ {
+  "fonte": "t.me/canalpontospravoar",
+  "tipo": "telegram",
+  "canal": "canalpontospravoar",
+  "titulo": "‌Azul Fidelidade oferece 5.000 pontos de boas-vindas em novos cadastros\n\nAutor(a): Valdeci Freire\n\nLeia mais em: https://pontospravoar.com/?p=151008",
+  "link": "https://t.me/canalpontospravoar/29306",
+  "publicado_em": "2026-11-20T18:01:05+00:00"
+ },
+ {
+  "fonte": "t.me/canalpontospravoar",
+  "tipo": "telegram",
+  "canal": "canalpontospravoar",
+  "titulo": "‌Tem vídeo novo no YouTube: Entenda o projeto da piscina de ondas aprovada para o Aeroporto de Porto Alegre\n\nAutor(a): Valdeci Freire\n\nLeia mais em: https://pontospravoar.com/?p=151013",
+  "link": "https://t.me/canalpontospravoar/29307",
+  "publicado_em": "2026-11-20T19:00:37+00:00"
+ },
+ {
+  "fonte": "t.me/canalpontospravoar",
+  "tipo": "telegram",
+  "canal": "canalpontospravoar",
+  "titulo": "‌Ainda dá tempo! Garanta o Cartão GOL Smiles sem anuidade e com bônus turbinado\n\nAutor(a): Valdeci Freire\n\nLeia mais em: https://pontospravoar.com/?p=151025",
+  "link": "https://t.me/canalpontospravoar/29308",
+  "publicado_em": "2026-11-20T20:01:47+00:00"
  },
  {
   "fonte": "t.me/promopassagens",
@@ -578,34 +519,261 @@
   "publicado_em": "2026-11-20T11:15:38+00:00"
  },
  {
+  "fonte": "t.me/promopassagens",
+  "tipo": "telegram",
+  "canal": "promopassagens",
+  "titulo": "🗺 Último Dia Para Votar No Prêmio Passageiro De Primeira 2026!",
+  "link": "https://t.me/promopassagens/114677",
+  "publicado_em": "2026-11-20T12:15:36+00:00"
+ },
+ {
+  "fonte": "t.me/promopassagens",
+  "tipo": "telegram",
+  "canal": "promopassagens",
+  "titulo": "🧳 Clube Livelo Especial Oferece 100 Mil Pontos Para Novos Assinantes",
+  "link": "https://t.me/promopassagens/114678",
+  "publicado_em": "2026-11-20T12:15:43+00:00"
+ },
+ {
+  "fonte": "t.me/promopassagens",
+  "tipo": "telegram",
+  "canal": "promopassagens",
+  "titulo": "🚢 Paraty Recebe Festival De Música Com Apresentações Gratuitas Em Espaços Históricos",
+  "link": "https://t.me/promopassagens/114679",
+  "publicado_em": "2026-11-20T13:01:16+00:00"
+ },
+ {
+  "fonte": "t.me/promopassagens",
+  "tipo": "telegram",
+  "canal": "promopassagens",
+  "titulo": "🗺 Livelo Oferece Até 25% Off Em Voos Para O Nordeste E América Do Sul\n #América #Nordeste",
+  "link": "https://t.me/promopassagens/114680",
+  "publicado_em": "2026-11-20T13:01:28+00:00"
+ },
+ {
+  "fonte": "t.me/promopassagens",
+  "tipo": "telegram",
+  "canal": "promopassagens",
+  "titulo": "🗺 Confira 5 Promoções De Pontos E Milhas Que Encerram Hoje!\n #Milhas",
+  "link": "https://t.me/promopassagens/114681",
+  "publicado_em": "2026-11-20T13:15:38+00:00"
+ },
+ {
+  "fonte": "t.me/promopassagens",
+  "tipo": "telegram",
+  "canal": "promopassagens",
+  "titulo": "🚢 Hotéis Em Mendoza Com Até 41% De Desconto + 6% Off Usando O Cupom Do Pp\n #Mendoza",
+  "link": "https://t.me/promopassagens/114682",
+  "publicado_em": "2026-11-20T14:00:57+00:00"
+ },
+ {
+  "fonte": "t.me/promopassagens",
+  "tipo": "telegram",
+  "canal": "promopassagens",
+  "titulo": "🚢 Hotéis Em Belo Horizonte, Goiânia E Campo Grande: Diárias A Partir De R$ 135\n #Campo_Grande #Goiânia",
+  "link": "https://t.me/promopassagens/114683",
+  "publicado_em": "2026-11-20T14:15:42+00:00"
+ },
+ {
   "fonte": "melhoresdestinos.com.br",
   "tipo": "rss",
-  "titulo": "Feriadão de ofertas ✈️ Gol, Latam e Azul têm  passagens nacionais a partir de R$ 276 ida e volta!",
-  "link": "https://www.melhoresdestinos.com.br/promocao/passagens-aereas-nacionais-19-11-26",
-  "publicado_em": "Thu, 19 Nov 2026 23:59:15 +0000",
+  "titulo": "Após 1 ano em vigor, polêmica taxa de conexão no Aeroporto de Lima pode ser reduzida – saiba mais",
+  "link": "https://www.melhoresdestinos.com.br/reducao-taxa-conexao-aeroporto-lima.html",
+  "publicado_em": "Thu, 19 Nov 2026 15:14:46 +0000",
+  "categorias": [
+   "Aeroportos",
+   "Aviação",
+   "LATAM",
+   "Notícias"
+  ]
+ },
+ {
+  "fonte": "melhoresdestinos.com.br",
+  "tipo": "rss",
+  "titulo": "Verão na Bahia! Passagens para Porto Seguro, Salvador e Ilhéus a partir de R$ 573 saindo de Sampa, Rio e mais cidades",
+  "link": "https://www.melhoresdestinos.com.br/promocao/verao-na-bahia-passagens-porto-seguro-salvador-19nov26",
+  "publicado_em": "Thu, 19 Nov 2026 15:01:34 +0000",
   "categorias": []
  },
  {
   "fonte": "melhoresdestinos.com.br",
   "tipo": "rss",
-  "titulo": "Brasil emplaca 4 aeroportos nos melhores do mundo da revista TIME – veja quais são!",
-  "link": "https://www.melhoresdestinos.com.br/melhores-aeroportos-do-mundo-time.html",
-  "publicado_em": "Thu, 19 Nov 2026 23:00:53 +0000",
+  "titulo": "Comunidade Melhores Destinos já tem mais de 2 mil participantes – venha fazer parte!",
+  "link": "https://www.melhoresdestinos.com.br/comunidade-melhores-destinos-2-mil-participantes.html",
+  "publicado_em": "Thu, 19 Nov 2026 13:49:24 +0000",
   "categorias": [
-   "Aeroportos",
-   "Notícias",
-   "Passagens aéreas"
+   "Dicas",
+   "Melhores Destinos",
+   "Notícias"
   ]
  },
  {
-  "fonte": "melhoresdestinos.com.br",
-  "tipo": "rss",
-  "titulo": "Só 155 metros! Beco no Rio de Janeiro entra na lista das ruas mais descoladas do mundo em 2026",
-  "link": "https://www.melhoresdestinos.com.br/ruas-mais-descoladas-mundo-2026.html",
-  "publicado_em": "Thu, 19 Nov 2026 21:18:31 +0000",
-  "categorias": [
-   "Notícias"
-  ]
+  "fonte": "t.me/melhoresdestinos",
+  "tipo": "telegram",
+  "canal": "melhoresdestinos",
+  "titulo": "Bom demais!\n\n Abra sua conta Nomad e ganhe R$ 0,40 de desconto a cada dólar ou euro convertido\n\n👉 https://melhores.la/Q3Jm93",
+  "link": "https://t.me/melhoresdestinos/20265",
+  "publicado_em": "2026-11-18T20:10:07+00:00"
+ },
+ {
+  "fonte": "t.me/melhoresdestinos",
+  "tipo": "telegram",
+  "canal": "melhoresdestinos",
+  "titulo": "Só hoje!\n\n Latam Pass tem voos com até 30% OFF - trechos a partir de R$ 79 ou 3.332 milhas mais taxas\n\n👉 https://melhores.la/U4Ep0w",
+  "link": "https://t.me/melhoresdestinos/20266",
+  "publicado_em": "2026-11-18T21:36:14+00:00"
+ },
+ {
+  "fonte": "t.me/melhoresdestinos",
+  "tipo": "telegram",
+  "canal": "melhoresdestinos",
+  "titulo": "Só até amanhã!\n\n Melhores hotéis com ofertas especiais e cupom de desconto exclusivo por tempo limitado!\n\n👉 https://melhores.la/ti3xqH",
+  "link": "https://t.me/melhoresdestinos/20267",
+  "publicado_em": "2026-11-18T21:51:52+00:00"
+ },
+ {
+  "fonte": "t.me/melhoresdestinos",
+  "tipo": "telegram",
+  "canal": "melhoresdestinos",
+  "titulo": "Madrugada de ofertas 🌙\n\n Azul, Latam e Gol têm promoções de voos nacionais a partir de R$ 276 ida e volta!\n\n👉 https://melhores.la/7tTrdE",
+  "link": "https://t.me/melhoresdestinos/20268",
+  "publicado_em": "2026-11-18T22:34:55+00:00"
+ },
+ {
+  "fonte": "t.me/canalpontospravoar",
+  "tipo": "telegram",
+  "canal": "canalpontospravoar",
+  "titulo": "‌Smiles prorroga oferta de até 80% de bônus na transferência de pontos\n\nAutor(a): Vinícius Rodrigues\n\nLeia mais em: https://pontospravoar.com/?p=150815",
+  "link": "https://t.me/canalpontospravoar/29279",
+  "publicado_em": "2026-11-19T14:01:02+00:00"
+ },
+ {
+  "fonte": "t.me/canalpontospravoar",
+  "tipo": "telegram",
+  "canal": "canalpontospravoar",
+  "titulo": "DISPONIBILIDADE LATAM PASS\n\n📍Brasília (BSB) - Aracaju (AJU)\n\n✈️ LATAM\n\n➡️ 14.755 milhas LATAM Pass + taxas\n\n🗓️ Fevereiro/2027: 16, 17 e 25\n🗓️ Março/2027: 04, 18, 24 e 31\n🗓️ Abril/2027: 01, 02 e 03\n\n👉 Reserve aqui: https://x.gd/sPklt\n\nIndique nossos grupos para os amigos e familia",
+  "link": "https://t.me/canalpontospravoar/29280",
+  "publicado_em": "2026-11-19T14:12:19+00:00"
+ },
+ {
+  "fonte": "t.me/canalpontospravoar",
+  "tipo": "telegram",
+  "canal": "canalpontospravoar",
+  "titulo": "‌Black Friday de consórcios! Como aproveitar as condições da Liga Vitória e pontuar na Livelo\n\nAutor(a): Equipe Pontos pra Voar\n\nLeia mais em: https://pontospravoar.com/?p=150717",
+  "link": "https://t.me/canalpontospravoar/29281",
+  "publicado_em": "2026-11-19T14:30:44+00:00"
+ },
+ {
+  "fonte": "t.me/canalpontospravoar",
+  "tipo": "telegram",
+  "canal": "canalpontospravoar",
+  "titulo": "‌Azul Friday! Solicite um cartão Azul Itaú e ganhe até 80 mil pontos\n\nAutor(a): Vinícius Rodrigues\n\nLeia mais em: https://pontospravoar.com/?p=150801",
+  "link": "https://t.me/canalpontospravoar/29282",
+  "publicado_em": "2026-11-19T15:00:26+00:00"
+ },
+ {
+  "fonte": "t.me/canalpontospravoar",
+  "tipo": "telegram",
+  "canal": "canalpontospravoar",
+  "titulo": "‌Black Friday da XP e Rico turbina pontos e Investback nos cartões e traz ofertas em investimentos\n\nAutor(a): Valdeci Freire\n\nLeia mais em: https://pontospravoar.com/?p=150847",
+  "link": "https://t.me/canalpontospravoar/29283",
+  "publicado_em": "2026-11-19T15:32:03+00:00"
+ },
+ {
+  "fonte": "t.me/canalpontospravoar",
+  "tipo": "telegram",
+  "canal": "canalpontospravoar",
+  "titulo": "‌Mercado Livre com até R$ 60 de desconto em produtos selecionados\n\nAutor(a): Rennan Machado\n\nLeia mais em: https://pontospravoar.com/?p=150858",
+  "link": "https://t.me/canalpontospravoar/29284",
+  "publicado_em": "2026-11-19T16:00:34+00:00"
+ },
+ {
+  "fonte": "t.me/canalpontospravoar",
+  "tipo": "telegram",
+  "canal": "canalpontospravoar",
+  "titulo": "DISPONIBILIDADE SMILES\n\n📍Rio de Janeiro (GIG) - Florianópolis (FLN)\n\n✈️ GOL\n\n➡️ 12.800 milhas Smiles + taxas\n\n🗓️ Junho/2027: 07 e 28\n🗓️ Agosto/2027: 10 e 18\n🗓️ Setembro/2027: 18 e 24\n\n👉 Reserve aqui: https://x.gd/tAFRK\n\nIndique nossos grupos para os amigos e familiares:\nhttps://b",
+  "link": "https://t.me/canalpontospravoar/29285",
+  "publicado_em": "2026-11-19T16:04:37+00:00"
+ },
+ {
+  "fonte": "t.me/canalpontospravoar",
+  "tipo": "telegram",
+  "canal": "canalpontospravoar",
+  "titulo": "‌Blackíssima no Santander Shopping – Categorias para ficar de olho durante o mês de ofertas\n\nAutor(a): Laís Roani\n\nLeia mais em: https://pontospravoar.com/?p=150328",
+  "link": "https://t.me/canalpontospravoar/29286",
+  "publicado_em": "2026-11-19T16:30:18+00:00"
+ },
+ {
+  "fonte": "t.me/canalpontospravoar",
+  "tipo": "telegram",
+  "canal": "canalpontospravoar",
+  "titulo": "‌Alerta PPV! Confira passagens pelo Brasil a partir de 7.500 milhas Smiles\n\nAutor(a): Vinícius Rodrigues\n\nLeia mais em: https://pontospravoar.com/?p=150804",
+  "link": "https://t.me/canalpontospravoar/29287",
+  "publicado_em": "2026-11-19T17:00:03+00:00"
+ },
+ {
+  "fonte": "t.me/canalpontospravoar",
+  "tipo": "telegram",
+  "canal": "canalpontospravoar",
+  "titulo": "‌Hotéis ibis Styles com piscina pelo Brasil: confira diárias a partir de R$ 167\n\nAutor(a): Rennan Machado\n\nLeia mais em: https://pontospravoar.com/?p=150585",
+  "link": "https://t.me/canalpontospravoar/29288",
+  "publicado_em": "2026-11-19T18:00:24+00:00"
+ },
+ {
+  "fonte": "t.me/promopassagens",
+  "tipo": "telegram",
+  "canal": "promopassagens",
+  "titulo": "🗺 Alerta Ppv! Azul Pelo Mundo Oferece Voos Internacionais A Partir De 36 Mil Pontos\n #Internacionais",
+  "link": "https://t.me/promopassagens/114657",
+  "publicado_em": "2026-11-19T19:15:50+00:00"
+ },
+ {
+  "fonte": "t.me/promopassagens",
+  "tipo": "telegram",
+  "canal": "promopassagens",
+  "titulo": "🚞 Jardim Do Seridó (Rn) Recebe Festival Gratuito De Congadas E Tradições Afro-Brasileiras\n #Brasil",
+  "link": "https://t.me/promopassagens/114658",
+  "publicado_em": "2026-11-19T19:31:02+00:00"
+ },
+ {
+  "fonte": "t.me/promopassagens",
+  "tipo": "telegram",
+  "canal": "promopassagens",
+  "titulo": "🚢 Confira A Oportunidade De Gerar O Milheiro Smiles A Partir De R$ 15,91",
+  "link": "https://t.me/promopassagens/114659",
+  "publicado_em": "2026-11-19T20:15:32+00:00"
+ },
+ {
+  "fonte": "t.me/promopassagens",
+  "tipo": "telegram",
+  "canal": "promopassagens",
+  "titulo": "🏝 Último Dia! Azul Fidelidade Oferece Até 120% De Bônus Em Transferências De Pontos",
+  "link": "https://t.me/promopassagens/114660",
+  "publicado_em": "2026-11-19T20:15:40+00:00"
+ },
+ {
+  "fonte": "t.me/promopassagens",
+  "tipo": "telegram",
+  "canal": "promopassagens",
+  "titulo": "💺 Azul Viagens Oferece Cupom De Até 25% De Desconto Em Reservas De Hotéis, Carros E Pacotes",
+  "link": "https://t.me/promopassagens/114661",
+  "publicado_em": "2026-11-19T20:31:04+00:00"
+ },
+ {
+  "fonte": "t.me/promopassagens",
+  "tipo": "telegram",
+  "canal": "promopassagens",
+  "titulo": "✈️ Gol Vai Sortear Viagens E 300 Mil Milhas Smiles Em Nova Promoção – Veja Como Participar!\n #Milhas",
+  "link": "https://t.me/promopassagens/114662",
+  "publicado_em": "2026-11-19T21:15:34+00:00"
+ },
+ {
+  "fonte": "t.me/promopassagens",
+  "tipo": "telegram",
+  "canal": "promopassagens",
+  "titulo": "🧭 Black Friday Airalo! Promoção Inédita Tem Chip Virtual De Internet Com Cupom De 25% Off Exclusivo",
+  "link": "https://t.me/promopassagens/114663",
+  "publicado_em": "2026-11-19T21:15:38+00:00"
  },
  {
   "fonte": "t.me/canalpontospravoar",
@@ -827,173 +995,5 @@
   "titulo": "🧳 Blackíssima No Santander Shopping – Categorias Para Ficar De Olho Durante O Mês De Ofertas",
   "link": "https://t.me/promopassagens/114646",
   "publicado_em": "2026-11-19T16:30:38+00:00"
- },
- {
-  "fonte": "t.me/promopassagens",
-  "tipo": "telegram",
-  "canal": "promopassagens",
-  "titulo": "🛩 Cartões De Crédito Sem Anuidade Que Oferecem Acesso A Salas Vip",
-  "link": "https://t.me/promopassagens/114647",
-  "publicado_em": "2026-11-19T16:45:37+00:00"
- },
- {
-  "fonte": "t.me/promopassagens",
-  "tipo": "telegram",
-  "canal": "promopassagens",
-  "titulo": "🚢 Bebê Brasileiro Vestido De Papa Rouba A Cena Em Encontro Com Leão Xiv No Vaticano\n #Brasil",
-  "link": "https://t.me/promopassagens/114648",
-  "publicado_em": "2026-11-19T17:01:22+00:00"
- },
- {
-  "fonte": "t.me/promopassagens",
-  "tipo": "telegram",
-  "canal": "promopassagens",
-  "titulo": "🏝 Alerta Ppv! Confira Passagens Pelo Brasil A Partir De 7.500 Milhas Smiles\n #Brasil #Milhas",
-  "link": "https://t.me/promopassagens/114649",
-  "publicado_em": "2026-11-19T17:01:54+00:00"
- },
- {
-  "fonte": "t.me/promopassagens",
-  "tipo": "telegram",
-  "canal": "promopassagens",
-  "titulo": "✈️ São Paulo Terá Festival Gratuito De Comida Coreana Com Shows De K-Pop\n #São_Paulo",
-  "link": "https://t.me/promopassagens/114650",
-  "publicado_em": "2026-11-19T17:15:35+00:00"
- },
- {
-  "fonte": "t.me/promopassagens",
-  "tipo": "telegram",
-  "canal": "promopassagens",
-  "titulo": "🧳 Como Acumular Milhas E Pontos Na Compra Do Gta Vi\n #Milhas",
-  "link": "https://t.me/promopassagens/114651",
-  "publicado_em": "2026-11-19T17:31:00+00:00"
- },
- {
-  "fonte": "t.me/promopassagens",
-  "tipo": "telegram",
-  "canal": "promopassagens",
-  "titulo": "✈️ São Paulo: Festival Mário De Andrade Terá Feira De Livros E Shows Gratuitos De Negra Li E Evinha\n #São_Paulo",
-  "link": "https://t.me/promopassagens/114652",
-  "publicado_em": "2026-11-19T18:15:51+00:00"
- },
- {
-  "fonte": "t.me/melhoresdestinos",
-  "tipo": "telegram",
-  "canal": "melhoresdestinos",
-  "titulo": "EUA 2x1 🇺🇸\n\n Voos para Miami mais Orlando, Los Angeles e outras cidades a partir de R$ 4.184, com bagagem despachada\n\n👉 https://melhores.la/8UMOVp",
-  "link": "https://t.me/melhoresdestinos/20252",
-  "publicado_em": "2026-11-17T21:41:12+00:00"
- },
- {
-  "fonte": "t.me/melhoresdestinos",
-  "tipo": "telegram",
-  "canal": "melhoresdestinos",
-  "titulo": "Prorrogado!\n\n Smiles oferece até 80% de bônus na transferência de pontos do cartão de crédito\n\n👉 https://melhores.la/c0MPHK",
-  "link": "https://t.me/melhoresdestinos/20253",
-  "publicado_em": "2026-11-18T11:00:59+00:00"
- },
- {
-  "fonte": "t.me/melhoresdestinos",
-  "tipo": "telegram",
-  "canal": "melhoresdestinos",
-  "titulo": "Argentina\n\n Seleção de passagens para Buenos Aires a partir de R$ 1.563 saindo de Floripa, Rio e mais cidades\n\n👉 https://melhores.la/IVR3xP",
-  "link": "https://t.me/melhoresdestinos/20254",
-  "publicado_em": "2026-11-18T11:17:20+00:00"
- },
- {
-  "fonte": "t.me/melhoresdestinos",
-  "tipo": "telegram",
-  "canal": "melhoresdestinos",
-  "titulo": "Estados Unidos\n\n Passagens aéreas para Nova York ou Boston por R$ 2.812 saindo do Rio e mais cidades!\n\n👉 https://melhores.la/sEyme8",
-  "link": "https://t.me/melhoresdestinos/20255",
-  "publicado_em": "2026-11-18T12:21:03+00:00"
- },
- {
-  "fonte": "t.me/melhoresdestinos",
-  "tipo": "telegram",
-  "canal": "melhoresdestinos",
-  "titulo": "Paraíso natural\n\n Pacotes para Fernando de Noronha a partir de R$ 2.542 por pessoa em 16x sem juros!\n\n👉 https://melhores.la/hGbk6Q",
-  "link": "https://t.me/melhoresdestinos/20256",
-  "publicado_em": "2026-11-18T14:03:05+00:00"
- },
- {
-  "fonte": "t.me/melhoresdestinos",
-  "tipo": "telegram",
-  "canal": "melhoresdestinos",
-  "titulo": "Porto Alegre\n\n Azul tem voos saindo de São Paulo a partir de R$ 71 ou 5.600 pontos o trecho mais taxas\n\n👉 https://melhores.la/tYuvgI",
-  "link": "https://t.me/melhoresdestinos/20257",
-  "publicado_em": "2026-11-18T14:25:00+00:00"
- },
- {
-  "fonte": "t.me/melhoresdestinos",
-  "tipo": "telegram",
-  "canal": "melhoresdestinos",
-  "titulo": "Ótimo preço!\n\n Passagens da Latam para a Ilha de Páscoa a partir de R$ 2.428 ida e volta\n\n👉 https://melhores.la/tftlhC",
-  "link": "https://t.me/melhoresdestinos/20258",
-  "publicado_em": "2026-11-18T14:41:51+00:00"
- },
- {
-  "fonte": "t.me/melhoresdestinos",
-  "tipo": "telegram",
-  "canal": "melhoresdestinos",
-  "titulo": "Clube Livelo Mini\n\n Ganhe 4.000 pontos extras com nosso cupom exclusivo\n\n👉 https://melhores.la/GaC08m",
-  "link": "https://t.me/melhoresdestinos/20259",
-  "publicado_em": "2026-11-18T15:13:01+00:00"
- },
- {
-  "fonte": "t.me/melhoresdestinos",
-  "tipo": "telegram",
-  "canal": "melhoresdestinos",
-  "titulo": "Qatar Airways 2x1\n\n Passagens aéreas para Dubai mais Doha a partir de R$ 5.461!\n\n👉 https://melhores.la/1cTAIJ",
-  "link": "https://t.me/melhoresdestinos/20260",
-  "publicado_em": "2026-11-18T15:29:32+00:00"
- },
- {
-  "fonte": "t.me/melhoresdestinos",
-  "tipo": "telegram",
-  "canal": "melhoresdestinos",
-  "titulo": "Milheiro a partir de R$ 14!\n\n Troque pontos Premmia por milhas Smiles com até 130% de bônus\n\n👉 https://melhores.la/E69jdU",
-  "link": "https://t.me/melhoresdestinos/20261",
-  "publicado_em": "2026-11-18T16:24:10+00:00"
- },
- {
-  "fonte": "t.me/melhoresdestinos",
-  "tipo": "telegram",
-  "canal": "melhoresdestinos",
-  "titulo": "Espanha 🇪🇸\n\n Passagens aéreas para Madri ou Barcelona a partir de R$ 3.541 ida e volta!\n\n👉 https://melhores.la/DYy4qb",
-  "link": "https://t.me/melhoresdestinos/20262",
-  "publicado_em": "2026-11-18T18:31:01+00:00"
- },
- {
-  "fonte": "t.me/melhoresdestinos",
-  "tipo": "telegram",
-  "canal": "melhoresdestinos",
-  "titulo": "Muito bom! 💳\n\n Cartão de crédito Azul Itaú com até 80 mil pontos bônus!\n\n👉 https://melhores.la/ATgfJ9",
-  "link": "https://t.me/melhoresdestinos/20263",
-  "publicado_em": "2026-11-18T19:05:08+00:00"
- },
- {
-  "fonte": "t.me/canalpontospravoar",
-  "tipo": "telegram",
-  "canal": "canalpontospravoar",
-  "titulo": "‌Shell Box libera desconto de até R$ 7 no abastecimento nesta quarta-feira\n\nAutor(a): Vinícius Rodrigues\n\nLeia mais em: https://pontospravoar.com/?p=150599",
-  "link": "https://t.me/canalpontospravoar/29255",
-  "publicado_em": "2026-11-18T13:00:11+00:00"
- },
- {
-  "fonte": "t.me/canalpontospravoar",
-  "tipo": "telegram",
-  "canal": "canalpontospravoar",
-  "titulo": "‌Segue valendo! Revolut oferece 3.000 RevPoints gastando a partir de R$ 150\n\nAutor(a): Equipe Pontos pra Voar\n\nLeia mais em: https://pontospravoar.com/?p=150689",
-  "link": "https://t.me/canalpontospravoar/29256",
-  "publicado_em": "2026-11-18T13:34:23+00:00"
- },
- {
-  "fonte": "t.me/canalpontospravoar",
-  "tipo": "telegram",
-  "canal": "canalpontospravoar",
-  "titulo": "‌Alerta PPV! Viaje para os Estados Unidos com passagens a partir de 65 mil milhas Smiles\n\nAutor(a): Vinícius Rodrigues\n\nLeia mais em: https://pontospravoar.com/?p=150623",
-  "link": "https://t.me/canalpontospravoar/29257",
-  "publicado_em": "2026-11-18T14:00:44+00:00"
  }
 ]
