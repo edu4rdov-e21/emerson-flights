@@ -1,12 +1,15 @@
 {
- "gerado_em": "2026-11-22T19:50:09+00:00",
- "duracao_s": 38.4,
+ "gerado_em": "2026-11-23T01:49:24+00:00",
+ "duracao_s": 36.7,
  "alertas_na_rodada": 0,
  "fontes": {
   "precos": {
    "ok": true,
-   "itens": 18,
-   "erros": []
+   "itens": 16,
+   "erros": [
+    "GRU-MIA +90d: 'NoneType' object has no attribute 'text'",
+    "GRU-SCL +60d: 'NoneType' object has no attribute 'text'"
+   ]
   },
   "rss": {
    "ok": true,
