@@ -1,6 +1,13 @@
 [
  {
   "tipo": "bonus",
+  "titulo": "Bonus de 80% (Smiles)",
+  "detalhe": "Voltou!\n\n Smiles oferece até 80% de bônus na transferência de pontos do cartão\n\n👉 https://melhores.la/bIHGFu",
+  "link": "https://t.me/melhoresdestinos/20307",
+  "criado_em": "2026-11-24T02:20:10+00:00"
+ },
+ {
+  "tipo": "bonus",
   "titulo": "Bonus de 375% (Smiles)",
   "detalhe": "‌Smiles com bônus de até 375% na compra de milhas\n\nAutor(a): Valdeci Freire\n\nLeia mais em: https://pontospravoar.com/?p=151049",
   "link": "https://t.me/canalpontospravoar/29315",
@@ -1390,13 +1397,6 @@
   "titulo": "Santiago (GRU-SCL) por R$ 745",
   "detalhe": "LATAM, 0 parada(s), voo 2026-11-28. Motivo: abaixo do teto de R$ 800.",
   "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20SCL%20on%202026-11-28",
-  "criado_em": "2026-08-30T05:31:50+00:00"
- },
- {
-  "tipo": "preco",
-  "titulo": "Cancún (GRU-CUN) por R$ 1294",
-  "detalhe": "COPA, 1 parada(s), voo 2026-10-29. Motivo: abaixo do teto de R$ 1300.",
-  "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20CUN%20on%202026-10-29",
   "criado_em": "2026-08-30T05:31:50+00:00"
  }
 ]
