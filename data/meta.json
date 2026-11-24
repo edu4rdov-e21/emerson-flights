@@ -1,23 +1,12 @@
 {
- "gerado_em": "2026-11-24T13:57:03+00:00",
+ "gerado_em": "2026-11-24T23:57:17+00:00",
  "duracao_s": 37.3,
- "alertas_na_rodada": 0,
+ "alertas_na_rodada": 1,
  "fontes": {
   "precos": {
    "ok": true,
-   "itens": 8,
-   "erros": [
-    "GRU-LIS +60d: 'NoneType' object has no attribute 'text'",
-    "GRU-LIS +90d: no flights found; received error",
-    "GRU-MIA +90d: no flights found; received error",
-    "GRU-MCO +30d: no flights found; received error",
-    "GRU-EZE +30d: no flights found; received error",
-    "GRU-EZE +60d: no flights found; received error",
-    "GRU-SCL +30d: no flights found; received error",
-    "GRU-SCL +60d: no flights found; received error",
-    "GRU-SCL +90d: no flights found; received error",
-    "GRU-CUN +60d: no flights found; received error"
-   ]
+   "itens": 18,
+   "erros": []
   },
   "rss": {
    "ok": true,
@@ -31,7 +20,7 @@
   },
   "bonus": {
    "ok": true,
-   "itens": 0
+   "itens": 2
   },
   "webhook": "desligado"
  }

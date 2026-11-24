@@ -1,6 +1,13 @@
 [
  {
   "tipo": "bonus",
+  "titulo": "Bonus de 320% (Azul Fidelidade)",
+  "detalhe": "‌Últimas horas: Compre pontos Azul Fidelidade com até 320% de bônus\n\nAutor(a): Rennan Machado\n\nLeia mais em: https://pontospravoar.com/?p=151634",
+  "link": "https://t.me/canalpontospravoar/29390",
+  "criado_em": "2026-11-24T23:57:17+00:00"
+ },
+ {
+  "tipo": "bonus",
   "titulo": "Bonus de 80% (Smiles)",
   "detalhe": "Voltou!\n\n Smiles oferece até 80% de bônus na transferência de pontos do cartão\n\n👉 https://melhores.la/bIHGFu",
   "link": "https://t.me/melhoresdestinos/20307",
@@ -1390,13 +1397,6 @@
   "titulo": "Santiago (GRU-SCL) por R$ 776",
   "detalhe": "LATAM, 1 parada(s), voo 2026-10-29. Motivo: abaixo do teto de R$ 800.",
   "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20SCL%20on%202026-10-29",
-  "criado_em": "2026-08-30T05:31:50+00:00"
- },
- {
-  "tipo": "preco",
-  "titulo": "Santiago (GRU-SCL) por R$ 745",
-  "detalhe": "LATAM, 0 parada(s), voo 2026-11-28. Motivo: abaixo do teto de R$ 800.",
-  "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20SCL%20on%202026-11-28",
   "criado_em": "2026-08-30T05:31:50+00:00"
  }
 ]
