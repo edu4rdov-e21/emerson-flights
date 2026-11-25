@@ -2,6 +2,14 @@
  {
   "fonte": "melhoresdestinos.com.br",
   "tipo": "rss",
+  "titulo": "Bom demais! Cupom exclusivo de 10% OFF no aluguel de carro na Black Friday Rentcars + até 60% de desconto",
+  "link": "https://www.melhoresdestinos.com.br/promocao/black-friday-rent-cars-2026-10-off",
+  "publicado_em": "Mon, 23 Nov 2026 11:23:02 +0000",
+  "categorias": []
+ },
+ {
+  "fonte": "melhoresdestinos.com.br",
+  "tipo": "rss",
   "titulo": "Últimas horas! Abra sua conta Nomad e ganhe R$ 0,40 de desconto a cada dólar ou euro convertido",
   "link": "https://www.melhoresdestinos.com.br/promocao/nomad-oferta-bf-23nov26",
   "publicado_em": "Mon, 23 Nov 2026 11:03:51 +0000",
@@ -81,16 +89,6 @@
   "categorias": [
    "Cartões de Crédito",
    "Dicas"
-  ]
- },
- {
-  "fonte": "melhoresdestinos.com.br",
-  "tipo": "rss",
-  "titulo": "Maior parque aquático de Minas Gerais já tem data para ser inaugurado!",
-  "link": "https://www.melhoresdestinos.com.br/maior-parque-aquatico-minas-gerais-inauguracao-data.html",
-  "publicado_em": "Sat, 21 Nov 2026 17:00:06 +0000",
-  "categorias": [
-   "Notícias"
   ]
  },
  {
@@ -574,6 +572,16 @@
   "publicado_em": "2026-11-24T23:15:41+00:00"
  },
  {
+  "fonte": "melhoresdestinos.com.br",
+  "tipo": "rss",
+  "titulo": "Maior parque aquático de Minas Gerais já tem data para ser inaugurado!",
+  "link": "https://www.melhoresdestinos.com.br/maior-parque-aquatico-minas-gerais-inauguracao-data.html",
+  "publicado_em": "Sat, 21 Nov 2026 17:00:06 +0000",
+  "categorias": [
+   "Notícias"
+  ]
+ },
+ {
   "fonte": "t.me/melhoresdestinos",
   "tipo": "telegram",
   "canal": "melhoresdestinos",
@@ -964,13 +972,5 @@
   "titulo": "🚞 Último Dia! Latam Pass Oferece 27% De Bônus Na Transferência De Pontos Livelo",
   "link": "https://t.me/promopassagens/114800",
   "publicado_em": "2026-11-24T12:16:31+00:00"
- },
- {
-  "fonte": "t.me/promopassagens",
-  "tipo": "telegram",
-  "canal": "promopassagens",
-  "titulo": "🗺 Muito Bom! Ganhe Até 100.000 Milhas Bônus Ao Pedir O Cartão Latam Pass Itaú Mastercard Black Ou Platinum\n #Milhas",
-  "link": "https://t.me/promopassagens/114801",
-  "publicado_em": "2026-11-24T12:45:40+00:00"
  }
 ]

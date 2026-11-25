@@ -1,5 +1,19 @@
 [
  {
+  "tipo": "preco",
+  "titulo": "Lisboa (GRU-LIS) por R$ 2891",
+  "detalhe": "Royal Air Maroc, 1 parada(s), voo 2027-02-23. Motivo: abaixo do teto de R$ 3000.",
+  "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20LIS%20on%202027-02-23",
+  "criado_em": "2026-11-25T08:50:01+00:00"
+ },
+ {
+  "tipo": "preco",
+  "titulo": "Buenos Aires (GRU-EZE) por R$ 737",
+  "detalhe": "LATAM, 1 parada(s), voo 2027-01-24. Motivo: abaixo do teto de R$ 800.",
+  "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20EZE%20on%202027-01-24",
+  "criado_em": "2026-11-25T08:50:01+00:00"
+ },
+ {
   "tipo": "bonus",
   "titulo": "Bonus de 320% (Azul Fidelidade)",
   "detalhe": "‌Últimas horas: Compre pontos Azul Fidelidade com até 320% de bônus\n\nAutor(a): Rennan Machado\n\nLeia mais em: https://pontospravoar.com/?p=151634",
@@ -1384,19 +1398,5 @@
   "detalhe": "LATAM, 0 parada(s), voo 2026-11-29. Motivo: abaixo do teto de R$ 800.",
   "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20SCL%20on%202026-11-29",
   "criado_em": "2026-08-31T05:46:30+00:00"
- },
- {
-  "tipo": "preco",
-  "titulo": "Santiago (GRU-SCL) por R$ 745",
-  "detalhe": "LATAM, 0 parada(s), voo 2026-09-29. Motivo: abaixo do teto de R$ 800.",
-  "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20SCL%20on%202026-09-29",
-  "criado_em": "2026-08-30T05:31:50+00:00"
- },
- {
-  "tipo": "preco",
-  "titulo": "Santiago (GRU-SCL) por R$ 776",
-  "detalhe": "LATAM, 1 parada(s), voo 2026-10-29. Motivo: abaixo do teto de R$ 800.",
-  "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20SCL%20on%202026-10-29",
-  "criado_em": "2026-08-30T05:31:50+00:00"
  }
 ]
