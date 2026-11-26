@@ -1,5 +1,12 @@
 [
  {
+  "tipo": "preco",
+  "titulo": "Lisboa (GRU-LIS) por R$ 2890",
+  "detalhe": "Royal Air Maroc, 1 parada(s), voo 2027-02-24. Motivo: abaixo do teto de R$ 3000.",
+  "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20LIS%20on%202027-02-24",
+  "criado_em": "2026-11-26T03:38:52+00:00"
+ },
+ {
   "tipo": "bonus",
   "titulo": "Bonus de 80% (Livelo -> Smiles)",
   "detalhe": "Só hoje!\n\n Até 80% de bônus na transferência de pontos Livelo para a Smiles\n\n👉 https://melhores.la/9X2hmK",
@@ -1390,13 +1397,6 @@
   "titulo": "Lisboa (GRU-LIS) por R$ 2591",
   "detalhe": "Gol, Air Europa, 2 parada(s), voo 2026-11-29. Motivo: abaixo do teto de R$ 3000.",
   "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20LIS%20on%202026-11-29",
-  "criado_em": "2026-08-31T05:46:30+00:00"
- },
- {
-  "tipo": "preco",
-  "titulo": "Santiago (GRU-SCL) por R$ 745",
-  "detalhe": "LATAM, 0 parada(s), voo 2026-09-30. Motivo: abaixo do teto de R$ 800.",
-  "link": "https://www.google.com/travel/flights?hl=pt-BR&curr=BRL&q=Flights%20from%20GRU%20to%20SCL%20on%202026-09-30",
   "criado_em": "2026-08-31T05:46:30+00:00"
  }
 ]
